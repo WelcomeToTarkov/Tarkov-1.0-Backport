@@ -1,0 +1,88 @@
+{
+  "6cc7d60178706926401b7c8d": {
+    "itemTplToClone": "5734781f24597737e04bf32a",
+    "parentId": "ELECTRONICS",
+    "handbookParentId": "BARTER_ELECTRONICS",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "barter/fluke_87v.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.355,
+      "Height": 2,
+      "Width": 1
+    },
+    "locales": {
+      "en": {
+        "name": "Fluke 87V Industrial Multimeter",
+        "shortName": "Fluke 87V",
+        "description": "The Fluke 87V Industrial Multimeter provides the resolution and accuracy to efficiently troubleshoot motor drives, plant automation, power distribution, and electromechanical equipment - even in loud, high-energy, and high-altitude locations. This particular example marked with a toolbox number, used by EpicRangeTime himself and marked with his name."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 184250,
+    "handbookPriceRoubles": 70000,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+        "probability": 1200
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE",
+        "probability": 1200
+      },
+      {
+        "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+        "probability": 1200
+      },
+      {
+        "containerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+        "probability": 1200
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 1200
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 1200
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG_ADV",
+        "probability": 1200
+      },
+      {
+        "containerName": "LOOTCONTAINER_GROUND_CACHE",
+        "probability": 1200
+      },
+      {
+        "containerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
+        "probability": 1200
+      },
+      {
+        "containerName": "LOOTCONTAINER_TECHNICAL_SUPPLY_CRATE",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_TOOLBOX",
+        "probability": 2800
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

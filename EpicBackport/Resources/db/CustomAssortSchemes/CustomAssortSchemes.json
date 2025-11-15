@@ -1,0 +1,80 @@
+{
+    "PRAPOR": {
+        "items": [
+            {
+                "_id": "5c06212dd3505c453cf79540",
+                "_tpl": "b7d643dc4b783b2805c743c9",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "UnlimitedCount": false,
+                    "StackObjectsCount": 3,
+                    "BuyRestrictionMax": 2,
+                    "BuyRestrictionCurrent": 0
+                }
+            },
+            {
+                "_id": "5d827eed3521a083e6090240",
+                "_tpl": "58864a4f2459770fcc257101",
+                "parentId": "5c06212dd3505c453cf79540",
+                "slotId": "cartridges",
+                "location": 0,
+                "upd": {
+                    "StackObjectsCount": 900
+                }
+            }
+        ],
+        "barter_scheme": {
+            "5c06212dd3505c453cf79540": [
+                [
+                    {
+                        "count": 41000,
+                        "_tpl": "5449016a4bdc2d6f028b456f"
+                    }
+                ]
+            ]
+        },
+        "loyal_level_items": {
+            "5c06212dd3505c453cf79540": 1
+        }
+    },
+    "MECHANIC": {
+        "items": [
+            {
+                "_id": "3ff86de26c53d7c17bb019df",
+                "_tpl": "b7d643dc4b783b2805c743c9",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "UnlimitedCount": false,
+                    "StackObjectsCount": 2,
+                    "BuyRestrictionMax": 1,
+                    "BuyRestrictionCurrent": 0
+                }
+            },
+            {
+                "_id": "a6f4b885383c0832b7145829",
+                "_tpl": "58864a4f2459770fcc257101",
+                "parentId": "3ff86de26c53d7c17bb019df",
+                "slotId": "cartridges",
+                "location": 0,
+                "upd": {
+                    "StackObjectsCount": 900
+                }
+            }
+        ],
+        "barter_scheme": {
+            "3ff86de26c53d7c17bb019df": [
+                [
+                    {
+                        "count": 36000,
+                        "_tpl": "5449016a4bdc2d6f028b456f"
+                    }
+                ]
+            ]
+        },
+        "loyal_level_items": {
+            "3ff86de26c53d7c17bb019df": 3
+        }
+    }
+}

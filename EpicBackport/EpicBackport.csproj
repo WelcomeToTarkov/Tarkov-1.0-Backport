@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>EpicBackport</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>Library</OutputType>
+    <Version>1.0.0</Version>
+    <!-- The two lines below will set the output path for the binaries -->
+    <OutputPath>bin\$(Configuration)\$(ProjectName)\$(AssemblyName)-$(Version)\</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <AssemblyName>EpicBackport</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SPTarkov.Common" Version="4.0.3" />
+    <PackageReference Include="SPTarkov.DI" Version="4.0.3" />
+    <PackageReference Include="SPTarkov.Server.Core" Version="4.0.3" />
+    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\bundles\" />
+    <Folder Include="Resources\res\" />
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="@echo off&#xA;setlocal enabledelayedexpansion&#xA;&#xA;REM Set variables&#xA;set MODNAME=$(TargetName)&#xA;set DLLPATH=$(TargetDir)$(TargetName).dll&#xA;set OUTDIR=..\..\..\SPT\user\mods\%MODNAME%&#xA;set RESOURCESDIR=$(ProjectDir)Resources&#xA;&#xA;REM Create output directory if it doesn't exist&#xA;if not exist &quot;%OUTDIR%&quot; mkdir &quot;%OUTDIR%&quot;&#xA;&#xA;REM Clear the output directory (except the dll we're about to copy)&#xA;if exist &quot;%OUTDIR%&quot; (&#xA;    for /d %%D in (&quot;%OUTDIR%\*&quot;) do rmdir /s /q &quot;%%D&quot;&#xA;    for %%F in (&quot;%OUTDIR%\*&quot;) do (&#xA;        if /i not &quot;%%~nxF&quot;==&quot;$(TargetName).dll&quot; del /q &quot;%%F&quot;&#xA;    )&#xA;)&#xA;&#xA;REM Copy the DLL file&#xA;copy /Y &quot;%DLLPATH%&quot; &quot;%OUTDIR%\&quot; &gt;nul 2&gt;&amp;1&#xA;echo [PostBuild] Copied %MODNAME%.dll&#xA;&#xA;REM Copy all contents from Resources folder recursively&#xA;if exist &quot;%RESOURCESDIR%&quot; (&#xA;    xcopy &quot;%RESOURCESDIR%&quot; &quot;%OUTDIR%&quot; /E /I /Y &gt;nul 2&gt;&amp;1&#xA;    echo [PostBuild] Copied Resources to output directory&#xA;) else (&#xA;    echo [PostBuild] Warning: Resources folder not found at %RESOURCESDIR%&#xA;)&#xA;&#xA;echo [PostBuild] Build output: %OUTDIR%" />
+  </Target>
+</Project>
