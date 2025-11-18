@@ -2,10 +2,10 @@
   "691897048568323f8204ab16": {
     "itemTplToClone": "54491c4f4bdc2db1078b4568",
     "parentId": "5447b6094bdc2dc3278b4567",
-    "handbookParentId": "5b5f794b86f77409407a7f92",
+    "handbookParentId": "5b5f798886f77447ed5636b5",
     "overrideProperties": {
       "Prefab": {
-        "path": "Mods/Marlin/marlin_container.bundle",
+        "path": "backported_assets/assets/content/weapons/mxlr/weapon_marlin_m1895_mxlr_784x49_container.bundle",
         "rcid": ""
       },
       "Slots": [
@@ -186,7 +186,7 @@
         "Level3": 800,
         "Name": "MXLR",
         "Templates": [
-          "678fe4a4906c7bd23722c71f"
+          "691897048568323f8204ab16"
         ]
       }
     ]
@@ -197,7 +197,7 @@
     "handbookParentId": "5b5f754a86f774094242f19b",
     "overrideProperties": {
       "Prefab": {
-        "path": "Mods/Marlin/mag_m1895_marlin_mxlr_784x49_5.bundle",
+        "path": "backported_assets/assets/content/items/mods/magazines/mag_m1895_marlin_mxlr_784x49_5.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 1,
@@ -205,7 +205,7 @@
         {
           "_name": "cartridges",
           "_id": "5d25a4a98abbc30b917421a6",
-          "_parent": "5d25a4a98abbc30b917421a4",
+          "_parent": "691900358a0412e58506f762",
           "_max_count": 5,
           "_props": {
             "filters": [
@@ -272,7 +272,7 @@
     "handbookParentId": "5b5f74cc86f77447ec5d770a",
     "overrideProperties": {
       "Prefab": {
-        "path": "Mods/Marlin/hammer_m1895_marlin_mxlr_std.bundle",
+        "path": "backported_assets/assets/content/items/mods/mechanics/hammer_m1895_marlin_mxlr_std.bundle",
         "rcid": ""
       }
     },
@@ -327,7 +327,7 @@
     "handbookParentId": "5b5f74cc86f77447ec5d770a",
     "overrideProperties": {
       "Prefab": {
-        "path": "Mods/Marlin/trigger_m1895_marlin_mxlr_std.bundle",
+        "path": "backported_assets/assets/content/items/mods/mechanics/trigger_m1895_marlin_mxlr_std.bundle",
         "rcid": ""
       }
     },
@@ -382,7 +382,7 @@
     "handbookParentId": "5b5f751486f77447ec5d770c",
     "overrideProperties": {
       "Prefab": {
-        "path": "Mods/Marlin/charge_m1895_marlin_mxlr_std.bundle",
+        "path": "backported_assets/assets/content/items/mods/charges/charge_m1895_marlin_mxlr_std.bundle",
         "rcid": ""
       },
       "Ergonomics": 3
@@ -438,7 +438,7 @@
     "handbookParentId": "5b5f75c686f774094242f19f",
     "overrideProperties": {
       "Prefab": {
-        "path": "Mods/Marlin/barrel_m1895_marlin_610mm_784x49.bundle",
+        "path": "backported_assets/assets/content/items/mods/barrels/barrel_m1895_marlin_610mm_784x49.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 2,
@@ -573,7 +573,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "Mods/Marlin/mount_m1895_xs_marlin_optic_mount.bundle",
+        "path": "backported_assets/assets/content/items/mods/mounts/mount_m1895_xs_marlin_optic_mount.bundle",
         "rcid": ""
       },
       "Ergonomics": -0.5,
@@ -683,7 +683,7 @@
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
-        "path": "Mods/Marlin/stock_m1895_marlin_mxlr_std.bundle",
+        "path": "backported_assets/assets/content/items/mods/stocks/stock_m1895_marlin_mxlr_std.bundle",
         "rcid": ""
       },
       "Recoil": -24,
@@ -769,7 +769,7 @@
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
       "Prefab": {
-        "path": "Mods/Marlin/handguard_m1895_marlin_mxlr_std.bundle",
+        "path": "backported_assets/assets/content/items/mods/handguards/handguard_m1895_marlin_mxlr_std.bundle",
         "rcid": ""
       },
       "ExtraSizeLeft": 3,

@@ -32,8 +32,8 @@ public class EpicsBackport(
     {
         Assembly assembly = Assembly.GetExecutingAssembly();
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
-        await wttCommon.CustomAssortSchemeService.CreateCustomAssortSchemes(assembly);
-        await wttCommon.CustomWeaponPresetService.CreateCustomWeaponPresets(assembly);
+        //await wttCommon.CustomAssortSchemeService.CreateCustomAssortSchemes(assembly);
+        //await wttCommon.CustomWeaponPresetService.CreateCustomWeaponPresets(assembly);
         await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
     }
 }
