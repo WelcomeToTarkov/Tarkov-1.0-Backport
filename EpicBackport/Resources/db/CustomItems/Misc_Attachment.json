@@ -196,7 +196,7 @@
           "_proto": "55d30c4c4bdc2db4468b457e"
         },
         {
-          "_name": "mod_stock",
+          "_name": "mod_stock_000",
           "_id": "691cd8b7deca0a34ee56edf2",
           "_parent": "691cd0d1075cdc305956edef",
           "_props": {
@@ -235,6 +235,7 @@
             "filters": [
               {
                 "Filter": [
+                  "691d4149c3850b433c56edf4"
                 ],
                 "Shift": 0
               }
@@ -250,7 +251,7 @@
       "en": {
         "name": "VPO-215 tactical chassis",
         "shortName": "VPO-215 tac.",
-        "description": "The Advanced Target Pointer Illuminator Aiming Laser (ATPIAL) produced by L3 Technologies is a rugged, combat-proven and easy-to-use aiming system with integrated infrared and visible aim lasers as well as an infrared illuminator."
+        "description": "A tactical chassis for the VPO-215 Gornostay hunting rifle."
       }
     },
     "addtoInventorySlots": [],
@@ -278,6 +279,219 @@
           "barters": [
             {
               "count": 12847,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "691d4149c3850b433c56edf4": {
+    "itemTplToClone": "55d48a634bdc2d8b2f8b456a",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "backported_assets/assets/content/items/mods/mounts/mount_vpo215_molot_vpo_215_tactical_front_rail.bundle",
+        "rcid": ""
+      },
+      "CanPutIntoDuringTheRaid": true,
+      "Ergonomics": 1,
+      "Slots": [
+        {
+          "_name": "mod_tactical",
+          "_id": "691d414dab5686e4ab56edf5",
+          "_parent": "691d4149c3850b433c56edf4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "VPO-215 tactical chassis front rail",
+        "shortName": "VPO-215 rail",
+        "description": "A front rail for the VPO-215 tactical chassis. Allows installation of tactical equipment."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 15028,
+    "handbookPriceRoubles": 1102,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "JAEGER": {
+        "691d41b71cd98b03ed56edfa": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 2130,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "691d41be8275bc030856edfb": {
+    "itemTplToClone": "5de65547883dde217541644b",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "backported_assets/assets/content/items/mods/barrels/barrel_vpo215_360mm_366tkm.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "5de655be4a9f347bc92edb88"
+      ],
+      "CanPutIntoDuringTheRaid": false,
+      "Recoil": -3,
+      "Ergonomics": -2,
+      "HeatFactor": 1.045,
+      "DurabilityBurnModificator": 1.06,
+      "Velocity": -10.8,
+      "CenterOfImpact": 0.047,
+      "ExtraSizeLeft": 2,
+      "Width": 2,
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "691d4497a5635dc4f356ee07",
+          "_parent": "691d41be8275bc030856edfb",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a9fbb74a2750c0032157181",
+                  "5de6556a205ddc616a6bc4f7",
+                  "691d43869fe29600d356ee02"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "VPO-215 .366TKM 360mm barrel",
+        "shortName": "215 360mm",
+        "description": "A 360mm barrel for the VPO-215 chambered in .366TKM."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 22541,
+    "handbookPriceRoubles": 6734,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "JAEGER": {
+        "691d42fbd90f5d964456ee00": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 10000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "691d43869fe29600d356ee02": {
+    "itemTplToClone": "5de6556a205ddc616a6bc4f7",
+    "parentId": "550aa4dd4bdc2dc9348b4569",
+    "handbookParentId": "5b5f72f786f77447ec5d7702",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "backported_assets/assets/content/items/mods/muzzle/muzzle_vpo215_molot_vpo_215_thread_protector_tactical_366tkm.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "VPO-215 tactical thread protector",
+        "shortName": "215 thr.",
+        "description": "A tactical threading protection cap for the VPO-215 .366TKM rifle barrel."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 299,
+    "handbookPriceRoubles": 55,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "JAEGER": {
+        "691d43e7716c6a856d56ee06": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 315,
               "_tpl": "MONEY_ROUBLES"
             }
           ]

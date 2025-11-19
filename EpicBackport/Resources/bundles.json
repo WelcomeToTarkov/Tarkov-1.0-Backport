@@ -1129,6 +1129,9 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
+        "backported_assets/assets/content/items/mods/magazines/mag_ak74_magpul_pmag_30_ak74_gen_m3_545x39_30_diffs",
+        "backported_assets/assets/content/items/mods/magazines/mag_ak74_magpul_pmag_30_ak74_gen_m3_545x39_30_gloss_nrm",
+        "backported_assets/assets/content/items/mods/magazines/mag_ak74_magpul_pmag_30_ak74_gen_m3_545x39_30_mesh",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },

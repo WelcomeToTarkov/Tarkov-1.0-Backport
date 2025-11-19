@@ -124,7 +124,7 @@
               }
             ]
           },
-          "_required": true,
+          "_required": false,
           "_mergeSlotWithChildren": false,
           "_proto": "55d30c4c4bdc2db4468b457e"
         },
@@ -247,7 +247,7 @@
     "fleaPriceRoubles": 140000,
     "handbookPriceRoubles": 90000,
     "addtoTraders": true,
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
@@ -285,7 +285,25 @@
       "Prefab": {
         "path": "backported_assets/assets/content/items/mods/mechanics/hammer_m1895_marlin_mxlr_std.bundle",
         "rcid": ""
-      }
+      },
+      "Slots": [
+        {
+          "_name": "mod_tactical",
+          "_id": "691d5052ea115f85d35ffe78",
+          "_parent": "691900358a0412e58506f764",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
     },
     "locales": {
       "en": {
@@ -302,7 +320,7 @@
     "fleaPriceRoubles": 4562,
     "handbookPriceRoubles": 4121,
     "addtoTraders": true,
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
@@ -357,7 +375,7 @@
     "fleaPriceRoubles": 4562,
     "handbookPriceRoubles": 4121,
     "addtoTraders": true,
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
@@ -413,7 +431,7 @@
     "fleaPriceRoubles": 4562,
     "handbookPriceRoubles": 4121,
     "addtoTraders": true,
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
@@ -443,6 +461,55 @@
       }
     ]
   },
+  "691d44d052225c132856ee08": {
+    "itemTplToClone": "691900358a0412e58506f768",
+    "parentId": "55818a6f4bdc2db9688b456b",
+    "handbookParentId": "5b5f751486f77447ec5d770c",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "backported_assets/assets/content/items/mods/charges/charge_m1895_ranger_point_precision_medium_loop_lever.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 5
+    },
+    "locales": {
+      "en": {
+        "name": "M1895/MXLR Ranger Point Precision medium loop lever",
+        "shortName": "MXLR loop",
+        "description": "An extended loop lever for M1895 rifles and compatibles. Manufactured by Ranger Point Precision."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_charge"
+    ],
+    "fleaPriceRoubles": 5926,
+    "handbookPriceRoubles": 2222,
+    "addtoTraders": true,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "691d45ad03fe655e1e56ee09": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3790,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "staticLootContainers": [],
+    "masterySections": []
+  },
   "691900358a0412e58506f76a": {
     "itemTplToClone": "5d2703038abbc3105103d94c",
     "parentId": "555ef6e44bdc2de9068b457e",
@@ -460,6 +527,42 @@
       "CoolFactor": 0.95,
       "CenterOfImpact": 0.065,
       "Slots": [
+        {
+          "_name": "mod_sight_front",
+          "_id": "691d4c56337f13faa95ffe6b",
+          "_parent": "691900358a0412e58506f76a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "691d4d1a6b1b420d9f5ffe6e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_rear",
+          "_id": "691d4cd00bee7d3ca55ffe6d",
+          "_parent": "691900358a0412e58506f76a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "691d4d7f3a0741bf505ffe6f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
         {
           "_name": "mod_muzzle",
           "_id": "5d2703038abbc3105103d94e",
@@ -598,7 +701,7 @@
             "filters": [
               {
                 "Filter": [
-                  
+                  "691d4e0df2cc5237555ffe70"
                 ],
                 "Shift": 0
               }
@@ -871,14 +974,7 @@
         }
       }
     },
-    "masterySections": [
-      {
-        "Name": "M4",
-        "Templates": [
-          "4b81488c78c8a8ac7d37f9b9"
-        ]
-      }
-    ]
+    "masterySections": []
   },
   "6919052a8a0412e58506f770": {
     "itemTplToClone": "5888976c24597754281f93f5",
@@ -946,5 +1042,364 @@
         }
       }
     }
+  },
+  "691d46b6691574d7eb56ee0c": {
+    "itemTplToClone": "6919052a8a0412e58506f770",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "backported_assets/assets/content/items/mods/handguards/handguard_m1895_magpul_elg_m_lok.bundle.bundle",
+        "rcid": ""
+      },
+      "ExtraSizeLeft": 3,
+      "CoolFactor": 0.982,
+      "Recoil": -1.5,
+      "Ergonomics": 4,
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "691d46bb2f56920feb56ee0d",
+          "_parent": "691d46b6691574d7eb56ee0c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57cffb66245977632f391a99",
+                  "57cffcd624597763133760c5",
+                  "57cffcdd24597763f5110006",
+                  "57cffce524597763b31685d8",
+                  "5b7be4895acfc400170e2dd5",
+                  "651a8bf3a8520e48047bf708",
+                  "651a8e529829226ceb67c319",
+                  "665d5d9e338229cfd6078da1",
+                  "665edce564fb556f940ab32a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "691d470cb51de086c456ee0e",
+          "_parent": "691d46b6691574d7eb56ee0c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "691d470cb51de086c456ee0e",
+          "_parent": "691d46b6691574d7eb56ee0c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "691d470cb51de086c456ee0e",
+          "_parent": "691d46b6691574d7eb56ee0c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b7be47f5acfc400170e2dd2",
+                  "6269220d70b6c02e665f2635",
+                  "6269545d0e57f218e4548ca2",
+                  "669a6a4a525be1d2d004b8eb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "M1895/MXLR Magpul ELG M-LOK handguard",
+        "shortName": "ELG",
+        "description": "A handguard for M1895 rifles and compatibles. Equipped with an M-LOK surface interface for installation of tactical equipment. Manufactured by Magpul."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 6269,
+    "handbookPriceRoubles": 4243,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "691d469f577d7cf86056ee0b": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 6450,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "691d47404d5326229756ee0f": {
+    "itemTplToClone": "691d46b6691574d7eb56ee0c",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "backported_assets/assets/content/items/mods/handguards/handguard_m1895_magpul_elg_m_lok_fde.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "M1895/MXLR Magpul ELG M-LOK handguard (FDE)",
+        "shortName": "ELG",
+        "description": "A handguard for M1895 rifles and compatibles. Equipped with an M-LOK surface interface for installation of tactical equipment. Manufactured by Magpul. Flat Dark Earth version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": true,
+    "fleaPriceRoubles": 6269,
+    "handbookPriceRoubles": 4243,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "JAEGER": {
+        "691d474f5023598b2956ee10": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 6450,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "691d4d1a6b1b420d9f5ffe6e": {
+    "itemTplToClone": "5e8708d4ae379e67d22e0102",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "backported_assets/assets/content/items/mods/sights_front/sight_front_m1895_marlin_mxlr_std.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -1,
+      "Weight": 0.002
+    },
+    "locales": {
+      "en": {
+        "name": "MXLR standard front sight",
+        "shortName": "MXLR FS",
+        "description": "Standard front sight for the Marlin MXLR rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 239,
+    "handbookPriceRoubles": 50,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "JAEGER": {
+        "691d51aa093f07f58a558843": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 4
+          },
+          "barters": [
+            {
+              "count": 240,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "691d4d7f3a0741bf505ffe6f": {
+    "itemTplToClone": "5e87114fe2db31558c75a120",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "backported_assets/assets/content/items/mods/sights_rear/sight_rear_m1895_marlin_mxlr_std.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "6919052a8a0412e58506f76c"
+      ],
+      "Ergonomics": -1,
+      "Weight": 0.002
+    },
+    "locales": {
+      "en": {
+        "name": "MXLR standard rear sight",
+        "shortName": "MXLR RS",
+        "description": "Standard rear sight for the Marlin MXLR rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 239,
+    "handbookPriceRoubles": 50,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "JAEGER": {
+        "691d4ca04b4f4f35555ffe6c": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 4
+          },
+          "barters": [
+            {
+              "count": 240,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "691d4e0df2cc5237555ffe70": {
+    "itemTplToClone": "5e8708d4ae379e67d22e0102",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "backported_assets/assets/content/items/mods/sights_rear/sight_rear_m1895_xs_marlin_ghost_ring.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -1,
+      "Weight": 0.002
+    },
+    "locales": {
+      "en": {
+        "name": "M1895/MXLR XS ghost ring rear sight",
+        "shortName": "XS RS",
+        "description": "A custom Ghost Ring rear sight for the Marlin MXLR rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 800,
+    "handbookPriceRoubles": 503,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "masterySections": []
   }
 }
