@@ -1,0 +1,38 @@
+{
+  "691e8c98f0fd277639f876c3": {
+    "itemTplToClone": "67458730df3c1da90b0b052b",
+    "parentId": "5448e53e4bdc2d60728b4567",
+    "handbookParentId": "5b5f6f6c86f774093f2ecf0b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "backported_assets/assets/content/items/equipment/backpack_bd_modular_pack_45/item_equipment_backpack_bd_modular_pack_45.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "CanSellOnRagfair": false,
+      "Weight": 2.965,
+      "cellsH": 5,
+      "cellsV": 9
+    },
+    "locales": {
+      "en": {
+        "name": "Tasmanian Tiger Modular Pack 45 (Multicam Black)",
+        "shortName": "Modular Pack 45",
+        "description": "A modular, universal deployment backpack with removable lid. The front opening of this deployment backpack can be fully raised, and the lid can be height-adjusted or removed."
+      }
+    },
+    "clearClonedProps": false,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [ ],
+    "ModdableItemWhitelist": [],
+    "ModdableItemBlacklist": [],
+    "fleaPriceRoubles": 550,
+    "handbookPriceRoubles": 121234,
+    "addtoTraders": false,
+    "traders": {},
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": []
+  }
+}
