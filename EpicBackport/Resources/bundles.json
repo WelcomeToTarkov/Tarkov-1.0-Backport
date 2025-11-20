@@ -1682,6 +1682,22 @@
       ]
     },
     {
+      "key": "backported_assets/assets/content/items/mods/stocks/stock_ar15_cgnl_stock_tube.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "backported_assets/assets/content/items/mods/stocks/stock_ar15_cgnl_stock_tube_fde.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "backported_assets/assets/content/items/mods/stocks/stock_ak_jmac_rsa_1913_adapter.bundle",
       "dependencyKeys": [
         "shaders",
@@ -2169,6 +2185,14 @@
       ]
     },
     {
+      "key": "backported_assets/assets/content/weapons/nl545/textures/client_assets.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "backported_assets/assets/content/weapons/nl545/weapon_cgnl_nl545_545x39_container.bundle",
       "dependencyKeys": [
         "shaders",
@@ -2180,6 +2204,8 @@
         "assets/systems/effects/muzzleflash/muzzleflash.bundle",
         "assets/content/audio/weapons/generic",
         "assets/content/audio/blendoptions/assets.bundle",
+        "backported_assets/assets/content/weapons/nl545/client_assets.bundle",
+        "backported_assets/assets/content/weapons/nl545/textures/client_assets.bundle",
         "assets/content/weapons/additional_hands/client_assets.bundle"
       ]
     },
@@ -2195,15 +2221,9 @@
         "assets/systems/effects/muzzleflash/muzzleflash.bundle",
         "assets/content/audio/weapons/generic",
         "assets/content/audio/blendoptions/assets.bundle",
+        "backported_assets/assets/content/weapons/nl545/client_assets.bundle",
+        "backported_assets/assets/content/weapons/nl545/textures/client_assets.bundle",
         "assets/content/weapons/additional_hands/client_assets.bundle"
-      ]
-    },
-    {
-      "key": "backported_assets/assets/content/weapons/nl545/textures/client_assets.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
