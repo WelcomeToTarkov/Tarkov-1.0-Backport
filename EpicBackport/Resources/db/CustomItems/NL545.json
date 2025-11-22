@@ -647,7 +647,7 @@
       "Width": 2,
       "Height": 1,
       "Recoil": -1,
-      "Weight": 0.132
+      "Weight": 0.132,
     },
     "locales": {
       "en": {
@@ -684,7 +684,8 @@
       "Width": 2,
       "Height": 1,
       "Recoil": -1,
-      "Weight": 0.132
+      "Weight": 0.132,
+      "ExtraSizeLeft": 2
     },
     "locales": {
       "en": {
@@ -709,7 +710,7 @@
     "masterySections": []
   },
   "69218ad7535551e26c1262e5": {
-    "itemTplToClone": "5ea16acdfadf1d18c87b0784",
+    "itemTplToClone": "5ea16ada09aa976f2e7a51be",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -718,10 +719,11 @@
         "rcid": ""
       },
       "Ergonomics": 10,
-      "Width": 2,
+      "Width": 3,
       "Height": 1,
       "Recoil": -1.5,
-      "Weight": 0.48
+      "Weight": 0.48,
+      "ExtraSizeLeft": 2
     },
     "locales": {
       "en": {
