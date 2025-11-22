@@ -2414,7 +2414,7 @@
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
-    }
+    },
     {
       "key": "backported_assets/assets/content/audio/phrases/bear_05_nikita_voice.bundle",
       "dependencyKeys": [
@@ -2425,6 +2425,49 @@
     },
     {
       "key": "backported_assets/assets/content/audio/phrases/usec_08_nikita_voice.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "backported_assets/assets/content/hands/bear/bear_hands_watch_textures.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "backported_assets/assets/content/hands/bear/bear_watch.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "backported_assets/assets/content/hands/bear/bear_hands_watch_textures.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "backported_assets/assets/content/characters/character/prefabs/top_bear_sumrak_reverse_side.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "backported_assets/assets/content/hands/hands_bear_sumrak/hands_bear_sumrak_reverse_side.skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "backported_assets/assets/content/hands/bear/bear_hands_watch_textures.bundle",
+        "backported_assets/assets/content/hands/bear/bear_watch.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "backported_assets/assets/content/characters/character/prefabs/pants_bear_sumrak_emr.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
