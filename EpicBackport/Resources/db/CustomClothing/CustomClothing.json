@@ -1,2 +1,68 @@
-{
-}
+[
+  {
+    "type": "top",
+    "suiteId": "692186146536e2565ee7cf7d",
+    "outfitId": "69218615ae04a9018ee7cf7e",
+    "topId": "69218616df2b18744be7cf7f",
+    "handsId": "692186160980041b81e7cf80",
+    "bottomId": null,
+    "side": [
+      "bear"
+    ],
+    "locales": {
+      "en": {
+        "name": "BEAR Sumrak Reversed",
+        "description": "Tactical Jacket"
+      }
+    },
+    "topBundlePath": "backported_assets/assets/content/characters/character/prefabs/top_bear_sumrak_reverse_side.bundle",
+    "handsBundlePath": "backported_assets/assets/content/hands/hands_bear_sumrak/hands_bear_sumrak_reverse_side.skin.bundle",
+    "traderId": "RAGMAN",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0.00,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 0,
+    "watchPrefab": {
+      "path": "",
+      "rcid": ""
+    },
+    "watchPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "watchRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "skillRequirements": [],
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "692186b9599dd28d8fe7cf82",
+    "outfitId": "692186b833187914e4e7cf81",
+    "bottomId": "692186ba2ec6b78e44e7cf83",
+    "side": [
+      "bear"
+    ],
+    "locales": {
+      "en": {
+        "name": "BEAR Sumrak (EMR)",
+        "description": "Combat Pants"
+      }
+    },
+    "bottomBundlePath": "backported_assets/assets/content/characters/character/prefabs/pants_bear_sumrak_emr.bundle",
+    "traderId": "RAGMAN",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "RAGMAN",
+    "price": 0,
+    "questRequirements": [],
+    "achievementRequirements": []
+  }
+]
