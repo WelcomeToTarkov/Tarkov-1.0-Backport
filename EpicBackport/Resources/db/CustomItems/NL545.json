@@ -689,8 +689,8 @@
     "locales": {
       "en": {
         "name": "AR-15 Custom Guns 10.5 inch handguard",
-        "shortName": "CG 10.5\"",
-        "description": "An AR-15 mil-spec buffer tube for installation of various telescopic buttstocks. Manufactured by Custom Guns. Comes in Black or Flat Dark Earth."
+        "shortName": "CGNL 10.5\"",
+        "description": "The Custom Guns 10.5 inch handguard for AR-15 equipped with an M-LOK interface for installation of additional devices and accesssories."
       }
     },
     "addtoInventorySlots": [],
@@ -700,6 +700,43 @@
     ],
     "fleaPriceRoubles": 36852,
     "handbookPriceRoubles": 2258,
+    "addtoTraders": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "staticLootContainers": [],
+    "masterySections": []
+  },
+  "69218ad7535551e26c1262e5": {
+    "itemTplToClone": "5ea16acdfadf1d18c87b0784",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "backported_assets/assets/content/items/mods/handguards/handguard_ar15_cgnl_ar15_14_inch.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 10,
+      "Width": 2,
+      "Height": 1,
+      "Recoil": -1.5,
+      "Weight": 0.48
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Custom Guns 14 inch handguard",
+        "shortName": "CGNL 14\"",
+        "description": "The Custom Guns 14 inch handguard for AR-15 equipped with an M-LOK interface for installation of additional devices and accesssories."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 70583,
+    "handbookPriceRoubles": 15863,
     "addtoTraders": false,
     "masteries": false,
     "addWeaponPreset": false,
