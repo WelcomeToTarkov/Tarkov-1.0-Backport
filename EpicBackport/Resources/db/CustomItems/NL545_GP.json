@@ -1,0 +1,723 @@
+{
+  "69219f5cc6e2f89c5d4c32be": {
+    "itemTplToClone": "5447a9cd4bdc2dbd208b4567",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "backported_assets/assets/content/weapons/nl545/weapon_cgnl_nl545_545x39_container.bundle",
+        "rcid": ""
+      },
+      "RecoilForceUp": 114,
+      "RecoilForceBack": 330,
+      "Ergonomics": 48,
+      "Weight": 0.510,
+      "bFirerate": 850,
+      "Width": 1,
+      "Height": 1,
+      "ammoCaliber": "Caliber545x39",
+      "Slots": [
+        {
+          "_name": "mod_magazine",
+          "_id": "69222929f98e92b2cd7e1655",
+          "_parent": "69219f5cc6e2f89c5d4c32be",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": 0,
+                "Filter": [
+                  "564ca9df4bdc2d35148b4569",
+                  "564ca99c4bdc2d16268b4589",
+                  "55d480c04bdc2d1d4e8b456a",
+                  "5cbdaf89ae9215000e5b9c94",
+                  "55d481904bdc2d8c2f8b456a",
+                  "55d482194bdc2d1d4e8b456b",
+                  "55d4837c4bdc2d1d4e8b456c",
+                  "5aaa4194e5b5b055d06310a5",
+                  "5bed61680db834001d2c45ab",
+                  "5bed625c0db834001c062946",
+                  "649ec30cb013f04a700e60fb",
+                  "64b9e265c94d0d15c5027e35"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_charge",
+          "_id": "6922292c735417f1a47e1656",
+          "_parent": "69219f5cc6e2f89c5d4c32be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "691e3ffd9aeb741281ac74da"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_reciever",
+          "_id": "6922292d3452c770067e1657",
+          "_parent": "69219f5cc6e2f89c5d4c32be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6921cd0ea84680a8417b9b1f"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock_000",
+          "_id": "6922292f117336c5217e1658",
+          "_parent": "69219f5cc6e2f89c5d4c32be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a33ca0fc4a282000d72292f",
+                  "5c0faeddd174af02a962601f",
+                  "5649be884bdc2d79388b4577",
+                  "5d120a10d7ad1a4e1026ba85",
+                  "5b0800175acfc400153aebd4",
+                  "5947e98b86f774778f1448bc",
+                  "5947eab886f77475961d96c5",
+                  "602e3f1254072b51b239f713",
+                  "5c793fb92e221644f31bfb64",
+                  "5c793fc42e221600114ca25d",
+                  "591aef7986f774139d495f03",
+                  "591af10186f774139d495f0e",
+                  "627254cc9c563e6e442c398f",
+                  "638de3603a1a4031d8260b8c",
+                  "6761777a1f08ed5e8800b7ac"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "692229309087f8d3817e1659",
+          "_parent": "69219f5cc6e2f89c5d4c32be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0e2ff6d174af02a1659d4a",
+                  "5a33e75ac4a2826c6e06d759",
+                  "55d4b9964bdc2d1d4e8b456e",
+                  "571659bb2459771fb2755a12",
+                  "602e71bd53a60014f9705bfa",
+                  "6113c3586c780c1e710c90bc",
+                  "6113cc78d3a39d50044c065a",
+                  "6113cce3d92c473c770200c7",
+                  "5cc9bcaed7f00c011c04e179",
+                  "5bb20e18d4351e00320205d5",
+                  "5bb20e0ed4351e3bac1212dc",
+                  "6193dcd0f8ee7e52e4210a28",
+                  "5d025cc1d7ad1a53845279ef",
+                  "5c6d7b3d2e221600114c9b7d",
+                  "57c55efc2459772d2c6271e7",
+                  "57af48872459771f0b2ebf11",
+                  "57c55f092459772d291a8463",
+                  "57c55f112459772d28133310",
+                  "57c55f172459772d27602381",
+                  "5a339805c4a2826c6e06d73d",
+                  "55802f5d4bdc2dac148b458f",
+                  "5d15cf3bd7ad1a67e71518b2",
+                  "59db3a1d86f77429e05b4e92",
+                  "5fbcbd6c187fea44d52eda14",
+                  "59db3acc86f7742a2c4ab912",
+                  "59db3b0886f77429d72fb895",
+                  "615d8faecabb9b7ad90f4d5d",
+                  "5b07db875acfc40dc528a5f6",
+                  "63f5feead259b42f0b4d6d0f",
+                  "652911675ae2ae97b80fdf3c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "69222932630d56e1bd7e165a",
+          "_parent": "69219f5cc6e2f89c5d4c32be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0d5e4486f77478390952fe",
+                  "61962b617c6c7b169525f168",
+                  "56dfef82d2720bbd668b4567",
+                  "56dff026d2720bb8668b4567",
+                  "56dff061d2720bb5668b4567",
+                  "56dff0bed2720bb0668b4567",
+                  "56dff216d2720bbd668b4568",
+                  "56dff2ced2720bb4668b4567",
+                  "56dff338d2720bbd668b4569",
+                  "56dff3afd2720bba668b4567",
+                  "56dff421d2720b5f5a8b4567",
+                  "56dff4a2d2720bbd668b456a",
+                  "56dff4ecd2720b5f5a8b4568"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ],
+      "defAmmo": "56dff0bed2720bb0668b4567",
+      "defMagType": "5bed61680db834001d2c45ab"
+    },
+    "locales": {
+      "en": {
+        "name": "Custom Guns NL545 (GP) 5.45x39 assault rifle",
+        "shortName": "NL545 GP",
+        "description": "A Russian assault rifle that combines the ergonomics of the AR-15 platform with the widely available 5.45x39mm cartridge. Manufactured by Custom Guns. Usually these would have a Direct Impingement and Gas Piston variant, but Eukyre got lazy and didn't make 2 soundbanks for the backport."
+      }
+    },
+    "addtoInventorySlots": [
+      "FirstPrimaryWeapon",
+      "SecondPrimaryWeapon"
+    ],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 225571,
+    "handbookPriceRoubles": 22058,
+    "addtoTraders": false,
+    "masteries": true,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "staticLootContainers": [],
+    "masterySections": [
+      {
+        "Level2": 1000,
+        "Level3": 1600,
+        "Name": "NL545",
+        "Templates": [
+          "69219f5cc6e2f89c5d4c32be"
+        ]
+      }
+    ]
+  },
+  "6921cd0ea84680a8417b9b1f": {
+    "itemTplToClone": "5bb20d53d4351e4502010a69",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "backported_assets/assets/content/items/mods/recievers/reciever_nl545_cgnl_nl545_fde.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 5,
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.27,
+      "Recoil": -2,
+      "DurabilityBurnModificator": 0.97,
+      "HeatFactor": 0.975,
+      "CoolFactor": 1.014,
+      "Slots": [
+        {
+          "_name": "mod_scope",
+          "_id": "6921d260f9ca8abe397e163f",
+          "_parent": "6921cd0ea84680a8417b9b1f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "6761759e7ee06333f108bf86",
+                  "67641a851b2899700609901a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_barrel",
+          "_id": "6921d8bc3019f389127e1644",
+          "_parent": "6921cd0ea84680a8417b9b1f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6921e2b74ddbbba4367e1648",
+                  "692226199f155a6e457e164c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_handguard",
+          "_id": "6921d8be98d35c55a07e1645",
+          "_parent": "6921cd0ea84680a8417b9b1f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c6d10e82e221601da357b07",
+                  "5bb20de5d4351e0035629e59",
+                  "5bb20dfcd4351e00334c9e24",
+                  "5bb20df1d4351e00347787d5",
+                  "5c6d11072e2216000e69d2e4",
+                  "5c6d10fa2e221600106f3f23",
+                  "5c6d11152e2216000f2003e7",
+                  "5c6c2c9c2e2216000f2002e4",
+                  "6922c9e5dce304a0176ee4bf"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_rear",
+          "_id": "6921d26eff5a87832e7e1643",
+          "_parent": "6921cd0ea84680a8417b9b1f",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5bb20e49d4351e3bac1212de",
+                  "5ba26b17d4351e00367f9bdd",
+                  "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189",
+                  "5fb6564947ce63734e3fa1da",
+                  "5bc09a18d4351e003562b68e",
+                  "5c18b9192e2216398b5a8104",
+                  "5fc0fa957283c4046c58147e",
+                  "5894a81786f77427140b8347",
+                  "55d5f46a4bdc2d1b198b4567",
+                  "5ae30bad5acfc400185c2dc4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "NL545 (GP) 5.45x39 upper receiver",
+        "shortName": "NL545",
+        "description": "Standard Gas Piston upper receiver for the NL545. Manufactured by Custom Guns."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 25453,
+    "handbookPriceRoubles": 19846,
+    "addtoTraders": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "staticLootContainers": [],
+    "masterySections": []
+  },
+  "6921e2ee705a510bfd7e164b": {
+    "itemTplToClone": "5bb20dcad4351e3bac1212da",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "backported_assets/assets/content/items/mods/gasblock/gas_block_nl545_cgnl_nl545_std.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "NL545 gas block",
+        "shortName": "NL545 gas",
+        "description": "An adjustable gas block designed for NL545 series carbine and assault rifles. Manufactured by Custom Guns."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 6823,
+    "handbookPriceRoubles": 2473,
+    "addtoTraders": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "staticLootContainers": [],
+    "masterySections": []
+  },
+  "6921e2b74ddbbba4367e1648": {
+    "itemTplToClone": "55d3632e4bdc2d972f8b4569",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "backported_assets/assets/content/items/mods/barrels/barrel_nl545_cgnl_420mm_545x39.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -19,
+      "Width": 3,
+      "Height": 1,
+      "Recoil": -5.6,
+      "DurabilityBurnModificator": 0.98,
+      "HeatFactor": 0.97,
+      "CoolFactor": 0.98,
+      "ExtraSizeLeft": 3,
+      "Weight": 0.780,
+      "CenterOfImpact": 0.064,
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "6921e2c4b15ea9f39d7e164a",
+          "_parent": "6921e2b74ddbbba4367e1648",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b3a16655acfc40016387a2a",
+                  "5c7e5f112e221600106f4ede",
+                  "5c0fafb6d174af02a96260ba",
+                  "612e0cfc8004cc50514c2d9e",
+                  "5cf6937cd7f00c056c53fb39",
+                  "544a38634bdc2d58388b4568",
+                  "5cff9e5ed7ad1a09407397d4",
+                  "5c48a2a42e221602b66d1e07",
+                  "5f6372e2865db925d54f3869",
+                  "615d8e2f1cb55961fa0fd9a4",
+                  "56ea8180d2720bf2698b456a",
+                  "5d02676dd7ad1a049e54f6dc",
+                  "56ea6fafd2720b844b8b4593",
+                  "5943ee5a86f77413872d25ec",
+                  "609269c3b0e443224b421cc1",
+                  "5c7fb51d2e2216001219ce11",
+                  "5ea172e498dacb342978818e",
+                  "5c6d710d2e22165df16b81e7",
+                  "612e0e55a112697a4b3a66e7",
+                  "5d440625a4b9361eec4ae6c5",
+                  "5cc9b815d7f00c000e2579d6",
+                  "5a7c147ce899ef00150bd8b8",
+                  "5c7954d52e221600106f4cc7",
+                  "59bffc1f86f77435b128b872",
+                  "5a9fbb84a2750c00137fa685",
+                  "626667e87379c44d557b7550",
+                  "62669bccdb9ebb4daa44cd14",
+                  "626a74340be03179a165e30c",
+                  "6386120cd6baa055ad1e201c",
+                  "63ac5c9658d0485fc039f0b8",
+                  "6405ff6bd4578826ec3e377a",
+                  "64943b74e9998d641b0412ed",
+                  "6621455e3aceea9e2b0b01e7",
+                  "664301213dd83ddae20dda18"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_gas_block",
+          "_id": "6921e2c1134389dabe7e1649",
+          "_parent": "6921e2b74ddbbba4367e1648",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6921e2ee705a510bfd7e164b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "NL545 (GP) 5.45x39 16.5 inch barrel",
+        "shortName": "NL545 GP 16.5\"",
+        "description": "A 16.5 inch (420mm) 5.45x39mm barrel for the gas piston NL545 assault rifle manufactured by Custom Guns."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 68423,
+    "handbookPriceRoubles": 24473,
+    "addtoTraders": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "staticLootContainers": [],
+    "masterySections": []
+  },
+  "692226199f155a6e457e164c": {
+    "itemTplToClone": "55d3632e4bdc2d972f8b4569",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "backported_assets/assets/content/items/mods/barrels/barrel_nl545_cgnl_292mm_545x39.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": -6,
+      "Width": 2,
+      "Height": 1,
+      "Recoil": -5.6,
+      "DurabilityBurnModificator": 0.96,
+      "HeatFactor": 0.97,
+      "CoolFactor": 0.98,
+      "ExtraSizeLeft": 3,
+      "Weight": 0.780,
+      "CenterOfImpact": 0.067,
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "6922267aacf490d17d7e164f",
+          "_parent": "692226199f155a6e457e164c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b3a16655acfc40016387a2a",
+                  "5c7e5f112e221600106f4ede",
+                  "5c0fafb6d174af02a96260ba",
+                  "612e0cfc8004cc50514c2d9e",
+                  "5cf6937cd7f00c056c53fb39",
+                  "544a38634bdc2d58388b4568",
+                  "5cff9e5ed7ad1a09407397d4",
+                  "5c48a2a42e221602b66d1e07",
+                  "5f6372e2865db925d54f3869",
+                  "615d8e2f1cb55961fa0fd9a4",
+                  "56ea8180d2720bf2698b456a",
+                  "5d02676dd7ad1a049e54f6dc",
+                  "56ea6fafd2720b844b8b4593",
+                  "5943ee5a86f77413872d25ec",
+                  "609269c3b0e443224b421cc1",
+                  "5c7fb51d2e2216001219ce11",
+                  "5ea172e498dacb342978818e",
+                  "5c6d710d2e22165df16b81e7",
+                  "612e0e55a112697a4b3a66e7",
+                  "5d440625a4b9361eec4ae6c5",
+                  "5cc9b815d7f00c000e2579d6",
+                  "5a7c147ce899ef00150bd8b8",
+                  "5c7954d52e221600106f4cc7",
+                  "59bffc1f86f77435b128b872",
+                  "5a9fbb84a2750c00137fa685",
+                  "626667e87379c44d557b7550",
+                  "62669bccdb9ebb4daa44cd14",
+                  "626a74340be03179a165e30c",
+                  "6386120cd6baa055ad1e201c",
+                  "63ac5c9658d0485fc039f0b8",
+                  "6405ff6bd4578826ec3e377a",
+                  "64943b74e9998d641b0412ed",
+                  "6621455e3aceea9e2b0b01e7",
+                  "664301213dd83ddae20dda18"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_gas_block",
+          "_id": "6922267c21ab117ab27e1650",
+          "_parent": "692226199f155a6e457e164c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6921e2ee705a510bfd7e164b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "NL545 (GP) 5.45x39 11.5 inch barrel",
+        "shortName": "NL545 GP 11.5\"",
+        "description": "A 11.5 inch (292mm) 5.45x39mm barrel for the gas piston NL545 assault rifle manufactured by Custom Guns."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 68423,
+    "handbookPriceRoubles": 24473,
+    "addtoTraders": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "staticLootContainers": [],
+    "masterySections": []
+  },
+  "6922c9e5dce304a0176ee4bf": {
+    "itemTplToClone": "5c6d10fa2e221600106f3f23",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "backported_assets/assets/content/items/mods/handguards/handguard_416_cgnl_nl545_105_inch_fde.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 10,
+      "Width": 2,
+      "Height": 1,
+      "Recoil": -1.2,
+      "Weight": 0.148,
+      "CoolFactor": 1.07,
+      "HeatFactor": 0.966,
+      "ExtraSizeLeft": 2
+    },
+    "locales": {
+      "en": {
+        "name": "NL545 10.5 inch M-LOK handguard (FDE)",
+        "shortName": "CGNL 10.5\"",
+        "description": "The Custom Guns 10.5 inch handguard for NL545 equipped with an M-LOK interface for installation of additional devices and accessories. Flat Dark Earth version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 22457,
+    "handbookPriceRoubles": 5758,
+    "addtoTraders": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "staticLootContainers": [],
+    "masterySections": []
+  }
+}
