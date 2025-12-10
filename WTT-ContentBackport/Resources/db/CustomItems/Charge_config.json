@@ -1,6 +1,6 @@
 {
   "6895bf08e2d16810ba0bf43e": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5b2240bf5acfc40dc528af69",
     "parentId": "55818a6f4bdc2db9688b456b",
     "handbookParentId": "5b5f751486f77447ec5d770c",
     "overrideProperties": {
@@ -97,8 +97,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_charge"
+    ],
     "fleaPriceRoubles": 114514,
     "handbookPriceRoubles": 7965,
     "addtoBots": false,
@@ -117,12 +119,11 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
   "67c54183b032bbdb530201bc": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5b2240bf5acfc40dc528af69",
     "parentId": "55818a6f4bdc2db9688b456b",
     "handbookParentId": "5b5f751486f77447ec5d770c",
     "overrideProperties": {
@@ -244,7 +245,7 @@
     "traders": {}
   },
   "68a63a9522b1e0bd360afe5f": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5b2240bf5acfc40dc528af69",
     "parentId": "55818a6f4bdc2db9688b456b",
     "handbookParentId": "5b5f751486f77447ec5d770c",
     "overrideProperties": {
@@ -335,15 +336,17 @@
     },
     "locales": {
       "en": {
-        "name": "AR-15 Colt early type charging handle ",
+        "name": "AR-15 Colt early type charging handle",
         "shortName": "AR-15 ET",
         "description": "An early type charging handle for AR-15 and compatible systems, manufactured by Colt."
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_charge"
+    ],
+    "fleaPriceRoubles": 2224,
     "handbookPriceRoubles": 1114,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -366,7 +369,7 @@
     "traders": {}
   },
   "68caabebc71156cf470bc186": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5b2240bf5acfc40dc528af69",
     "parentId": "55818a6f4bdc2db9688b456b",
     "handbookParentId": "5b5f751486f77447ec5d770c",
     "overrideProperties": {
@@ -463,8 +466,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_charge"
+    ],
     "fleaPriceRoubles": 24576,
     "handbookPriceRoubles": 7800,
     "addtoBots": false,
@@ -488,7 +493,7 @@
     "traders": {}
   },
   "67c5418f26265106dd06979e": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5b2240bf5acfc40dc528af69",
     "parentId": "55818a6f4bdc2db9688b456b",
     "handbookParentId": "5b5f751486f77447ec5d770c",
     "overrideProperties": {
@@ -610,7 +615,7 @@
     "traders": {}
   },
   "68c16f15efac701f800dfd36": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5b2240bf5acfc40dc528af69",
     "parentId": "55818a6f4bdc2db9688b456b",
     "handbookParentId": "5b5f751486f77447ec5d770c",
     "overrideProperties": {
@@ -709,7 +714,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 2332,
     "handbookPriceRoubles": 1450,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
