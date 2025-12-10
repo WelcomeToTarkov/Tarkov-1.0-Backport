@@ -20,7 +20,7 @@ public record ModMetadata : AbstractModMetadata
     public override List<string>? Incompatibilities { get; init; }
     public override Dictionary<string, Range>? ModDependencies { get; init; } = new()
     {
-        { "com.wtt.commonlib", new Range("~2.0.0") }
+        { "com.wtt.commonlib", new Range("~2.0.7") }
     };
     public override string? Url { get; init; }
     public override bool? IsBundleMod { get; init; } = true;
