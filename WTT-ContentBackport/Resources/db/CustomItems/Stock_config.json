@@ -1,6 +1,6 @@
 {
   "68a63c7322b1e0bd360afe65": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "55d4ae6c4bdc2d8b2f8b456e",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -123,8 +123,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 65544,
+    "modSlot": ["mod_stock_000"],
+    "fleaPriceRoubles": 9800,
     "handbookPriceRoubles": 5950,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -147,7 +147,7 @@
     "traders": {}
   },
   "68a63c5ce1fb670852024661": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5649be884bdc2d79388b4577",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -277,8 +277,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 9648,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 12024,
     "handbookPriceRoubles": 2147,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -301,7 +301,7 @@
     "traders": {}
   },
   "68badb6458dbe419740b1520": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5c5db6f82e2216003a0fe914",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -424,8 +424,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 92439,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 38934,
     "handbookPriceRoubles": 22711,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -448,7 +448,7 @@
     "traders": {}
   },
   "68a63c1fc92ee33ffa01bf5a": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5a33cae9c4a28232980eb086",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -552,8 +552,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 13928,
     "handbookPriceRoubles": 11200,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -576,7 +576,7 @@
     "traders": {}
   },
   "67c541d45b84f7f36c03e557": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "56083cba4bdc2de22e8b456f",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -680,8 +680,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 12591,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 10054,
     "handbookPriceRoubles": 7480,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -704,7 +704,7 @@
     "traders": {}
   },
   "6878ccf4181ac8a5b5077236": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5a69a2ed8dc32e000d46d1f1",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -856,8 +856,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 187270,
+    "modSlot": ["mod_pistol_grip"],
+    "fleaPriceRoubles": 61548,
     "handbookPriceRoubles": 14525,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -880,7 +880,7 @@
     "traders": {}
   },
   "688c9df121038434840a1e06": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5ac78eaf5acfc4001926317a",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -1012,8 +1012,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 50000,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 25674,
     "handbookPriceRoubles": 1085,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -1036,7 +1036,7 @@
     "traders": {}
   },
   "68bb25270e48a3afd7071216": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "56eabf3bd2720b75698b4569",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -1140,8 +1140,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 132871,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 48000,
     "handbookPriceRoubles": 21120,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -1164,7 +1164,7 @@
     "traders": {}
   },
   "68d566f3f3d7cd248f0a06db": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5c5db6f82e2216003a0fe914",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -1289,8 +1289,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 77069,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 31295,
     "handbookPriceRoubles": 22711,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -1313,7 +1313,7 @@
     "traders": {}
   },
   "68a63bc422b1e0bd360afe61": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5a33cae9c4a28232980eb086",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -1417,8 +1417,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 13152,
     "handbookPriceRoubles": 9980,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -1441,7 +1441,7 @@
     "traders": {}
   },
   "67c541ba5b84f7f36c03e555": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "56083cba4bdc2de22e8b456f",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -1545,8 +1545,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 9000,
+    "modSlot": ["mod_stock  "],
+    "fleaPriceRoubles": 8787,
     "handbookPriceRoubles": 5980,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -1569,7 +1569,7 @@
     "traders": {}
   },
   "68c17005ba442c8112076088": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5649be884bdc2d79388b4577",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -1719,8 +1719,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 15318,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 6296,
     "handbookPriceRoubles": 3800,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -1743,7 +1743,7 @@
     "traders": {}
   },
   "68c1701cba442c811207608b": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5649be884bdc2d79388b4577",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -1893,8 +1893,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 21355,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 11296,
     "handbookPriceRoubles": 3800,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -1917,7 +1917,7 @@
     "traders": {}
   },
   "67ff2c16c593c7b94a095e56": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "54491c4f4bdc2db1078b4568",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -2021,8 +2021,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 12921,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 10187,
     "handbookPriceRoubles": 7480,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -2045,7 +2045,7 @@
     "traders": {}
   },
   "6888ac0f5978b35e90010b49": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "6410745d5dd49d77bd078485",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -2149,8 +2149,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 55000,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 18000,
     "handbookPriceRoubles": 8967,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -2173,7 +2173,7 @@
     "traders": {}
   },
   "68bb2a3831ee03fbc00931e6": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "58d2946386f774496974c37e",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -2278,7 +2278,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 76672,
+    "fleaPriceRoubles": 47000,
     "handbookPriceRoubles": 21120,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -2301,7 +2301,7 @@
     "traders": {}
   },
   "688cbdc341e2a57a8f0c1c6c": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5649b2314bdc2d79388b4576",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -2433,8 +2433,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 54644,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 15644,
     "handbookPriceRoubles": 1093,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -2457,7 +2457,7 @@
     "traders": {}
   },
   "683060403b1bb49282023611": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "6513f1798cb24472490ee331",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -2614,7 +2614,7 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
+    "modSlot": ["mod_stock"],
     "fleaPriceRoubles": 55555,
     "handbookPriceRoubles": 4750,
     "addtoBots": false,
@@ -2638,7 +2638,7 @@
     "traders": {}
   },
   "68a63c998e1fe612970728fe": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5a0c59791526d8dba737bba7",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -2742,8 +2742,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 5435,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 7980,
     "handbookPriceRoubles": 4386,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -2766,7 +2766,7 @@
     "traders": {}
   },
   "67ff1f9f32abb9a4280b5178": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "56083cba4bdc2de22e8b456f",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -2870,8 +2870,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 30702,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 16702,
     "handbookPriceRoubles": 9450,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -2894,7 +2894,7 @@
     "traders": {}
   },
   "67ff1fa88e8db1dcb80ccada": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "56083cba4bdc2de22e8b456f",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -2998,8 +2998,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 29334,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 16334,
     "handbookPriceRoubles": 9450,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -3022,7 +3022,7 @@
     "traders": {}
   },
   "68b966e44b7f808d5609ac04": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5de655be4a9f347bc92edb88",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -3223,8 +3223,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 33948,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 24896,
     "handbookPriceRoubles": 12324,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -3247,7 +3247,7 @@
     "traders": {}
   },
   "68badc0366a72211fe004bc7": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "61715e7e67085e45ef140b33",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -3351,8 +3351,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 39999,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 26999,
     "handbookPriceRoubles": 5273,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -3375,7 +3375,7 @@
     "traders": {}
   },
   "67c541ca26265106dd0697a0": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "56083cba4bdc2de22e8b456f",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -3479,8 +3479,8 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 35105,
+    "modSlot": ["mod_stock"],
+    "fleaPriceRoubles": 19105,
     "handbookPriceRoubles": 9450,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
