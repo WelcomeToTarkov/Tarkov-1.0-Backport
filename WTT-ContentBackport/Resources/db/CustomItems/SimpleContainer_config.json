@@ -1,0 +1,134 @@
+{
+  "688b2dba67bf6fa26c07e918": {
+    "itemTplToClone": "5b7c710788a4506dec015957",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_container_moderator_toolbox",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": true,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "container_plastic",
+      "LeftHandItem": false,
+      "LootExperience": 30,
+      "MergesWithChildren": false,
+      "Name": "item_container_moderator_toolbox",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/containers/item_container_moderator_toolbox/item_container_moderator_toolbox.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "item_container_moderator_toolbox",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 5.7,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [
+        {
+          "_name": "main",
+          "_id": "688b2dba67bf6fa26c07e91a",
+          "_parent": "688b2dba67bf6fa26c07e918",
+          "_props": {
+            "filters": [
+              {
+                "ExcludedFilter": [],
+                "Filter": [
+                  "57864bb7245977548b3b66c2",
+                  "57864ada245977548638de91",
+                  "5c12688486f77426843c7d32",
+                  "5c07df7f0db834001b73588a",
+                  "66abb0743f4d8b145b1612c1"
+                ]
+              }
+            ],
+            "cellsH": 6,
+            "cellsV": 6,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "isSortingTable": false
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "Slots": [],
+      "TagColor": 0,
+      "TagName": ""
+    },
+    "locales": {
+      "en": {
+        "name": "Toolbox (Discord Version)",
+        "shortName": "Toolbox",
+        "description": "An ordinary toolbox with an unordinary color. Most of the stickers on it are inexistent in Tarkov. Someone has paid a hefty price to smuggle it from outside the cordon."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 1000000,
+    "handbookPriceRoubles": 1000000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  }
+}
