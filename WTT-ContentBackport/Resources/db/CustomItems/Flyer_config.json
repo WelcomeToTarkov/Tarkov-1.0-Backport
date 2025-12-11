@@ -1,6 +1,6 @@
 {
   "68f25b27abc35769c505f959": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "664a5775f3d3570fba06be64",
     "parentId": "6759673c76e93d8eb20b2080",
     "handbookParentId": "5b47574386f77428ca22b2f4",
     "overrideProperties": {
@@ -74,7 +74,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 112752,
     "handbookPriceRoubles": 100000,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -82,9 +82,9 @@
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
     "addtoSpecialSlots": false,
-    "addtoHideoutPosterSlots": false,
-    "addPosterToMaps": false,
-    "posterSpawnProbability": 0,
+    "addtoHideoutPosterSlots": true,
+    "addPosterToMaps": true,
+    "posterSpawnProbability": 10,
     "addtoStatuetteSlots": false,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
@@ -97,7 +97,7 @@
     "traders": {}
   },
   "68f25b4219a2b503d70dc28d": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "664a5775f3d3570fba06be64",
     "parentId": "6759673c76e93d8eb20b2080",
     "handbookParentId": "5b47574386f77428ca22b2f4",
     "overrideProperties": {
@@ -179,9 +179,9 @@
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
     "addtoSpecialSlots": false,
-    "addtoHideoutPosterSlots": false,
-    "addPosterToMaps": false,
-    "posterSpawnProbability": 0,
+    "addtoHideoutPosterSlots": true,
+    "addPosterToMaps": true,
+    "posterSpawnProbability": 10,
     "addtoStatuetteSlots": false,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
@@ -194,7 +194,7 @@
     "traders": {}
   },
   "68f25a45b2b53abd200b954d": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "664a5775f3d3570fba06be64",
     "parentId": "6759673c76e93d8eb20b2080",
     "handbookParentId": "5b47574386f77428ca22b2f4",
     "overrideProperties": {
@@ -276,9 +276,9 @@
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
     "addtoSpecialSlots": false,
-    "addtoHideoutPosterSlots": false,
-    "addPosterToMaps": false,
-    "posterSpawnProbability": 0,
+    "addtoHideoutPosterSlots": true,
+    "addPosterToMaps": true,
+    "posterSpawnProbability": 10,
     "addtoStatuetteSlots": false,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
@@ -291,7 +291,7 @@
     "traders": {}
   },
   "68f25a8acacd763bbc0e2bf9": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "664a5775f3d3570fba06be64",
     "parentId": "6759673c76e93d8eb20b2080",
     "handbookParentId": "5b47574386f77428ca22b2f4",
     "overrideProperties": {
@@ -373,9 +373,9 @@
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
     "addtoSpecialSlots": false,
-    "addtoHideoutPosterSlots": false,
-    "addPosterToMaps": false,
-    "posterSpawnProbability": 0,
+    "addtoHideoutPosterSlots": true,
+    "addPosterToMaps": true,
+    "posterSpawnProbability": 10,
     "addtoStatuetteSlots": false,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
@@ -388,7 +388,7 @@
     "traders": {}
   },
   "68f25ad7103c5d9d4f02392e": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "664a5775f3d3570fba06be64",
     "parentId": "6759673c76e93d8eb20b2080",
     "handbookParentId": "5b47574386f77428ca22b2f4",
     "overrideProperties": {
@@ -470,9 +470,9 @@
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
     "addtoSpecialSlots": false,
-    "addtoHideoutPosterSlots": false,
-    "addPosterToMaps": false,
-    "posterSpawnProbability": 0,
+    "addtoHideoutPosterSlots": true,
+    "addPosterToMaps": true,
+    "posterSpawnProbability": 10,
     "addtoStatuetteSlots": false,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
@@ -485,7 +485,7 @@
     "traders": {}
   },
   "68f0f8f1a1e799f1c3027c71": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "664a5775f3d3570fba06be64",
     "parentId": "6759673c76e93d8eb20b2080",
     "handbookParentId": "5b47574386f77428ca22b2f4",
     "overrideProperties": {
@@ -559,7 +559,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 129572,
     "handbookPriceRoubles": 100000,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -567,9 +567,9 @@
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
     "addtoSpecialSlots": false,
-    "addtoHideoutPosterSlots": false,
-    "addPosterToMaps": false,
-    "posterSpawnProbability": 0,
+    "addtoHideoutPosterSlots": true,
+    "addPosterToMaps": true,
+    "posterSpawnProbability": 12,
     "addtoStatuetteSlots": false,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
@@ -582,7 +582,7 @@
     "traders": {}
   },
   "68f25ac501fb9de974058be2": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "664a5775f3d3570fba06be64",
     "parentId": "6759673c76e93d8eb20b2080",
     "handbookParentId": "5b47574386f77428ca22b2f4",
     "overrideProperties": {
@@ -664,9 +664,9 @@
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
     "addtoSpecialSlots": false,
-    "addtoHideoutPosterSlots": false,
-    "addPosterToMaps": false,
-    "posterSpawnProbability": 0,
+    "addtoHideoutPosterSlots": true,
+    "addPosterToMaps": true,
+    "posterSpawnProbability": 10,
     "addtoStatuetteSlots": false,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
@@ -679,7 +679,7 @@
     "traders": {}
   },
   "68f0f8a1375a44d1ed01ea4b": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "664a5775f3d3570fba06be64",
     "parentId": "6759673c76e93d8eb20b2080",
     "handbookParentId": "5b47574386f77428ca22b2f4",
     "overrideProperties": {
@@ -753,7 +753,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 112482,
     "handbookPriceRoubles": 100000,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -761,9 +761,9 @@
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
     "addtoSpecialSlots": false,
-    "addtoHideoutPosterSlots": false,
-    "addPosterToMaps": false,
-    "posterSpawnProbability": 0,
+    "addtoHideoutPosterSlots": true,
+    "addPosterToMaps": true,
+    "posterSpawnProbability": 10,
     "addtoStatuetteSlots": false,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
