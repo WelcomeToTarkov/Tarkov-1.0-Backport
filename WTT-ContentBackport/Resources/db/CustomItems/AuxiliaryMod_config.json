@@ -646,7 +646,7 @@
     "traders": {}
   },
   "67c54114d0538d12ec036c0a": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5e81c6a2ac2bb513793cdc7f",
     "parentId": "5a74651486f7744e73386dd1",
     "handbookParentId": "5b5f74cc86f77447ec5d770a",
     "overrideProperties": {
