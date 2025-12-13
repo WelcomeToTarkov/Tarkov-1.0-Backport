@@ -1,0 +1,32 @@
+{"RAGMAN":{
+  "nextResupply": 1765220132,
+  "items": [
+    {
+      "_id": "692db02b6e3889a9eb078d73",
+      "_tpl": "689b8883b49f27df1c0873f8",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 575000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    }
+  ],
+  "barter_scheme": {
+    "692db02b6e3889a9eb078d73": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 3942,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ]
+  },
+  "loyal_level_items": {
+    "692db02b6e3889a9eb078d73": 4
+  }
+}}

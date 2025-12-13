@@ -1,0 +1,32 @@
+{"REF":{
+  "nextResupply": 1765227680,
+  "items": [
+    {
+      "_id": "692db01e6e3889a9eb0788b2",
+      "_tpl": "68daab6d1e0a6a3f2f0db279",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 425000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    }
+  ],
+  "barter_scheme": {
+    "692db01e6e3889a9eb0788b2": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 1,
+          "_tpl": "5d235b4d86f7742e017bc88a"
+        }
+      ]
+    ]
+  },
+  "loyal_level_items": {
+    "692db01e6e3889a9eb0788b2": 1
+  }
+}}

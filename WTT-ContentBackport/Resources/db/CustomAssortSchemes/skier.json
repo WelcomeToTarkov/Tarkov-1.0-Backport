@@ -1,0 +1,905 @@
+{"SKIER": {
+  "nextResupply": 1765216282,
+  "items": [
+    {
+      "_id": "692db02c6e3889a9eb078d83",
+      "_tpl": "68c2a99647eb77c6310b170f",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db02c6e3889a9eb078d98",
+      "_tpl": "68c16f6883e2d814b0093f7a",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db02e6e3889a9eb078e01",
+      "_tpl": "68c16b9ab6b75a8a480520a6",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        },
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0,
+        "StackObjectsCount": 910000
+      }
+    },
+    {
+      "_id": "692db02f6e3889a9eb078e2a",
+      "_tpl": "68c294750f5ebd68290d6c1c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db02f6e3889a9eb078e3f",
+      "_tpl": "68c16f15efac701f800dfd36",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db0306e3889a9eb078e5a",
+      "_tpl": "68c16edf83e2d814b0093f76",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db0306e3889a9eb078e67",
+      "_tpl": "68c294800f5ebd68290d6c20",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db0316e3889a9eb078eac",
+      "_tpl": "68d5674bb2573b07dc0d225f",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db0336e3889a9eb078f0d",
+      "_tpl": "68c2940aecc41cc5490bd40e",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        },
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0,
+        "StackObjectsCount": 910000
+      }
+    },
+    {
+      "_id": "692db04e6e3889a9eb079355",
+      "_tpl": "68540aae1e5c6ff6f1051477",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db04e6e3889a9eb079363",
+      "_tpl": "68712a7d505fed5f370b1633",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 2,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db04e6e3889a9eb079366",
+      "_tpl": "68c16fcffc90c174e50de1ae",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db04e6e3889a9eb079369",
+      "_tpl": "68c16fe183e2d814b0093f7c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db04f6e3889a9eb07936c",
+      "_tpl": "681245a31eb182c02f0d7f09",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db04f6e3889a9eb07936f",
+      "_tpl": "68c1701cba442c811207608b",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db04f6e3889a9eb079372",
+      "_tpl": "682315d08639961c6001dbec",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db04f6e3889a9eb079375",
+      "_tpl": "68c2989dc9061bb2f50478f6",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db04f6e3889a9eb079378",
+      "_tpl": "682317428639961c6001dbf1",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db04f6e3889a9eb079381",
+      "_tpl": "68c170e383e2d814b0093f87",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db04f6e3889a9eb079384",
+      "_tpl": "68c16e84fc90c174e50de1a8",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db04f6e3889a9eb07938a",
+      "_tpl": "68c294b9eb59c46bf6070536",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db04f6e3889a9eb07938d",
+      "_tpl": "68124640c5fd00ec0a01a237",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db0506e3889a9eb079396",
+      "_tpl": "68c1707983e2d814b0093f7e",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db0506e3889a9eb079399",
+      "_tpl": "682315c58639961c6001dbe7",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db0506e3889a9eb07939c",
+      "_tpl": "6811f4854922782caa087440",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db0506e3889a9eb07939f",
+      "_tpl": "68120dcbb90552f01004e5ca",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db0506e3889a9eb0793a2",
+      "_tpl": "68c294360f5ebd68290d6c16",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db0506e3889a9eb0793a5",
+      "_tpl": "681236df5cbf0518e00557a0",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db0506e3889a9eb0793a8",
+      "_tpl": "6812180dc20f5c52bc04d6cc",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db0506e3889a9eb0793cf",
+      "_tpl": "68c17005ba442c8112076088",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db0506e3889a9eb0793d2",
+      "_tpl": "682317390ee6ef08a60e4547",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "location": null,
+      "upd": {
+        "StackObjectsCount": 915000,
+        "UnlimitedCount": true,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "692db02e6e3889a9eb078e02",
+      "_tpl": "68c16fcffc90c174e50de1ae",
+      "parentId": "692db02e6e3889a9eb078e01",
+      "slotId": "mod_pistol_grip",
+      "location": null
+    },
+    {
+      "_id": "692db02e6e3889a9eb078e03",
+      "_tpl": "5aaa4194e5b5b055d06310a5",
+      "parentId": "692db02e6e3889a9eb078e01",
+      "slotId": "mod_magazine",
+      "location": null
+    },
+    {
+      "_id": "692db02e6e3889a9eb078e04",
+      "_tpl": "68c16e84fc90c174e50de1a8",
+      "parentId": "692db02e6e3889a9eb078e01",
+      "slotId": "mod_reciever",
+      "location": null
+    },
+    {
+      "_id": "692db02e6e3889a9eb078e0b",
+      "_tpl": "68c17005ba442c8112076088",
+      "parentId": "692db02e6e3889a9eb078e01",
+      "slotId": "mod_stock_001",
+      "location": null
+    },
+    {
+      "_id": "692db02e6e3889a9eb078e0d",
+      "_tpl": "68c16f15efac701f800dfd36",
+      "parentId": "692db02e6e3889a9eb078e01",
+      "slotId": "mod_charge",
+      "location": null
+    },
+    {
+      "_id": "692db02e6e3889a9eb078e05",
+      "_tpl": "68c16edf83e2d814b0093f76",
+      "parentId": "692db02e6e3889a9eb078e04",
+      "slotId": "mod_barrel",
+      "location": null
+    },
+    {
+      "_id": "692db02e6e3889a9eb078e08",
+      "_tpl": "68c170e383e2d814b0093f87",
+      "parentId": "692db02e6e3889a9eb078e04",
+      "slotId": "mod_handguard",
+      "location": null
+    },
+    {
+      "_id": "692db02e6e3889a9eb078e0a",
+      "_tpl": "5bc09a18d4351e003562b68e",
+      "parentId": "692db02e6e3889a9eb078e04",
+      "slotId": "mod_sight_rear",
+      "location": null
+    },
+    {
+      "_id": "692db02e6e3889a9eb078e06",
+      "_tpl": "68c294b9eb59c46bf6070536",
+      "parentId": "692db02e6e3889a9eb078e05",
+      "slotId": "mod_muzzle",
+      "location": null
+    },
+    {
+      "_id": "692db02e6e3889a9eb078e07",
+      "_tpl": "68c16f6883e2d814b0093f7a",
+      "parentId": "692db02e6e3889a9eb078e05",
+      "slotId": "mod_gas_block",
+      "location": null
+    },
+    {
+      "_id": "692db02e6e3889a9eb078e09",
+      "_tpl": "5bc09a30d4351e00367fb7c8",
+      "parentId": "692db02e6e3889a9eb078e08",
+      "slotId": "mod_sight_front",
+      "location": null
+    },
+    {
+      "_id": "692db02e6e3889a9eb078e0c",
+      "_tpl": "602e620f9b513876d4338d9a",
+      "parentId": "692db02e6e3889a9eb078e0b",
+      "slotId": "mod_stock_000",
+      "location": null
+    },
+    {
+      "_id": "692db0336e3889a9eb078f0e",
+      "_tpl": "68c16fe183e2d814b0093f7c",
+      "parentId": "692db0336e3889a9eb078f0d",
+      "slotId": "mod_pistol_grip",
+      "location": null
+    },
+    {
+      "_id": "692db0336e3889a9eb078f0f",
+      "_tpl": "68d566b2aa07af2e14059e01",
+      "parentId": "692db0336e3889a9eb078f0d",
+      "slotId": "mod_magazine",
+      "location": null
+    },
+    {
+      "_id": "692db0336e3889a9eb078f10",
+      "_tpl": "68c294360f5ebd68290d6c16",
+      "parentId": "692db0336e3889a9eb078f0d",
+      "slotId": "mod_reciever",
+      "location": null
+    },
+    {
+      "_id": "692db0336e3889a9eb078f17",
+      "_tpl": "68c1701cba442c811207608b",
+      "parentId": "692db0336e3889a9eb078f0d",
+      "slotId": "mod_stock_001",
+      "location": null
+    },
+    {
+      "_id": "692db0336e3889a9eb078f1a",
+      "_tpl": "68c16f15efac701f800dfd36",
+      "parentId": "692db0336e3889a9eb078f0d",
+      "slotId": "mod_charge",
+      "location": null
+    },
+    {
+      "_id": "692db0336e3889a9eb078f11",
+      "_tpl": "68c294750f5ebd68290d6c1c",
+      "parentId": "692db0336e3889a9eb078f10",
+      "slotId": "mod_barrel",
+      "location": null
+    },
+    {
+      "_id": "692db0336e3889a9eb078f14",
+      "_tpl": "68c2989dc9061bb2f50478f6",
+      "parentId": "692db0336e3889a9eb078f10",
+      "slotId": "mod_handguard",
+      "location": null
+    },
+    {
+      "_id": "692db0336e3889a9eb078f16",
+      "_tpl": "5c18b9192e2216398b5a8104",
+      "parentId": "692db0336e3889a9eb078f10",
+      "slotId": "mod_sight_rear",
+      "location": null
+    },
+    {
+      "_id": "692db0336e3889a9eb078f12",
+      "_tpl": "68c294b9eb59c46bf6070536",
+      "parentId": "692db0336e3889a9eb078f11",
+      "slotId": "mod_muzzle",
+      "location": null
+    },
+    {
+      "_id": "692db0336e3889a9eb078f13",
+      "_tpl": "68c2a99647eb77c6310b170f",
+      "parentId": "692db0336e3889a9eb078f11",
+      "slotId": "mod_gas_block",
+      "location": null
+    },
+    {
+      "_id": "692db0336e3889a9eb078f15",
+      "_tpl": "5c18b90d2e2216152142466b",
+      "parentId": "692db0336e3889a9eb078f14",
+      "slotId": "mod_sight_front",
+      "location": null
+    },
+    {
+      "_id": "692db0336e3889a9eb078f18",
+      "_tpl": "58d2946386f774496974c37e",
+      "parentId": "692db0336e3889a9eb078f17",
+      "slotId": "mod_stock_000",
+      "location": null
+    },
+    {
+      "_id": "692db0336e3889a9eb078f19",
+      "_tpl": "58d2912286f7744e27117493",
+      "parentId": "692db0336e3889a9eb078f18",
+      "slotId": "mod_stock",
+      "location": null
+    }
+  ],
+  "barter_scheme": {
+    "692db02c6e3889a9eb078d83": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 6210,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db02c6e3889a9eb078d98": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 7590,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db02e6e3889a9eb078e01": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 145869,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db02f6e3889a9eb078e2a": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 38985,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db02f6e3889a9eb078e3f": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 1668,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db0306e3889a9eb078e5a": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 36570,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db0306e3889a9eb078e67": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 25760,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db0316e3889a9eb078eac": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 9338,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db0336e3889a9eb078f0d": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 163887,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db04e6e3889a9eb079355": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 17020,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db04e6e3889a9eb079363": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 134.77,
+          "_tpl": "569668774bdc2da2298b4568"
+        }
+      ]
+    ],
+    "692db04e6e3889a9eb079366": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 2059,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db04e6e3889a9eb079369": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 2059,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db04f6e3889a9eb07936c": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 29001,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db04f6e3889a9eb07936f": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 4370,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db04f6e3889a9eb079372": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 3277,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db04f6e3889a9eb079375": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 17940,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db04f6e3889a9eb079378": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 2588,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db04f6e3889a9eb079381": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 18745,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db04f6e3889a9eb079384": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 21735,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db04f6e3889a9eb07938a": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 15870,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db04f6e3889a9eb07938d": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 5175,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db0506e3889a9eb079396": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 17480,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db0506e3889a9eb079399": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 10741,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db0506e3889a9eb07939c": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 11500,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db0506e3889a9eb07939f": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 10925,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db0506e3889a9eb0793a2": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 22770,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db0506e3889a9eb0793a5": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 13110,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db0506e3889a9eb0793a8": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 11730,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db0506e3889a9eb0793cf": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 4370,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "692db0506e3889a9eb0793d2": [
+      [
+        {
+          "type": "ItemRequirement",
+          "count": 2070,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ]
+  },
+  "loyal_level_items": {
+    "692db02c6e3889a9eb078d83": 4,
+    "692db02c6e3889a9eb078d98": 3,
+    "692db02e6e3889a9eb078e01": 3,
+    "692db02f6e3889a9eb078e2a": 4,
+    "692db02f6e3889a9eb078e3f": 3,
+    "692db0306e3889a9eb078e5a": 3,
+    "692db0306e3889a9eb078e67": 4,
+    "692db0316e3889a9eb078eac": 3,
+    "692db0336e3889a9eb078f0d": 4,
+    "692db04e6e3889a9eb079355": 3,
+    "692db04e6e3889a9eb079363": 4,
+    "692db04e6e3889a9eb079366": 2,
+    "692db04e6e3889a9eb079369": 2,
+    "692db04f6e3889a9eb07936c": 3,
+    "692db04f6e3889a9eb07936f": 4,
+    "692db04f6e3889a9eb079372": 4,
+    "692db04f6e3889a9eb079375": 4,
+    "692db04f6e3889a9eb079378": 4,
+    "692db04f6e3889a9eb079381": 3,
+    "692db04f6e3889a9eb079384": 3,
+    "692db04f6e3889a9eb07938a": 3,
+    "692db04f6e3889a9eb07938d": 3,
+    "692db0506e3889a9eb079396": 3,
+    "692db0506e3889a9eb079399": 4,
+    "692db0506e3889a9eb07939c": 3,
+    "692db0506e3889a9eb07939f": 3,
+    "692db0506e3889a9eb0793a2": 4,
+    "692db0506e3889a9eb0793a5": 4,
+    "692db0506e3889a9eb0793a8": 3,
+    "692db0506e3889a9eb0793cf": 3,
+    "692db0506e3889a9eb0793d2": 4
+  }
+}}
