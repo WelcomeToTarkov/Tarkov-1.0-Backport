@@ -36,7 +36,7 @@ public class WTTContentBackport(
     public async Task OnLoad()
     {
         Assembly assembly = Assembly.GetExecutingAssembly();
-        //wttCommon.CustomRigLayoutService.CreateRigLayouts(assembly);
+        wttCommon.CustomRigLayoutService.CreateRigLayouts(assembly);
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
         await wttCommon.CustomAssortSchemeService.CreateCustomAssortSchemes(assembly);
         await wttCommon.CustomHeadService.CreateCustomHeads(assembly);
