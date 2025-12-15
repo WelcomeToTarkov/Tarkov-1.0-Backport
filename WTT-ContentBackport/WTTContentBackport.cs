@@ -4,6 +4,7 @@ using SPTarkov.Server.Core.DI;
 using SPTarkov.Server.Core.Helpers;
 using SPTarkov.Server.Core.Models.Spt.Mod;
 using SPTarkov.Server.Core.Services.Image;
+using WTTContentBackport.Helpers;
 using WTTServerCommonLib.Models;
 using Range = SemanticVersioning.Range;
 
@@ -30,7 +31,7 @@ public record ModMetadata : AbstractModMetadata
 
 [Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 2)]
 public class WTTContentBackport(
-    WTTServerCommonLib.WTTServerCommonLib wttCommon, ImageRouterService imageRouterService, ModHelper modHelper) : IOnLoad
+    WTTServerCommonLib.WTTServerCommonLib wttCommon, ImageRouterService imageRouterService, ModHelper modHelper, BackportQuestHelper backportQuestHelper) : IOnLoad
 {
     public async Task OnLoad()
     {
@@ -43,6 +44,6 @@ public class WTTContentBackport(
         await wttCommon.CustomVoiceService.CreateCustomVoices(assembly);
         await wttCommon.CustomCustomizationService.CreateCustomCustomizations(assembly);
         await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
-        await Task.CompletedTask;
+        backportQuestHelper.ModifyQuests();
     }
 }
