@@ -1,0 +1,90 @@
+[
+  {
+    "type": "top",
+    "suiteId": "6943e6c4f5320785380eb0ec",
+    "outfitId": "694c14d3d89c65ca1383df05",
+    "topId": "6943e6381175f307df0259de",
+    "handsId": "6943e69bba7b8a2d1c09025d",
+    "locales": {
+      "en": {
+        "name": "USEC Gold Squadron",
+        "description": "Tactical jacket"
+      }
+    },
+    "topBundlePath": "characters/character/prefabs/top_usec_crusader.bundle",
+    "handsBundlePath": "hands/hands_usec_crusader/hands_usec_crusader.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "6945416cd456b032ae071604",
+    "outfitId": "694c14d5f74fda85d711e4c9",
+    "topId": "6945411ad456b032ae0715fe",
+    "handsId": "6945414191974a958a07de8e",
+    "locales": {
+      "en": {
+        "name": "BEAR Senezh",
+        "description": "Tactical jacket"
+      }
+    },
+    "topBundlePath": "characters/character/prefabs/top_bear_sso.bundle",
+    "handsBundlePath": "hands/hands_bear_sso/hands_bear_sso.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "6945419bbea259180a06f6b2",
+    "outfitId": "694c14d7bcd5046e4d1a5828",
+    "bottomId": "694540f4f4360c31fc0ef746",
+    "locales": {
+      "en": {
+        "name": "BEAR Senezh",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "characters/character/prefabs/pants_bear_sso.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "6943e6f371a234d6c00d598a",
+    "outfitId": "694c14d97014515845731b56",
+    "bottomId": "6943e6641175f307df0259f2",
+    "locales": {
+      "en": {
+        "name": "USEC Gold Squadron",
+        "description": "Combat pants"
+      }
+    },
+    "bottomBundlePath": "characters/character/prefabs/pants_usec_crusader.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  }
+]

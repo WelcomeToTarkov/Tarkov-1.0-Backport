@@ -1,0 +1,846 @@
+{
+  "693be003582cc8870b090b41": {
+    "itemTplToClone": "SETME",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_equipment_helmet_galvion_caiman_arena_NY2025",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": true,
+      "Name": "item_equipment_helmet_galvion_caiman_arena_NY2025",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_galvion_caiman/item_equipment_helmet_galvion_caiman_arena_ny2025.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 530,
+      "RepairSpeed": 10,
+      "ShortName": "item_equipment_helmet_galvion_caiman_arena_NY2025",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 1.12,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_equipment_000",
+          "_id": "693be003582cc8870b090b43",
+          "_parent": "693be003582cc8870b090b41",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5f60c076f2bcbb675b00dac2",
+                  "68a9b6c8d3a061d8b6058346",
+                  "68a9b73bd3a061d8b6058348",
+                  "693be056fd3a5c751e00de04"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_nvg",
+          "_id": "693be003582cc8870b090b44",
+          "_parent": "693be003582cc8870b090b41",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5f60bf4558eff926626a60f2",
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "693be003582cc8870b090b45",
+          "_parent": "693be003582cc8870b090b41",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_002",
+          "_id": "693be003582cc8870b090b46",
+          "_parent": "693be003582cc8870b090b41",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5f60b85bbdb8e27dee3dc985",
+                  "68a9b601863d2a71fa0494ae",
+                  "68a9b669fa39b6976e07de96",
+                  "693be0ee50fafa102607aebd"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "693be003582cc8870b090b47",
+          "_parent": "693be003582cc8870b090b41",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657bbad7a1c61ee0c3036323"
+                ],
+                "Plate": "657bbad7a1c61ee0c3036323",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "693be003582cc8870b090b48",
+          "_parent": "693be003582cc8870b090b41",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657bbb31b30eca9763051183"
+                ],
+                "Plate": "657bbb31b30eca9763051183",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "Combined",
+      "ArmorType": "Light",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0.72,
+      "DeafStrength": "None",
+      "Durability": 0,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "Helmet",
+      "MaxDurability": 0,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0.1,
+        "y": 0.3,
+        "z": 75
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": -2,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -1
+    },
+    "locales": {
+      "en": {
+        "name": "Galvion Caiman Hybrid helmet (MultiCam Alpine)",
+        "shortName": "Caiman",
+        "description": "The Caiman Hybrid helmet is a new generation of lightweight special forces helmet. A series of modular accessories enhances the package, providing users with lightweight, comfortable and maximum head protection. Manufactured by Galvion. MultiCam Alpine version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 2566,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addweaponpreset": true,
+    "weaponpresets": [
+      {
+        "_id": "69402f602347de675a0cbd84",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Galvion Caiman (multicam Alpine) standard",
+        "_parent": "694032e15683d2b1e107c794",
+        "_items": [
+          {
+            "_id": "694032e15683d2b1e107c794",
+            "_tpl": "693be003582cc8870b090b41"
+          },
+          {
+            "_id": "694032e15683d2b1e107c795",
+            "_tpl": "657bbad7a1c61ee0c3036323",
+            "parentId": "694032e15683d2b1e107c794",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "694032e15683d2b1e107c796",
+            "_tpl": "657bbb31b30eca9763051183",
+            "parentId": "694032e15683d2b1e107c794",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "693be003582cc8870b090b41"
+      }
+    ]
+  },
+  "693be8f650fafa102607aed4": {
+    "itemTplToClone": "SETME",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_equipment_helmet_ULACH_arena_NY2025",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": true,
+      "Name": "item_equipment_helmet_ulach_arena_NY2025",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_ulach/item_equipment_helmet_ulach_arena_ny2025.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 803,
+      "RepairSpeed": 10,
+      "ShortName": "item_equipment_helmet_ULACH_arena_NY2025",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 1.9,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "Helmet_top",
+          "_id": "693be8f650fafa102607aed6",
+          "_parent": "693be8f650fafa102607aed4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657112234269e9a568089eac"
+                ],
+                "Plate": "657112234269e9a568089eac",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "693be8f650fafa102607aed7",
+          "_parent": "693be8f650fafa102607aed4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657112a4818110db4600aa66"
+                ],
+                "Plate": "657112a4818110db4600aa66",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_ears",
+          "_id": "693be8f650fafa102607aed8",
+          "_parent": "693be8f650fafa102607aed4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657112ce22996eaf110881fb"
+                ],
+                "Plate": "657112ce22996eaf110881fb",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "mod_nvg",
+          "_id": "693be8f650fafa102607aed9",
+          "_parent": "693be8f650fafa102607aed4",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "UHMWPE",
+      "ArmorType": "Light",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0.5,
+      "DeafStrength": "Low",
+      "Durability": 0,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "Helmet",
+      "MaxDurability": 0,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0.1,
+        "y": 0.3,
+        "z": 75
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": -2,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -1
+    },
+    "locales": {
+      "en": {
+        "name": "HighCom Striker ULACH IIIA helmet (Winter Mesh Spray)",
+        "shortName": "ULACH",
+        "description": "A combat helmet with the ears and back of the head protection, manufactured by HighCom. Spray painted with a winter mesh pattern for better camouflage."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 10524,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addweaponpreset": true,
+    "weaponpresets": [
+      {
+        "_id": "69402f9315a33aea1e022240",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "HighCom Striker ULACH IIIA (Winter Net) Standard",
+        "_parent": "6940335b174f503fd9087eab",
+        "_items": [
+          {
+            "_id": "6940335b174f503fd9087eab",
+            "_tpl": "693be8f650fafa102607aed4"
+          },
+          {
+            "_id": "6940335b174f503fd9087eac",
+            "_tpl": "657112234269e9a568089eac",
+            "parentId": "6940335b174f503fd9087eab",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "6940335b174f503fd9087ead",
+            "_tpl": "657112a4818110db4600aa66",
+            "parentId": "6940335b174f503fd9087eab",
+            "slotId": "Helmet_back"
+          },
+          {
+            "_id": "6940335b174f503fd9087eae",
+            "_tpl": "657112ce22996eaf110881fb",
+            "parentId": "6940335b174f503fd9087eab",
+            "slotId": "Helmet_ears"
+          }
+        ],
+        "_encyclopedia": "693be8f650fafa102607aed4"
+      }
+    ]
+  },
+  "6937efd50543dcc2560a2c81": {
+    "itemTplToClone": "SETME",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [
+        "5645bcc04bdc2d363b8b4572",
+        "5aa2ba71e5b5b000137b758f",
+        "5a16b9fffcdbcb0176308b34",
+        "66b5f69ea7f72d197e70bcdb",
+        "66b5f6a28ca68c6461709ed8",
+        "628e4e576d783146b124c64d",
+        "66b5f693acff495a294927e3",
+        "66b5f6985891c84aab75ca76",
+        "66b5f68de98be930d701c00e",
+        "6033fa48ffd42c541047f728",
+        "5c165d832e2216398b5a7e36",
+        "5e4d34ca86f774264f758330",
+        "5f60cd6cf2bcbb675b00dac6",
+        "693bb59250fafa102607aeb7"
+      ],
+      "Description": "item_equipment_head_ushanka_white",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_generic",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "item_equipment_head_ushanka_white",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/head_ushanka_dmnt/item_equipment_head_ushanka_dmnt_white.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "item_equipment_head_ushanka_white",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.35,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "UHMWPE",
+      "ArmorType": "None",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0,
+      "DeafStrength": "None",
+      "Durability": 10,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "BodyArmor",
+      "MaxDurability": 10,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 80
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": 0
+    },
+    "locales": {
+      "en": {
+        "name": "New Year ushanka hat",
+        "shortName": "Ushanka",
+        "description": "A white ushanka from Ragman's reserves, opened for New Year. Warms not only the body but also the soul."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 1825,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "6937f02dfd6488bb27024839": {
+    "itemTplToClone": "SETME",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [
+        "5645bcc04bdc2d363b8b4572",
+        "5aa2ba71e5b5b000137b758f",
+        "5a16b9fffcdbcb0176308b34",
+        "66b5f69ea7f72d197e70bcdb",
+        "66b5f6a28ca68c6461709ed8",
+        "628e4e576d783146b124c64d",
+        "66b5f693acff495a294927e3",
+        "66b5f6985891c84aab75ca76",
+        "66b5f68de98be930d701c00e",
+        "6033fa48ffd42c541047f728",
+        "5c165d832e2216398b5a7e36",
+        "5e4d34ca86f774264f758330",
+        "5f60cd6cf2bcbb675b00dac6",
+        "693bb59250fafa102607aeb7"
+      ],
+      "Description": "item_equipment_head_ushanka_dmnt",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_generic",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "item_equipment_head_ushanka_dmnt",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/head_ushanka_dmnt/item_equipment_head_ushanka_dmnt.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Superrare",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "item_equipment_head_ushanka_dmnt",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.35,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "UHMWPE",
+      "ArmorType": "None",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0,
+      "DeafStrength": "None",
+      "Durability": 10,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "BodyArmor",
+      "MaxDurability": 10,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 80
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Domontovich ushanka hat",
+        "shortName": "Domont",
+        "description": "A ushanka with an emblem occasionally spotted on the streets of Tarkov. Domontovich used to take part in the urban battles himself — until he disappeared. Some say Lightkeeper had something to do with it."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 27001,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {}
+  }
+}
