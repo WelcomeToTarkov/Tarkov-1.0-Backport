@@ -9,14 +9,6 @@
             ]
         },
         {
-            "key": "assets/content/items/barter/item_barter_dogtags_story/item_barter_dogtags_story_01_and_survived.bundle",
-            "dependencyKeys": [
-                "assets/commonassets/physics/physicsmaterials.bundle",
-                "cubemaps",
-                "shaders"
-            ]
-        },
-        {
             "key": "assets/content/items/barter/item_barter_dogtags_story/item_barter_dogtags_story_02_in_the_darkness.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
