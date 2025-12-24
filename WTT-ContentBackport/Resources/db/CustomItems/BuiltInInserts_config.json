@@ -672,7 +672,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 1,
     "handbookPriceRoubles": 27684,
     "addtoBots": false,
     "addtoStaticLootContainers": false,

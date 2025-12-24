@@ -1157,7 +1157,7 @@
     "modSlot": [
       "mod_reciever"
     ],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 6800,
     "handbookPriceRoubles": 4417,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
@@ -1778,7 +1778,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 14000,
     "handbookPriceRoubles": 17214,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
