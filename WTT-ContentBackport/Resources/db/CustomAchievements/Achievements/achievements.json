@@ -4,21 +4,385 @@
     "imageUrl": "/files/achievement/cheatericon.png",
     "assetPath": "",
     "rewards": [
+    ],
+    "conditions": {
+      "availableForFinish": [
+        {
+          "id": "69489941b354f16f009a56f6",
+          "index": 0,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "conditionType": "Block"
+        }
+      ],
+      "fail": []
+    },
+    "instantComplete": false,
+    "showNotificationsInGame": false,
+    "showProgress": false,
+    "prefab": "",
+    "rarity": "Legendary",
+    "hidden": false,
+    "showConditions": false,
+    "progressBarEnabled": true,
+    "side": "Pmc",
+    "index": 19001
+  },
+  {
+    "id": "694c6575af08f6f1d59a5737",
+    "imageUrl": "/files/achievement/67prestigeicon.png",
+    "assetPath": "",
+    "rewards": [
       {
-        "id": "6948991918494601769a56f4",
+        "id": "694c65b195af104d3a9a573a",
         "unknown": false,
         "gameMode": [],
         "availableInGameEditions": [],
         "illustrationConfig": null,
         "isHidden": false,
-        "target": "68f151258e0bff44ce023f20",
+        "target": "68f11478a1e799f1c3027c77",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c65dac559349f2a9a573b",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68f113af8c147e61f50fb520",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c660033c463aac19a573d",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68f11506a1e799f1c3027c79",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c663d0c447289d59a573f",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68fb8872fb3842532002cbc1",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c665e12854822409a5740",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68fb88b9d4b0e9617502c1c4",
         "type": "CustomizationDirect"
       }
     ],
     "conditions": {
       "availableForFinish": [
         {
-          "id": "69489941b354f16f009a56f6",
+          "id": "694c6576b6d04345709a5738",
+          "index": 0,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "conditionType": "Block"
+        }
+      ],
+      "fail": []
+    },
+    "instantComplete": false,
+    "showNotificationsInGame": false,
+    "showProgress": false,
+    "prefab": "",
+    "rarity": "Legendary",
+    "hidden": false,
+    "showConditions": false,
+    "progressBarEnabled": true,
+    "side": "Pmc",
+    "index": 19001
+  },
+  {
+    "id": "694c60b50cb1e6ad639a5723",
+    "imageUrl": "/files/achievement/endingsicon.png",
+    "assetPath": "",
+    "rewards": [
+      {
+        "id": "694c61348c72377a809a5725",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68df9aa45d4e135b130392d0",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c61a990bd6024059a5736",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68df9aaf637781242a0b22fa",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c61a762f85604389a5735",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68df9a2d3772634bf40f4f1a",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c61a4a70d1244b89a5734",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68df9ac5a38a5e37d80df6cd",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c61a04b639d5f499a5733",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68df9a14972cf1e1ec07256c",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c619f8ecec149e99a5732",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68df9abc5d4e135b130392d2",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c619d728467dfe79a5731",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68df9a925d4e135b130392ce",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c619be56bf8520b9a5730",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68df9a053772634bf40f4f18",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c619ae1ea9a49b09a572f",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68df9b2642e96f583d042b8c",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c61985d10f252a19a572e",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68df9b2e3772634bf40f4f1c",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c61972021e1957c9a572d",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68df9a9ba38a5e37d80df6cb",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c61951a431fc1e09a572c",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68df9a222e6cd294e908d1eb",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c6194dfd15d4dac9a572b",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68dfb00742e96f583d042bd2",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c6192aac53715f19a572a",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68dfafeadfaadbd4eb06539a",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c61910bf702c6da9a5729",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68dfaffe3c5a40e30f0e55b0",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c6190d8fcb734bc9a5728",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68dfafd82d57066c0d011c86",
+        "type": "CustomizationDirect"
+      }
+    ],
+    "conditions": {
+      "availableForFinish": [
+        {
+          "id": "694c60b76becc7f81b9a5724",
+          "index": 0,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "conditionType": "Block"
+        }
+      ],
+      "fail": []
+    },
+    "instantComplete": false,
+    "showNotificationsInGame": false,
+    "showProgress": false,
+    "prefab": "",
+    "rarity": "Legendary",
+    "hidden": false,
+    "showConditions": false,
+    "progressBarEnabled": true,
+    "side": "Pmc",
+    "index": 19001
+  },
+  {
+    "id": "694c5cae0256a6bd999a5721",
+    "imageUrl": "/files/achievement/alltheclothes.png",
+    "assetPath": "",
+    "rewards": [
+      {
+        "id": "694c6712d2fea2636a9a5745",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68a6fb5ca1eb443ead010e8a",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c6714b0d03faaa99a5746",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68a6fb6d62b09585f80dd73b",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c671580d687128a9a5747",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68a6fb7a226a60005506faff",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "694c6716ee941f297b9a5748",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "68a6fb8ac8a3ef285c060b7b",
+        "type": "CustomizationDirect"
+      }
+    ],
+    "conditions": {
+      "availableForFinish": [
+        {
+          "id": "694c5caf9730f8cd419a5722",
+          "index": 0,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "conditionType": "Block"
+        }
+      ],
+      "fail": []
+    },
+    "instantComplete": false,
+    "showNotificationsInGame": false,
+    "showProgress": false,
+    "prefab": "",
+    "rarity": "Legendary",
+    "hidden": false,
+    "showConditions": false,
+    "progressBarEnabled": true,
+    "side": "Pmc",
+    "index": 19001
+  },
+  {
+    "id": "694c5527d1d40bd7db9a571a",
+    "imageUrl": "/files/achievement/backstabbericon.png",
+    "assetPath": "",
+    "rewards": [
+    ],
+    "conditions": {
+      "availableForFinish": [
+        {
+          "id": "694c552c13698940f09a571c",
           "index": 0,
           "dynamicLocale": false,
           "visibilityConditions": [],
@@ -539,7 +903,8 @@
                 },
                 "resetOnSessionEnd": false,
                 "savageRole": [
-                  "Assault"
+                  "assault",
+                  "marksman"
                 ],
                 "enemyEquipmentExclusive": [],
                 "enemyEquipmentInclusive": [],
@@ -1707,7 +2072,8 @@
                 },
                 "resetOnSessionEnd": false,
                 "savageRole": [
-                  "Assault"
+                  "assault",
+                  "marksman"
                 ],
                 "enemyEquipmentExclusive": [],
                 "enemyEquipmentInclusive": [],

@@ -20,6 +20,7 @@ public class PreorderCommand(
     {
         mailSendService.SendUserMessageToPlayer(sessionId, commandHandler, $"");
         var profile = profileHelper.GetFullProfile(sessionId);
+        rewardHelper.AddAchievementToProfile(profile, "6948990c05f4f91bdb9a56f3");
         rewardHelper.AddAchievementToProfile(profile, "6948996f192a4d4fc09a56f7");
         return new ValueTask<string>(request.DialogId);
     }

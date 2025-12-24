@@ -1,6 +1,142 @@
 {
     "manifest": [
         {
+            "key": "assets/content/items/barter/item_barter_dogtags_story/item_barter_dogtags_story_01_and_survived.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/barter/item_barter_dogtags_story/item_barter_dogtags_story_01_and_survived.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/barter/item_barter_dogtags_story/item_barter_dogtags_story_02_in_the_darkness.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/barter/item_barter_dogtags_story/item_barter_dogtags_story_03_didnt_escape_from_yourself.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/barter/item_barter_dogtags_story/item_barter_dogtags_story_04_for_humanity.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "fphands/top_team_leader_bd1_hands.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "fphands/top_operator_bd2_hands.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "fphands/top_ruaf_lieutenant_base_lod0_hands.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "fphands/top_operator_bd4_hands.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "fphands/top_ruaf_corporal_base_lod0_hands.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "fphands/top_ruaf_sergeant_base_lod0_hands.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "fphands/top_ruaf_ballistic_base_lod0_hands.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "fphands/top_operator_bd3_hands.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "fphands/top_ruaf_major_base_lod0_hands.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "fphands/top_civilian_port_yellowcoat_lod0_hands.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "fphands/top_civilian_port_sweater_lod0_hands.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "fphands/top_civilian_port_jacket_lod0_hands.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/audio/phrases/bear_05_nikita_voice.bundle",
             "dependencyKeys": []
         },
@@ -2364,6 +2500,14 @@
             ]
         },
         {
+            "key": "assets/content/items/equipment/rig_m1/item_equipment_rig_m1.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/items/equipment/rig_m2/item_equipment_rig_m2_winter.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
@@ -4431,16 +4575,16 @@
         {
             "key": "assets/content/weapons/miller/weapon_miller_bros_m-2_brown_container.bundle",
             "dependencyKeys": [
-              "shaders",
-              "cubemaps",
-              "assets/commonassets/physics/physicsmaterials.bundle",
-              "assets/content/weapons/weapon_root_anim_fix.bundle",
-              "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
-              "assets/systems/effects/heathaze/defaultheathaze.bundle",
-              "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-              "assets/content/audio/weapons/generic",
-              "assets/content/audio/blendoptions/assets.bundle",
-              "assets/content/weapons/additional_hands/client_assets.bundle"
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
             ]
         },
         {

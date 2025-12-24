@@ -18,9 +18,9 @@
     "profileLevel": 1,
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
-    "price": 150,
+    "price": 1500000,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -41,9 +41,9 @@
     "profileLevel": 1,
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
-    "price": 150,
+    "price": 1500000,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -69,7 +69,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -95,7 +95,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["6948996f192a4d4fc09a56f7"]
   },
   {
     "type": "top",
@@ -117,9 +117,9 @@
     "profileLevel": 1,
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
-    "price": 150,
+    "price": 1500000,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -145,7 +145,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -169,7 +169,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -193,7 +193,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["6948996f192a4d4fc09a56f7"]
   },
   {
     "type": "top",
@@ -216,7 +216,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -239,7 +239,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -263,7 +263,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -289,7 +289,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -313,9 +313,9 @@
     "profileLevel": 1,
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
-    "price": 150,
+    "price": 1500000,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -338,7 +338,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -361,7 +361,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -384,7 +384,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -406,9 +406,9 @@
     "profileLevel": 1,
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
-    "price": 150,
+    "price": 1500000,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -418,12 +418,12 @@
     "handsId": "692a5c4299229b622de66d81",
     "locales": {
       "en": {
-        "name": "Top_Civilian_Port_Jacket_TG",
-        "description": "Orphaned Top - Needs Hands"
+        "name": "Civilian Port Jacket (TG)",
+        "description": "Civilian Jacket"
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_civilian_port_jacket_tg.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "handsBundlePath": "fphands/top_civilian_port_jacket_lod0_hands.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -431,7 +431,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "top",
@@ -441,12 +441,12 @@
     "handsId": "692a5c47cde93481db7e2bb4",
     "locales": {
       "en": {
-        "name": "Top_Civilian_Port_Jacket_Yellow",
-        "description": "Orphaned Top - Needs Hands"
+        "name": "Civilian Port Jacket (Yellow)",
+        "description": "Civilian Jacket"
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_civilian_port_jacket_yellow.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "handsBundlePath": "fphands/top_civilian_port_jacket_lod0_hands.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -454,7 +454,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "top",
@@ -464,12 +464,12 @@
     "handsId": "692a5128bd24b7d7b754a312",
     "locales": {
       "en": {
-        "name": "Top_Civilian_Port_Sweater_Orange",
-        "description": "Orphaned Top - Needs Hands"
+        "name": "Civilian Port Sweater (Orange)",
+        "description": "Civilian Sweater"
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_civilian_port_sweater_orange.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "handsBundlePath": "fphands/top_civilian_port_sweater_lod0_hands.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -477,7 +477,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "top",
@@ -487,12 +487,12 @@
     "handsId": "692a512603d28a3680688aff",
     "locales": {
       "en": {
-        "name": "Top_Civilian_Port_Yellowcoat_Orange",
-        "description": "Orphaned Top - Needs Hands"
+        "name": "Civilian Port Raincoat (Orange)",
+        "description": "Civilian Jacket"
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_civilian_port_yellowcoat_orange.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "handsBundlePath": "fphands/top_civilian_port_yellowcoat_lod0_hands.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -500,7 +500,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "top",
@@ -510,12 +510,12 @@
     "handsId": "692a512c8e2db159b344a46d",
     "locales": {
       "en": {
-        "name": "Top_RUAF_Major",
-        "description": "Orphaned Top - Needs Hands"
+        "name": "RUAF Major",
+        "description": "Military Jacket"
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_ruaf_major.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "handsBundlePath": "fphands/top_ruaf_major_base_lod0_hands.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -523,7 +523,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "top",
@@ -533,12 +533,12 @@
     "handsId": "692a512d0eab61d758387da3",
     "locales": {
       "en": {
-        "name": "Top_BD_Operator_03",
-        "description": "Orphaned Top - Needs Hands"
+        "name": "Black Division Operator (V3)",
+        "description": "[REDACTED]"
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_bd_operator_03.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "handsBundlePath": "fphands/top_operator_bd3_hands.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -546,7 +546,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "top",
@@ -556,12 +556,12 @@
     "handsId": "692a512ff82eaecd774bd519",
     "locales": {
       "en": {
-        "name": "Top_RUAF_Ballistic",
-        "description": "Orphaned Top - Needs Hands"
+        "name": "RUAF Ballistic",
+        "description": "Military Jacket"
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_ruaf_ballistic.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "handsBundlePath": "fphands/top_ruaf_ballistic_base_lod0_hands.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -569,7 +569,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "top",
@@ -579,12 +579,12 @@
     "handsId": "692a5131a1971499a0327a8a",
     "locales": {
       "en": {
-        "name": "Top_RUAF_Sergeant",
-        "description": "Orphaned Top - Needs Hands"
+        "name": "RUAF Sergeant",
+        "description": "Military Jacket"
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_ruaf_sergeant.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "handsBundlePath": "fphands/top_ruaf_sergeant_base_lod0_hands.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -592,7 +592,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "top",
@@ -602,12 +602,12 @@
     "handsId": "692a513370caa33270c0c84c",
     "locales": {
       "en": {
-        "name": "Top_Civilian_Port_Yellowcoat_Yellow",
-        "description": "Orphaned Top - Needs Hands"
+        "name": "Civilian Port Raincoat (Yellow)",
+        "description": "Civilian Jacket"
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_civilian_port_yellowcoat_yellow.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "handsBundlePath": "fphands/top_civilian_port_yellowcoat_lod0_hands.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -615,7 +615,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "top",
@@ -625,12 +625,12 @@
     "handsId": "692a513562a4e1cd8127a548",
     "locales": {
       "en": {
-        "name": "Top_RUAF_Corporal",
-        "description": "Orphaned Top - Needs Hands"
+        "name": "RUAF Corporal",
+        "description": "Military Jacket"
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_ruaf_corporal.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "handsBundlePath": "fphands/top_ruaf_corporal_base_lod0_hands.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -638,7 +638,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "top",
@@ -648,12 +648,12 @@
     "handsId": "692a5137256f7daf5e43c9d0",
     "locales": {
       "en": {
-        "name": "Top_BD_Operator_04",
-        "description": "Orphaned Top - Needs Hands"
+        "name": "Black Division Operator (V4)",
+        "description": "[REDACTED]"
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_bd_operator_04.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "handsBundlePath": "fphands/top_operator_bd4_hands.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -661,7 +661,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "top",
@@ -671,12 +671,12 @@
     "handsId": "692a51399cf4c47071bd9758",
     "locales": {
       "en": {
-        "name": "Top_RUAF_Lieutenant",
-        "description": "Orphaned Top - Needs Hands"
+        "name": "RUAF Lieutenant",
+        "description": "Military Jacket"
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_ruaf_lieutenant.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "handsBundlePath": "fphands/top_ruaf_lieutenant_base_lod0_hands.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -684,7 +684,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "top",
@@ -694,12 +694,12 @@
     "handsId": "692a513b0c5c6a331c1ebcef",
     "locales": {
       "en": {
-        "name": "Top_BD_Operator_02",
-        "description": "Orphaned Top - Needs Hands"
+        "name": "Black Division Operator (V2)",
+        "description": "[REDACTED]"
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_bd_operator_02.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "handsBundlePath": "fphands/top_operator_bd2_hands.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -707,7 +707,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "top",
@@ -717,12 +717,12 @@
     "handsId": "692a513dab629370a3e1258f",
     "locales": {
       "en": {
-        "name": "Top_Civilian_Port_Sweater_Yellow",
-        "description": "Orphaned Top - Needs Hands"
+        "name": "Civilian Port Sweater (Yellow)",
+        "description": "Civilian Jacket"
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_civilian_port_sweater_yellow.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "handsBundlePath": "fphands/top_civilian_port_sweater_lod0_hands.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -730,7 +730,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "top",
@@ -740,12 +740,12 @@
     "handsId": "692a513f26e612ad6d274c60",
     "locales": {
       "en": {
-        "name": "Top_BD_Team_Leader_01",
-        "description": "Orphaned Top - Needs Hands"
+        "name": "Black Division Leader",
+        "description": "[REDACTED]"
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_bd_team_leader_01.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "handsBundlePath": "fphands/top_team_leader_bd1_hands.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -753,7 +753,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "top",
@@ -763,12 +763,12 @@
     "handsId": "692a514183b020c028e7cfe7",
     "locales": {
       "en": {
-        "name": "Top_Civilian_Port_Jacket_Orange",
-        "description": "Orphaned Top - Needs Hands"
+        "name": "Civilian Port Jacket (Orange)",
+        "description": "Civilian Jacket"
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_civilian_port_jacket_orange.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_acu/hands_usec_acu.skin.bundle",
+    "handsBundlePath": "fphands/top_civilian_port_jacket_lod0_hands.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -776,7 +776,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "bottom",
@@ -791,12 +791,12 @@
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_sumrak_emr.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
-    "loyaltyLevel": 1,
-    "profileLevel": 1,
+    "loyaltyLevel": 2,
+    "profileLevel": 38,
     "side": ["Bear"],
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
-    "price": 150,
+    "price": 1400000,
     "questRequirements": [],
     "achievementRequirements": []
   },
@@ -813,14 +813,14 @@
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_arena_intermediate_bear.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
-    "loyaltyLevel": 1,
-    "profileLevel": 1,
+    "loyaltyLevel": 4,
+    "profileLevel": 42,
     "side": ["Bear"],
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
-    "price": 150,
+    "price": 1500000,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "bottom",
@@ -839,9 +839,9 @@
     "profileLevel": 1,
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
-    "price": 150,
+    "price": 1500000,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "bottom",
@@ -863,9 +863,9 @@
     "profileLevel": 1,
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
-    "price": 150,
+    "price": 1500000,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "bottom",
@@ -883,11 +883,11 @@
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_usec_raider_multicam.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
-    "loyaltyLevel": 1,
-    "profileLevel": 1,
+    "loyaltyLevel": 2,
+    "profileLevel": 29,
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
-    "price": 150,
+    "price": 800000,
     "questRequirements": [],
     "achievementRequirements": []
   },
@@ -898,8 +898,8 @@
     "bottomId": "68948a165d9e0b06a400694c",
     "locales": {
       "en": {
-        "name": "Pants_RUAF_Solider_2",
-        "description": "Orphaned Bottom"
+        "name": "RUAF Soldier (V2)",
+        "description": "Military Pants"
       }
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_ruaf_solider_2.bundle",
@@ -910,7 +910,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "bottom",
@@ -919,8 +919,8 @@
     "bottomId": "688dec1429e9479b850276b9",
     "locales": {
       "en": {
-        "name": "Pants_BD_Operator_03",
-        "description": "Orphaned Bottom"
+        "name": "Black Division Operator (V3)",
+        "description": "[REDACTED]"
       }
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bd_operator_03.bundle",
@@ -931,7 +931,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "bottom",
@@ -940,8 +940,8 @@
     "bottomId": "68a6fb3dc8a3ef285c060b79",
     "locales": {
       "en": {
-        "name": "Pants_Civilian_slim",
-        "description": "Orphaned Bottom"
+        "name": "Civilian Slim Pants",
+        "description": "Civilian Pants"
       }
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_civilian_slim.bundle",
@@ -952,7 +952,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "bottom",
@@ -961,8 +961,8 @@
     "bottomId": "688de71374514d35fd003556",
     "locales": {
       "en": {
-        "name": "Pants_BD_Operator_02",
-        "description": "Orphaned Bottom"
+        "name": "Black Division Operator (V2)",
+        "description": "[REDACTED]"
       }
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bd_operator_02.bundle",
@@ -973,7 +973,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "bottom",
@@ -982,8 +982,8 @@
     "bottomId": "68a6fb2d226a60005506fafd",
     "locales": {
       "en": {
-        "name": "Pants_Civilian_Jeans",
-        "description": "Orphaned Bottom"
+        "name": "Civilian Jeans",
+        "description": "Civilian Pants"
       }
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_civilian_jeans.bundle",
@@ -994,7 +994,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "bottom",
@@ -1003,8 +1003,8 @@
     "bottomId": "689489c18c57a8a52301d7ac",
     "locales": {
       "en": {
-        "name": "Pants_RUAF_Ballistic",
-        "description": "Orphaned Bottom"
+        "name": "RUAF Ballistic",
+        "description": "Military Pants"
       }
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_ruaf_ballistic.bundle",
@@ -1015,7 +1015,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "bottom",
@@ -1024,8 +1024,8 @@
     "bottomId": "688dddcd152c0d0767056496",
     "locales": {
       "en": {
-        "name": "Pants_BD_Team_Leader_01",
-        "description": "Orphaned Bottom"
+        "name": "Black Division Team Leader",
+        "description": "[REDACTED]"
       }
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bd_team_leader_01.bundle",
@@ -1036,7 +1036,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "bottom",
@@ -1045,8 +1045,8 @@
     "bottomId": "68948a002c87773b9f06d73d",
     "locales": {
       "en": {
-        "name": "Pants_RUAF_Solider_1",
-        "description": "Orphaned Bottom"
+        "name": "RUAF Soldier (V1)",
+        "description": "Military Pants"
       }
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_ruaf_solider_1.bundle",
@@ -1057,7 +1057,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "bottom",
@@ -1066,8 +1066,8 @@
     "bottomId": "688df7b620025952eb0e0626",
     "locales": {
       "en": {
-        "name": "Pants_BD_Operator_04",
-        "description": "Orphaned Bottom"
+        "name": "Black Division Operator (V4)",
+        "description": "[REDACTED]"
       }
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bd_operator_04.bundle",
@@ -1078,7 +1078,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   },
   {
     "type": "bottom",
@@ -1087,8 +1087,8 @@
     "bottomId": "689489dc5d9e0b06a400694a",
     "locales": {
       "en": {
-        "name": "Pants_RUAF_Officer",
-        "description": "Orphaned Bottom"
+        "name": "RUAF Officer",
+        "description": "Military Pants"
       }
     },
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_ruaf_officer.bundle",
@@ -1099,6 +1099,6 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
   }
 ]
