@@ -82,8 +82,10 @@
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "dogTags"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
@@ -182,8 +184,10 @@
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "dogTags"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
@@ -282,8 +286,10 @@
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "dogTags"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
@@ -382,8 +388,10 @@
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "dogTags"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
@@ -482,8 +490,10 @@
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "dogTags"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
@@ -582,8 +592,10 @@
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "dogTags"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
@@ -682,8 +694,10 @@
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "dogTags"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
@@ -782,8 +796,10 @@
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "dogTags"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
@@ -882,8 +898,10 @@
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "dogTags"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
@@ -982,8 +1000,10 @@
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "dogTags"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
@@ -1082,8 +1102,10 @@
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "dogTags"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
@@ -1182,8 +1204,10 @@
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "dogTags"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
@@ -1282,8 +1306,10 @@
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "dogTags"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,

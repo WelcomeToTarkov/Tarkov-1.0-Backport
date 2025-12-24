@@ -1,6 +1,6 @@
 {
   "693bfb50d5c25889e701d444": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5783c43d2459774bbe137486",
     "parentId": "5795f317245977243854e041",
     "handbookParentId": "5b5f6fa186f77409407a7eb7",
     "overrideProperties": {
@@ -108,7 +108,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 82000,
     "handbookPriceRoubles": 243,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -132,7 +132,7 @@
     "traders": {}
   },
   "6937ecd37713b904480013ac": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5c093db286f7740a1b2617e3",
     "parentId": "5795f317245977243854e041",
     "handbookParentId": "5b5f6fa186f77409407a7eb7",
     "overrideProperties": {
@@ -238,8 +238,8 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
-    "handbookPriceRoubles": 1,
+    "fleaPriceRoubles": 91200,
+    "handbookPriceRoubles": 68000,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
@@ -262,7 +262,7 @@
     "traders": {}
   },
   "6937ecc3dbdccab44605fcf0": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5c093e3486f77430cb02e593",
     "parentId": "5795f317245977243854e041",
     "handbookParentId": "5b5f6fa186f77409407a7eb7",
     "overrideProperties": {
@@ -406,8 +406,8 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
-    "handbookPriceRoubles": 1,
+    "fleaPriceRoubles": 284000,
+    "handbookPriceRoubles": 98000,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
@@ -430,7 +430,7 @@
     "traders": {}
   },
   "6937eccbfd921faceb0dfecd": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5783c43d2459774bbe137486",
     "parentId": "5795f317245977243854e041",
     "handbookParentId": "5b5f6fa186f77409407a7eb7",
     "overrideProperties": {
@@ -547,8 +547,8 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
-    "handbookPriceRoubles": 1,
+    "fleaPriceRoubles": 135000,
+    "handbookPriceRoubles": 67000,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],

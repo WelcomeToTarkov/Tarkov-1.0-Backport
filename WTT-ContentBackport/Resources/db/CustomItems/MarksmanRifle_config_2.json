@@ -1,6 +1,6 @@
 {
   "6932abeb5403890d0c09c926": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5df8ce05b11454561e39243b",
     "parentId": "5447b6194bdc2d67278b4567",
     "handbookParentId": "5b5f791486f774093f2ed3be",
     "overrideProperties": {
@@ -656,7 +656,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 195000,
     "handbookPriceRoubles": 24605,
     "addtoBots": false,
     "addtoStaticLootContainers": false,

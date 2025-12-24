@@ -98,13 +98,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -214,13 +216,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -330,13 +334,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -446,13 +452,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -562,13 +570,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -678,8 +688,10 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "smallTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
@@ -794,13 +806,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -910,13 +924,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -1026,13 +1042,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -1142,13 +1160,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -1258,13 +1278,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -1357,8 +1379,10 @@
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "smallTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
@@ -1473,13 +1497,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -1589,13 +1615,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -1705,13 +1733,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -1821,13 +1851,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -1937,13 +1969,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -2053,13 +2087,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -2169,13 +2205,15 @@
         "probability": 15
       }
     ],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
+    "addtoStatuetteSlots": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,

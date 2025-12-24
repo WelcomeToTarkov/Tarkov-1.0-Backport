@@ -1,6 +1,6 @@
 {
   "693be003582cc8870b090b41": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5f60b34a41e30a4ab12a6947",
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
@@ -238,7 +238,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 76200,
     "handbookPriceRoubles": 2566,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -291,7 +291,7 @@
     ]
   },
   "693be8f650fafa102607aed4": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5b40e1525acfc4771e1c6611",
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
@@ -491,7 +491,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 88000,
     "handbookPriceRoubles": 10524,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -550,7 +550,7 @@
     ]
   },
   "6937efd50543dcc2560a2c81": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "59e7708286f7742cbd762753",
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
@@ -673,7 +673,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 22000,
     "handbookPriceRoubles": 1825,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -697,7 +697,7 @@
     "traders": {}
   },
   "6937f02dfd6488bb27024839": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "59e7708286f7742cbd762753",
     "parentId": "5a341c4086f77401f2541505",
     "handbookParentId": "5b47574386f77428ca22b330",
     "overrideProperties": {
@@ -820,7 +820,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 58000,
     "handbookPriceRoubles": 27001,
     "addtoBots": false,
     "addtoStaticLootContainers": false,

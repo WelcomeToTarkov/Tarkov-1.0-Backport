@@ -1,6 +1,6 @@
 {
   "6932aed9be542622170428b0": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5df916dfbb49d91fb446d6b9",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -12,7 +12,8 @@
         "5a34fbadc4a28200741e230a",
         "5ae30e795acfc408fb139a0b",
         "56ea8d2fd2720b7c698b4570",
-        "55d35ee94bdc2d61338b4568"
+        "55d35ee94bdc2d61338b4568",
+        "60658776f2cb2e02a42ace2b"
       ],
       "Description": "handguard_ar10_kac_sr25_urx_31_135_inch",
       "DiscardLimit": -1,
@@ -356,9 +357,11 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 32000,
     "handbookPriceRoubles": 13160,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -382,7 +385,7 @@
     "traders": {}
   },
   "6932aec6cccd2b808a043856": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5df916dfbb49d91fb446d6b9",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -390,7 +393,10 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+        "60658776f2cb2e02a42ace2b",
+        "5a34fbadc4a28200741e230a"
+      ],
       "Description": "handguard_ar10_kac_sr25_urx_2_125_inch",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
@@ -700,9 +706,11 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 28000,
     "handbookPriceRoubles": 10249,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -726,7 +734,7 @@
     "traders": {}
   },
   "6936bd6f4737190b66053ba6": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5df916dfbb49d91fb446d6b9",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -738,7 +746,8 @@
         "5a34fbadc4a28200741e230a",
         "5ae30e795acfc408fb139a0b",
         "56ea8d2fd2720b7c698b4570",
-        "55d35ee94bdc2d61338b4568"
+        "55d35ee94bdc2d61338b4568",
+        "60658776f2cb2e02a42ace2b"
       ],
       "Description": "handguard_ar10_kac_sr25_urx_31_135_inch_tau",
       "DiscardLimit": -1,
@@ -1082,9 +1091,11 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 29000,
     "handbookPriceRoubles": 13160,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -1108,7 +1119,7 @@
     "traders": {}
   },
   "6936bd64b2b5b688e50cde36": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5df916dfbb49d91fb446d6b9",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -1116,7 +1127,10 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+        "60658776f2cb2e02a42ace2b",
+        "5a34fbadc4a28200741e230a"
+      ],
       "Description": "handguard_ar10_kac_sr25_urx_2_125_inch_tau",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
@@ -1426,9 +1440,11 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 29000,
     "handbookPriceRoubles": 10249,
     "addtoBots": false,
     "addtoStaticLootContainers": false,

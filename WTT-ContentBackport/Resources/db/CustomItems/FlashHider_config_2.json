@@ -1,6 +1,6 @@
 {
   "6932af0bbe542622170428bd": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5b7d693d5acfc43bca706a3d",
     "parentId": "550aa4bf4bdc2dd6348b456b",
     "handbookParentId": "5b5f724c86f774093f2ecf15",
     "overrideProperties": {
@@ -8,7 +8,9 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+        "681236df5cbf0518e00557a0"
+      ],
       "Description": "muzzle_ar10_potomac_armory_m110_flash_hider_762x51",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
@@ -100,9 +102,11 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 17240,
     "handbookPriceRoubles": 2235,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
