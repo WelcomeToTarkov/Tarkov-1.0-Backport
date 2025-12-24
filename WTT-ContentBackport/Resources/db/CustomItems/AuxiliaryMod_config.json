@@ -128,7 +128,7 @@
         "probability": 291
       },
       {
-        "containerName": "OOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
         "probability": 267
       },
       {
@@ -285,7 +285,7 @@
         "probability": 276
       },
       {
-        "containerName": "OOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
         "probability": 300
       },
       {
@@ -463,7 +463,7 @@
         "probability": 474
       },
       {
-        "containerName": "OOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
         "probability": 147
       },
       {
@@ -620,7 +620,7 @@
         "probability": 286
       },
       {
-        "containerName": "OOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
         "probability": 169
       },
       {
@@ -777,7 +777,7 @@
         "probability": 442
       },
       {
-        "containerName": "OOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
         "probability": 340
       },
       {
@@ -934,7 +934,7 @@
         "probability": 187
       },
       {
-        "containerName": "OOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
         "probability": 229
       },
       {
@@ -1091,7 +1091,7 @@
         "probability": 159
       },
       {
-        "containerName": "OOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
         "probability": 220
       },
       {
@@ -1248,7 +1248,7 @@
         "probability": 488
       },
       {
-        "containerName": "OOTCONTAINER_WOODEN_CRATE_5X2_2",
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE_5X2_2",
         "probability": 210
       },
       {
