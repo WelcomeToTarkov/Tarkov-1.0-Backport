@@ -5,10 +5,10 @@
     "_parent": "6746fafabafff8500804880e",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "dogtags_square_tarkov2025",
       "Name": "dogtags_square_tarkov2025",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "dogtags_square_tarkov2025",
       "Side": [
         "Bear",
@@ -24,10 +24,10 @@
     "_parent": "6746fafabafff8500804880e",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "dogtag_bear_immortal",
       "Name": "dogtag_bear_immortal",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "dogtag_bear_immortal",
       "Side": [
         "Bear"
@@ -42,10 +42,10 @@
     "_parent": "6746fafabafff8500804880e",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "dogtag_usec_immortal",
       "Name": "dogtag_usec_immortal",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "dogtag_usec_immortal",
       "Side": [
         "Usec"
@@ -60,10 +60,10 @@
     "_parent": "6746fafabafff8500804880e",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "dogtags_melted_tarkov2025",
       "Name": "dogtags_melted_tarkov2025",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "dogtags_melted_tarkov2025",
       "Side": [
         "Bear",
@@ -79,10 +79,10 @@
     "_parent": "6746fafabafff8500804880e",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "dogtags_twitch",
       "Name": "dogtags_twitch",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "dogtags_twitch",
       "Side": [
         "Bear",
@@ -98,10 +98,10 @@
     "_parent": "6746fafabafff8500804880e",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "dogtag_story_04_for_humanity",
       "Name": "dogtag_story_04_for_humanity",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "dogtag_story_04_for_humanity",
       "Side": [
         "Bear",
@@ -117,10 +117,10 @@
     "_parent": "6746fafabafff8500804880e",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "dogtag_story_02_in_the_darkness",
       "Name": "dogtag_story_02_in_the_darkness",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "dogtag_story_02_in_the_darkness",
       "Side": [
         "Bear",
@@ -136,10 +136,10 @@
     "_parent": "6746fafabafff8500804880e",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "dogtag_prestige_6",
       "Name": "dogtag_prestige_6",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "dogtag_prestige_6",
       "Side": [
         "Bear",
@@ -155,10 +155,10 @@
     "_parent": "6746fafabafff8500804880e",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "dogtag_story_03_didnt_escape_from_yourself",
       "Name": "dogtag_story_03_didnt_escape_from_yourself",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "dogtag_story_03_didnt_escape_from_yourself",
       "Side": [
         "Bear",
@@ -174,10 +174,10 @@
     "_parent": "6746fafabafff8500804880e",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "dogtag_usec_acolyte",
       "Name": "dogtag_usec_acolyte",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "dogtag_usec_acolyte",
       "Side": [
         "Usec"
@@ -192,10 +192,10 @@
     "_parent": "6746fafabafff8500804880e",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "dogtag_story_01_and_survived",
       "Name": "dogtag_story_01_and_survived",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "dogtag_story_01_and_survived",
       "Side": [
         "Bear",
@@ -211,10 +211,10 @@
     "_parent": "6746fafabafff8500804880e",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "dogtag_bear_acolyte",
       "Name": "dogtag_bear_acolyte",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "dogtag_bear_acolyte",
       "Side": [
         "Bear"
@@ -229,10 +229,10 @@
     "_parent": "6746fafabafff8500804880e",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "dogtag_prestige_5",
       "Name": "dogtag_prestige_5",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "dogtag_prestige_5",
       "Side": [
         "Bear",

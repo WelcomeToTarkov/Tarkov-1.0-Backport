@@ -5,6 +5,7 @@ using SPTarkov.Server.Core.Helpers;
 using SPTarkov.Server.Core.Models.Spt.Mod;
 using SPTarkov.Server.Core.Services.Image;
 using WTTContentBackport.Helpers;
+using WTTExampleMod.Patches;
 using WTTServerCommonLib.Models;
 using Range = SemanticVersioning.Range;
 
@@ -44,6 +45,8 @@ public class WTTContentBackport(
         await wttCommon.CustomVoiceService.CreateCustomVoices(assembly);
         await wttCommon.CustomCustomizationService.CreateCustomCustomizations(assembly);
         await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
+        await wttCommon.CustomAchievementService.CreateCustomAchievements(assembly);
+        new AddCustomisationUnlocksToProfilePatch().Enable();
         backportQuestHelper.ModifyQuests();
     }
 }

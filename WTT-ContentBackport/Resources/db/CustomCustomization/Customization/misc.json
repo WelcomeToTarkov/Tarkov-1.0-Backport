@@ -5,16 +5,16 @@
     "_parent": "67373f1e5a5ee73f2a081baf",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "ForgottenWall",
       "Name": "ForgottenWall",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "ForgottenWall",
       "Side": [
         "Usec",
         "Bear"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_forgotten.bundle",
         "rcid": ""
@@ -28,16 +28,16 @@
     "_parent": "67373f330eca6e03ab0d5394",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "TargetAxeman",
       "Name": "TargetAxeman",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "TargetAxeman",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "",
         "rcid": "TargetAxeman"
@@ -50,16 +50,16 @@
     "_parent": "67373f330eca6e03ab0d5394",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "TargetTagilla",
       "Name": "TargetTagilla",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "TargetTagilla",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "",
         "rcid": "TargetTagilla"
@@ -72,16 +72,16 @@
     "_parent": "67373f330eca6e03ab0d5394",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "TargetZryachiy",
       "Name": "TargetZryachiy",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "TargetZryachiy",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "",
         "rcid": "TargetZryachiy"
@@ -94,16 +94,16 @@
     "_parent": "67373f330eca6e03ab0d5394",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "TargetKnight",
       "Name": "TargetKnight",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "TargetKnight",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "",
         "rcid": "TargetKnight"
@@ -116,16 +116,16 @@
     "_parent": "673b3f595bf6b605c90fcdc2",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "Story03DidntEscapeFromYourselfCeiling",
       "Name": "Story03DidntEscapeFromYourselfCeiling",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "Story03DidntEscapeFromYourselfCeiling",
       "Side": [
         "Usec",
         "Bear"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_ending_03.bundle",
         "rcid": ""
@@ -138,16 +138,16 @@
     "_parent": "673b3f595bf6b605c90fcdc2",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "Story04ForHumanityCeiling",
       "Name": "Story04ForHumanityCeiling",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "Story04ForHumanityCeiling",
       "Side": [
         "Usec",
         "Bear"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_story_04_for_humanity.bundle",
         "rcid": ""
@@ -160,16 +160,16 @@
     "_parent": "67373f170eca6e03ab0d5391",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "EchoOfBattleFloor",
       "Name": "EchoOfBattleFloor",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "EchoOfBattleFloor",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_echo_of_battle.bundle",
         "rcid": ""
@@ -183,16 +183,16 @@
     "_parent": "67373f170eca6e03ab0d5391",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "Story04ForHumanityFloor",
       "Name": "Story04ForHumanityFloor",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "Story04ForHumanityFloor",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_story_04_for_humanity.bundle",
         "rcid": ""
@@ -206,16 +206,16 @@
     "_parent": "67373f1e5a5ee73f2a081baf",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "Story02InTheDarknessWall",
       "Name": "Story02InTheDarknessWall",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "Story02InTheDarknessWall",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_story_02_in_the_darkness.bundle",
         "rcid": ""
@@ -229,16 +229,16 @@
     "_parent": "67373f170eca6e03ab0d5391",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "Story02InTheDarknessFloor",
       "Name": "Story02InTheDarknessFloor",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "Story02InTheDarknessFloor",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_story_02_in_the_darkness.bundle",
         "rcid": ""
@@ -252,16 +252,16 @@
     "_parent": "67373f330eca6e03ab0d5394",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "TargetCockerel",
       "Name": "TargetCockerel",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "TargetCockerel",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "",
         "rcid": "TargetCockerel"
@@ -274,16 +274,16 @@
     "_parent": "67373f330eca6e03ab0d5394",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "TargetKilla",
       "Name": "TargetKilla",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "TargetKilla",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "",
         "rcid": "TargetKilla"
@@ -296,16 +296,16 @@
     "_parent": "673b3f595bf6b605c90fcdc2",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "ForgottenCeiling",
       "Name": "ForgottenCeiling",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "ForgottenCeiling",
       "Side": [
         "Usec",
         "Bear"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_forgotten.bundle",
         "rcid": ""
@@ -318,16 +318,16 @@
     "_parent": "67373f1e5a5ee73f2a081baf",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "Story01AndSurvivedWall",
       "Name": "Story01AndSurvivedWall",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "Story01AndSurvivedWall",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_story_01_and_survived.bundle",
         "rcid": ""
@@ -341,16 +341,16 @@
     "_parent": "673b3f595bf6b605c90fcdc2",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "EchoOfBattleCeiling",
       "Name": "EchoOfBattleCeiling",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "EchoOfBattleCeiling",
       "Side": [
         "Usec",
         "Bear"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_echo_of_battle.bundle",
         "rcid": ""
@@ -363,16 +363,16 @@
     "_parent": "673b3f595bf6b605c90fcdc2",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "Story01AndSurvivedCeiling",
       "Name": "Story01AndSurvivedCeiling",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "Story01AndSurvivedCeiling",
       "Side": [
         "Usec",
         "Bear"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_story_01_and_survived.bundle",
         "rcid": ""
@@ -385,16 +385,16 @@
     "_parent": "67373f170eca6e03ab0d5391",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "ForgottenFloor",
       "Name": "ForgottenFloor",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "ForgottenFloor",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_forgotten.bundle",
         "rcid": ""
@@ -408,16 +408,16 @@
     "_parent": "67373f170eca6e03ab0d5391",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "Story01AndSurvivedFloor",
       "Name": "Story01AndSurvivedFloor",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "Story01AndSurvivedFloor",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_story_01_and_survived.bundle",
         "rcid": ""
@@ -431,16 +431,16 @@
     "_parent": "67373f330eca6e03ab0d5394",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "TargetAceOfSpades",
       "Name": "TargetAceOfSpades",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "TargetAceOfSpades",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "",
         "rcid": "TargetAceOfSpades"
@@ -453,16 +453,16 @@
     "_parent": "67373f1e5a5ee73f2a081baf",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "Story03DidntEscapeFromYourselfWall",
       "Name": "Story03DidntEscapeFromYourselfWall",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "Story03DidntEscapeFromYourselfWall",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_ending_03.bundle",
         "rcid": ""
@@ -470,23 +470,22 @@
       "HideGarbage": true
     }
   },
-
   "68df9b2e3772634bf40f4f1c": {
     "_id": "68df9b2e3772634bf40f4f1c",
     "_name": "Story04ForHumanityWall",
     "_parent": "67373f1e5a5ee73f2a081baf",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "Story04ForHumanityWall",
       "Name": "Story04ForHumanityWall",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "Story04ForHumanityWall",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_story_04_for_humanity.bundle",
         "rcid": ""
@@ -500,39 +499,38 @@
     "_parent": "673b3f595bf6b605c90fcdc2",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "Story02InTheDarknessCeiling",
       "Name": "Story02InTheDarknessCeiling",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "Story02InTheDarknessCeiling",
       "Side": [
         "Usec",
         "Bear"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_story_02_in_the_darkness.bundle",
         "rcid": ""
       }
     }
   },
-
   "68df9a222e6cd294e908d1eb": {
     "_id": "68df9a222e6cd294e908d1eb",
     "_name": "Story03DidntEscapeFromYourselfFloor",
     "_parent": "67373f170eca6e03ab0d5391",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "Story03DidntEscapeFromYourselfFloor",
       "Name": "Story03DidntEscapeFromYourselfFloor",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "Story03DidntEscapeFromYourselfFloor",
       "Side": [
         "Bear",
         "Usec"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_ending_03.bundle",
         "rcid": ""
@@ -540,23 +538,22 @@
       "HideGarbage": true
     }
   },
-
   "68fb6a584e7ecdb1220adfa5": {
     "_id": "68fb6a584e7ecdb1220adfa5",
     "_name": "EchoOfBattleWall",
     "_parent": "67373f1e5a5ee73f2a081baf",
     "_type": "Item",
     "_props": {
-      "AvailableAsDefault": true,
+      "AvailableAsDefault": false,
       "Description": "EchoOfBattleWall",
       "Name": "EchoOfBattleWall",
-      "ProfileVersions": ["edge_of_darkness", "unheard"],
+      "ProfileVersions": [],
       "ShortName": "EchoOfBattleWall",
       "Side": [
         "Usec",
         "Bear"
       ],
-      "HiddenByDefault": false,
+      "HiddenByDefault": true,
       "AssetPath": {
         "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_echo_of_battle.bundle",
         "rcid": ""

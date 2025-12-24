@@ -109,9 +109,7 @@
         "description": "Sportswear"
       }
     },
-    "side": [
-      "Bear"
-    ],
+    "side": ["Bear"],
     "topBundlePath": "assets/content/characters/character/prefabs/top_arena_rusguard_4_bear.bundle",
     "handsBundlePath": "assets/content/hands/hands_arena_rusguard_4/hands_arena_rusguard_4_bear.skin.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
@@ -161,9 +159,7 @@
         "description": "Hawaiian shirt"
       }
     },
-    "side": [
-      "Bear"
-    ],
+    "side": ["Bear"],
     "topBundlePath": "assets/content/characters/character/prefabs/top_bear_kit_upper_hawaii_miami.bundle",
     "handsBundlePath": "assets/content/hands/hands_bear_kit_upper_hawaii_miami/hands_bear_kit_upper_hawaii_miami.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
@@ -187,9 +183,7 @@
         "description": "Camo jacket"
       }
     },
-    "side": [
-      "Bear"
-    ],
+    "side": ["Bear"],
     "topBundlePath": "assets/content/characters/character/prefabs/top_bear_sumrak_reverse_side.bundle",
     "handsBundlePath": "assets/content/hands/hands_bear_sumrak/hands_bear_sumrak_reverse_side.skin.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
@@ -259,9 +253,7 @@
         "description": "Hawaii shirt"
       }
     },
-    "side": [
-      "Bear"
-    ],
+    "side": ["Bear"],
     "topBundlePath": "assets/content/characters/character/prefabs/top_bear_hawaii_02.bundle",
     "handsBundlePath": "assets/content/hands/hands_bear_hawaii_02/hands_bear_hawaii_02.skin.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
@@ -406,9 +398,7 @@
         "description": "Tank hoodie"
       }
     },
-    "side": [
-      "Bear"
-    ],
+    "side": ["Bear"],
     "topBundlePath": "assets/content/characters/character/prefabs/top_arena_intermediate_bear.bundle",
     "handsBundlePath": "assets/content/hands/hands_arena_intermediate/hands_arena_intermediate_bear.skin.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
@@ -803,6 +793,7 @@
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
+    "side": ["Bear"],
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
@@ -824,6 +815,7 @@
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
+    "side": ["Bear"],
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
@@ -856,6 +848,9 @@
     "suiteId": "68bc3458f90f9465d406250a",
     "outfitId": "68bc3458f90f9465d406250a",
     "bottomId": "68bc2d7b5997832aa10e08fa",
+    "side": [
+      "Usec"
+    ],
     "locales": {
       "en": {
         "name": "USEC Gladiator",
@@ -877,6 +872,9 @@
     "suiteId": "68dbb1acb59e2c0b7e08e4df",
     "outfitId": "68dbb1acb59e2c0b7e08e4df",
     "bottomId": "68dbae96d3604076f90b18bb",
+    "side": [
+      "Usec"
+    ],
     "locales": {
       "en": {
         "name": "USEC Legionnaire MC",

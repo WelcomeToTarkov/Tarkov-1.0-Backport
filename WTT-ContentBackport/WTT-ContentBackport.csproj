@@ -15,12 +15,20 @@
   <ItemGroup>
     <PackageReference Include="SPTarkov.Common" Version="4.0.3" />
     <PackageReference Include="SPTarkov.DI" Version="4.0.3" />
+    <PackageReference Include="SPTarkov.Reflection" Version="4.0.3" />
     <PackageReference Include="SPTarkov.Server.Core" Version="4.0.3" />
-    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.6" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Resources\bundles\" />
+    <Folder Include="Resources\db\CustomAchievements\Images\" />
+    <Folder Include="Resources\db\CustomCustomization\CustomizationStorage\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="WTT-ServerCommonLib">
+      <HintPath>..\..\..\SPT\user\mods\WTT-ServerCommonLib\WTT-ServerCommonLib.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 <Target Name="PostBuild" AfterTargets="PostBuildEvent">

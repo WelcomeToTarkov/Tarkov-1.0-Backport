@@ -2,62 +2,331 @@
   {
     "id": "68fb6f6ffe837b263675b307",
     "conditions": [
-
+      {
+        "id": "694412a38f1f7347e1665ca3",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "conditionType": "Block"
+      }
     ],
     "type": "ceiling",
     "index": 0,
     "systemName": "Celling_Forgotten",
-    "isEnabled": true,
+    "isEnabled": false,
     "itemId": "68fb6aa63545a39de907326f"
+  },
+  {
+    "id": "68e38d7b0e90c0b29e3a221f",
+    "conditions": [
+      {
+        "id": "6904cc2c1dd8e41819b4105a",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "wall",
+    "index": 0,
+    "systemName": "Wall_Story_1",
+    "isEnabled": true,
+    "itemId": "68df9abc5d4e135b130392d2"
+  },
+  {
+    "id": "68e38e49d2f4bb5ba260eca1",
+    "conditions": [
+      {
+        "id": "68e38e5189065aa919ca5e06",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "wall",
+    "index": 0,
+    "systemName": "Wall_Story_2",
+    "isEnabled": true,
+    "itemId": "68df9ac5a38a5e37d80df6cd"
+  },
+  {
+    "id": "68e38f820a587fadc2ce542a",
+    "conditions": [
+      {
+        "id": "68e38f8c4f8f2ea627daa0f3",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "wall",
+    "index": 0,
+    "systemName": "Wall_Story_3",
+    "isEnabled": true,
+    "itemId": "68df9b2642e96f583d042b8c"
+  },
+  {
+    "id": "68e38fc504f58848921d37fb",
+    "conditions": [
+      {
+        "id": "68e38fce485f69f01127aa04",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "wall",
+    "index": 0,
+    "systemName": "Wall_Story_4",
+    "isEnabled": true,
+    "itemId": "68df9b2e3772634bf40f4f1c"
+  },
+  {
+    "id": "68e38fe44584efc7140660e9",
+    "conditions": [
+      {
+        "id": "68e38fec920da3cac7566321",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "floor",
+    "index": 0,
+    "systemName": "Floor_Story_1",
+    "isEnabled": true,
+    "itemId": "68df9a053772634bf40f4f18"
+  },
+  {
+    "id": "68e38ffb9e8881f975bfdef4",
+    "conditions": [
+      {
+        "id": "68e3900e39ee42b17e0c05bf",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "floor",
+    "index": 0,
+    "systemName": "Floor_Story_2",
+    "isEnabled": true,
+    "itemId": "68df9a14972cf1e1ec07256c"
+  },
+  {
+    "id": "68e39030bab0d8814676ccc9",
+    "conditions": [
+      {
+        "id": "68e39037e4be3ec9babb7b12",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "floor",
+    "index": 0,
+    "systemName": "Floor_Story_3",
+    "isEnabled": true,
+    "itemId": "68df9a222e6cd294e908d1eb"
+  },
+  {
+    "id": "68e39041fa4799b385f5ca4b",
+    "conditions": [
+      {
+        "id": "68e39047a63dab21b8b30108",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "floor",
+    "index": 0,
+    "systemName": "Floor_Story_4",
+    "isEnabled": true,
+    "itemId": "68df9a2d3772634bf40f4f1a"
+  },
+  {
+    "id": "68e3905c76dc6a1fba1487ce",
+    "conditions": [
+      {
+        "id": "68e390647070dd5fd5355930",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "ceiling",
+    "index": 0,
+    "systemName": "Ceiling_Story_1",
+    "isEnabled": true,
+    "itemId": "68df9a925d4e135b130392ce"
+  },
+  {
+    "id": "68e3907121f4c692d5d46a2f",
+    "conditions": [
+      {
+        "id": "68e39077f61c9942ccfa4c4c",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "ceiling",
+    "index": 0,
+    "systemName": "Ceiling_Story_2",
+    "isEnabled": true,
+    "itemId": "68df9a9ba38a5e37d80df6cb"
+  },
+  {
+    "id": "68e39081611926961f75c74e",
+    "conditions": [
+      {
+        "id": "68e39089d5e7590aefbd4b3b",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "ceiling",
+    "index": 0,
+    "systemName": "Ceiling_Story_3",
+    "isEnabled": true,
+    "itemId": "68df9aa45d4e135b130392d0"
+  },
+  {
+    "id": "68e3909217e2b78bf5057c3c",
+    "conditions": [
+      {
+        "id": "68e39099dd1f5b4425978c3b",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "ceiling",
+    "index": 0,
+    "systemName": "Ceiling_Story_4",
+    "isEnabled": true,
+    "itemId": "68df9aaf637781242a0b22fa"
   },
   {
     "id": "68fb6fb9463114d454c027f4",
     "conditions": [
-
+      {
+        "id": "694412a08669f23569665ca2",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "conditionType": "Block"
+      }
     ],
     "type": "ceiling",
     "index": 0,
     "systemName": "Ceiling_EchoOfBattle",
-    "isEnabled": true,
+    "isEnabled": false,
     "itemId": "68fb6abe365db7fe8a0e25ef"
   },
   {
     "id": "68fb6e2702ea5d0cc06d7c6e",
     "conditions": [
-
+      {
+        "id": "6944129c50db479149665ca1",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "conditionType": "Block"
+      }
     ],
     "type": "floor",
     "index": 0,
     "systemName": "Floor_Forgotten",
-    "isEnabled": true,
+    "isEnabled": false,
     "itemId": "68fb6a703545a39de9073267"
   },
   {
     "id": "68fb6eb96ed5f4557af480d5",
     "conditions": [
-
+      {
+        "id": "69441293b6768b3e42665ca0",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "conditionType": "Block"
+      }
     ],
     "type": "floor",
     "index": 0,
     "systemName": "Floor_EchoOfBattle",
-    "isEnabled": true,
+    "isEnabled": false,
     "itemId": "68fb6a7cf91c87952f0c4fe5"
-  },
-  {
-    "id": "6758472232e5ca2c980a17ff",
-    "conditions": [
-
-    ],
-    "type": "floor",
-    "index": 0,
-    "systemName": "Floor_WoodPlane",
-    "isEnabled": true,
-    "itemId": "675466ea8b3797a0e8038bd2"
   },
   {
     "id": "68f619d9d23c3d2d45fb09d0",
     "conditions": [
-
+      {
+        "id": "69460d4254c2a4207e9f67d7",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "conditionType": "Block"
+      }
     ],
     "type": "shootingRangeMark",
     "index": 0,
@@ -68,7 +337,15 @@
   {
     "id": "68f6449ab73a44dece438af0",
     "conditions": [
-
+      {
+        "id": "6946014ecf8d8166ee9f67d2",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "conditionType": "Block"
+      }
     ],
     "type": "shootingRangeMark",
     "index": 0,
@@ -79,7 +356,15 @@
   {
     "id": "68f1572c12acbcd166996567",
     "conditions": [
-
+      {
+        "id": "69488da32b65c599809a56b0",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "conditionType": "Block"
+      }
     ],
     "type": "shootingRangeMark",
     "index": 0,
@@ -90,7 +375,15 @@
   {
     "id": "68f1592f01e91e252775154c",
     "conditions": [
-
+      {
+        "id": "6945bc0380d9e196649f67cd",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "conditionType": "Block"
+      }
     ],
     "type": "shootingRangeMark",
     "index": 0,
@@ -99,9 +392,37 @@
     "itemId": "68f151258e0bff44ce023f20"
   },
   {
+    "id": "68f1162a4efc05c9298968e6",
+    "conditions": [
+      {
+        "id": "69485b1b7378b7c11fff89c0",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "shootingRangeMark",
+    "index": 0,
+    "systemName": "Target_Cockerel",
+    "isEnabled": true,
+    "itemId": "68f11506a1e799f1c3027c79"
+  },
+  {
     "id": "68f15ac29b55416f515c0c5b",
     "conditions": [
-
+      {
+        "id": "6762113d8eb168bb61eba23d",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "conditionType": "Block"
+      }
     ],
     "type": "shootingRangeMark",
     "index": 0,
@@ -112,7 +433,15 @@
   {
     "id": "68f15b8fc99c22fc2ddb03df",
     "conditions": [
-
+      {
+        "id": "69488d755d01fa5b099a56ae",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "conditionType": "Block"
+      }
     ],
     "type": "shootingRangeMark",
     "index": 0,
@@ -123,23 +452,39 @@
   {
     "id": "68fb6c97405c8cf0eeb89c9b",
     "conditions": [
-
+      {
+        "id": "694412c22dc78cb110665cab",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "conditionType": "Block"
+      }
     ],
     "type": "wall",
     "index": 0,
     "systemName": "Wall_Forgotten",
-    "isEnabled": true,
+    "isEnabled": false,
     "itemId": "68fb6a28f0b98c76ea0dc313"
   },
   {
     "id": "68fb6dc4a13679ac8ab7dcdd",
     "conditions": [
-
+      {
+        "id": "694412c70f6569bb2e665cac",
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "conditionType": "Block"
+      }
     ],
     "type": "wall",
     "index": 0,
     "systemName": "Wall_EchoOfBattle",
-    "isEnabled": true,
+    "isEnabled": false,
     "itemId": "68fb6a584e7ecdb1220adfa5"
   }
 ]

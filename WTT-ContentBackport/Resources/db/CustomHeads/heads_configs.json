@@ -1,7 +1,8 @@
 {
     "68a6fb5ca1eb443ead010e8a": {
         "path": "assets/content/characters/character/prefabs/head_civilian_1.bundle",
-        "addHeadToPlayer": true,
+        "addHeadToPlayer": false,
+        "availableAsDefault": false,
         "side": [
             "Bear",
             "Usec"
@@ -12,7 +13,8 @@
     },
     "68fb8872fb3842532002cbc1": {
         "path": "assets/content/characters/character/prefabs/usec_head_sean_tattoo.bundle",
-        "addHeadToPlayer": true,
+        "addHeadToPlayer": false,
+        "availableAsDefault": false,
         "side": [
             "Usec"
         ],
@@ -22,7 +24,8 @@
     },
     "68a6fb6d62b09585f80dd73b": {
         "path": "assets/content/characters/character/prefabs/head_civilian_2.bundle",
-        "addHeadToPlayer": true,
+        "addHeadToPlayer": false,
+        "availableAsDefault": false,
         "side": [
             "Bear",
             "Usec"
@@ -33,7 +36,8 @@
     },
     "68a6fb8ac8a3ef285c060b7b": {
         "path": "assets/content/characters/character/prefabs/head_civilian_4.bundle",
-        "addHeadToPlayer": true,
+        "addHeadToPlayer": false,
+        "availableAsDefault": false,
         "side": [
             "Bear",
             "Usec"
@@ -44,7 +48,8 @@
     },
     "68a6fb7a226a60005506faff": {
         "path": "assets/content/characters/character/prefabs/head_civilian_3.bundle",
-        "addHeadToPlayer": true,
+        "addHeadToPlayer": false,
+        "availableAsDefault": false,
         "side": [
             "Bear",
             "Usec"
@@ -55,7 +60,8 @@
     },
     "68fb88b9d4b0e9617502c1c4": {
         "path": "assets/content/characters/character/prefabs/bear_head_vas_tattoo.bundle",
-        "addHeadToPlayer": true,
+        "addHeadToPlayer": false,
+        "availableAsDefault": false,
         "side": [
             "Bear"
         ],

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "68fb6aa63545a39de907326f",
+    "source": "default",
+    "type": "ceiling"
+  },
+  {
+    "id": "68fb6abe365db7fe8a0e25ef",
+    "source": "default",
+    "type": "ceiling"
+  },
+  {
+    "id": "68fb36c5f91674307c06674d",
+    "source": "default",
+    "type": "dogTag"
+  },
+  {
+    "id": "68fb35fb2cff66eb7a008ea8",
+    "source": "default",
+    "type": "dogTag"
+  },
+  {
+    "id": "68f15e9fcacd763bbc0e2bd8",
+    "source": "default",
+    "type": "dogTag"
+  },
+  {
+    "id": "68fb6a703545a39de9073267",
+    "source": "default",
+    "type": "floor"
+  },
+  {
+    "id": "68fb6a7cf91c87952f0c4fe5",
+    "source": "default",
+    "type": "floor"
+  },
+  {
+    "id": "675466ea8b3797a0e8038bd2",
+    "source": "default",
+    "type": "floor"
+  },
+  {
+    "id": "68f615b0c7592f88510b1c32",
+    "source": "default",
+    "type": "shootingRangeMark"
+  },
+  {
+    "id": "68f6159355deae75be0f3bb6",
+    "source": "default",
+    "type": "shootingRangeMark"
+  },
+  {
+    "id": "68f1500a8e0bff44ce023f1e",
+    "source": "default",
+    "type": "shootingRangeMark"
+  },
+  {
+    "id": "68f151258e0bff44ce023f20",
+    "source": "default",
+    "type": "shootingRangeMark"
+  },
+  {
+    "id": "68f1516fd4bee20384008afa",
+    "source": "default",
+    "type": "shootingRangeMark"
+  },
+  {
+    "id": "68f151bf79e73568c40a7938",
+    "source": "default",
+    "type": "shootingRangeMark"
+  },
+  {
+    "id": "690d4eda458927196f0775f8",
+    "source": "default",
+    "type": "voice"
+  },
+  {
+    "id": "68fb6a28f0b98c76ea0dc313",
+    "source": "default",
+    "type": "wall"
+  },
+  {
+    "id": "68fb6a584e7ecdb1220adfa5",
+    "source": "default",
+    "type": "wall"
+  },
+  {
+    "id": "6746fd09bafff85008048838",
+    "source": "default",
+    "type": "dogTag"
+  },
+  {
+    "id": "67471938bafff850080488b7",
+    "source": "default",
+    "type": "dogTag"
+  }
+]
