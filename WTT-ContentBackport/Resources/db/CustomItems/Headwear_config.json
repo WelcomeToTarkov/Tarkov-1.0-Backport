@@ -238,7 +238,7 @@
     "fleaPriceRoubles": 261083,
     "handbookPriceRoubles": 8275,
     "addtoBots": false,
-    "addtoStaticLootContainers": true,
+    "addtoStaticLootContainers": false,
     "staticLootContainers": [],
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
