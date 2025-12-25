@@ -931,6 +931,156 @@
     "index": 19001
   },
   {
+    "id": "694dbb05a4a61e9ad031c609",
+    "imageUrl": "/files/achievement/drippyicon.png",
+    "assetPath": "",
+    "rewards": [
+      {
+        "id": "694d5ba7f3f792e59031c5f0",
+        "unknown": false,
+        "gameMode": [
+          "regular",
+          "pve"
+        ],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "694d5ba6ba1951091431c5ef",
+        "value": 1,
+        "isEncoded": false,
+        "findInRaid": true,
+        "items": [
+          {
+            "_id": "694d5ba6ba1951091431c5ef",
+            "_tpl": "6937eccbfd921faceb0dfecd",
+            "upd": {
+              "SpawnedInSession": true,
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "type": "Item"
+      },
+      {
+        "id": "694d5c972fd6f1d20631c5f2",
+        "unknown": false,
+        "gameMode": [
+          "regular",
+          "pve"
+        ],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "694d5c912184e8896831c5f1",
+        "value": 1,
+        "isEncoded": false,
+        "findInRaid": true,
+        "items": [
+          {
+            "_id": "694d5c912184e8896831c5f1",
+            "_tpl": "68f117b8121d878a2303eee0",
+            "upd": {
+              "SpawnedInSession": true,
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "type": "Item"
+      },
+      {
+        "id": "694d5cd8c469d9068031c5f4",
+        "unknown": false,
+        "gameMode": [
+          "regular",
+          "pve"
+        ],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "694d5cd4b5789bf0ae31c5f3",
+        "value": 1,
+        "isEncoded": false,
+        "findInRaid": true,
+        "items": [
+          {
+            "_id": "694d5cd4b5789bf0ae31c5f3",
+            "_tpl": "68d55968ca9935b3f10607a9",
+            "upd": {
+              "SpawnedInSession": true,
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "type": "Item"
+      }
+    ],
+    "conditions": {
+      "availableForFinish": [
+        {
+          "id": "694dbb25b10c59a7b031c60b",
+          "index": 0,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "value": 69,
+          "type": "Elimination",
+          "oneSessionOnly": false,
+          "completeInSeconds": 0,
+          "doNotResetIfCounterCompleted": false,
+          "isResetOnConditionFailed": false,
+          "isNecessary": false,
+          "counter": {
+            "id": "694dbb2ceb5027e49c31c60c",
+            "conditions": [
+              {
+                "id": "694dbb2ebd30a6a70b31c60d",
+                "dynamicLocale": false,
+                "target": "AnyPmc",
+                "value": 1,
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "weapon": [
+                ],
+                "bodyPart": [
+                ],
+                "daytime": {
+                  "from": 0,
+                  "to": 0
+                },
+                "distance": {
+                  "compareMethod": ">=",
+                  "value": 0
+                },
+                "resetOnSessionEnd": false,
+                "savageRole": [
+                ],
+                "enemyEquipmentExclusive": [],
+                "enemyEquipmentInclusive": [],
+                "enemyHealthEffects": [],
+                "weaponCaliber": [],
+                "weaponModsExclusive": [],
+                "weaponModsInclusive": []
+              }
+            ]
+          },
+          "conditionType": "CounterCreator"
+        }
+      ],
+      "fail": []
+    },
+    "instantComplete": false,
+    "showNotificationsInGame": false,
+    "showProgress": false,
+    "prefab": "",
+    "rarity": "Rare",
+    "hidden": false,
+    "showConditions": false,
+    "progressBarEnabled": true,
+    "side": "Pmc",
+    "index": 9001
+  },
+  {
     "id": "6945add7f611786d999f67c9",
     "imageUrl": "/files/achievement/tagillatargeticon.png",
     "assetPath": "",
