@@ -12,7 +12,7 @@ using WTTServerCommonLib.Helpers;
 namespace WTTExampleMod.Commands;
 
 [Injectable]
-public class SixSevenPrestigeCommand(
+public class TwitchGuyCommand(
     DatabaseServer databaseServer,
     MailSendService mailSendService,
     RewardHelper rewardHelper,
@@ -23,27 +23,20 @@ public class SixSevenPrestigeCommand(
         mailSendService.SendUserMessageToPlayer(sessionId, commandHandler, $"");
         var profile = profileHelper.GetFullProfile(sessionId);
         rewardHelper.AddAchievementToProfile(profile, "6948990c05f4f91bdb9a56f3");
-        rewardHelper.AddAchievementToProfile(profile, "694c6575af08f6f1d59a5737");
-        
-        IEnumerable<MongoId> prestigeHeads = new MongoId[]
-        {
-            "68fb8872fb3842532002cbc1",
-            "68fb88b9d4b0e9617502c1c4",
-        };
-        profile.AddCustomisations(prestigeHeads, "head", CustomisationSource.DEFAULT);
+        rewardHelper.AddAchievementToProfile(profile, "694d58833cff7ff7be31c5e8");
         return new ValueTask<string>(request.DialogId);
     }
 
     public string Command
     {
-        get { return "67prestige"; }
+        get { return "twitchguytwitchguytwitchguy"; }
     }
 
     public string CommandHelp
     {
         get
         {
-            return "Usage: test 67prestige";
+            return "Usage: test twitchguytwitchguytwitchguy";
         }
     }
 }

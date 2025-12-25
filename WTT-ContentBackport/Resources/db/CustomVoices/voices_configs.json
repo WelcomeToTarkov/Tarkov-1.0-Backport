@@ -1,7 +1,7 @@
 {
     "68e7a04c481f58ac9702afb4": {
         "locales": {
-            "en": "Civilian_02"
+            "en": "Civilian 2"
         },
         "name": "Civilian_02",
         "addVoiceToPlayer": false,
@@ -18,7 +18,7 @@
     },
     "68e7a05e2da4d083ce0f2146": {
         "locales": {
-            "en": "Civilian_03"
+            "en": "Civilian 3"
         },
         "name": "Civilian_03",
         "addVoiceToPlayer": false,
@@ -26,7 +26,7 @@
     },
     "68e7a0773f9907cd5508dbcc": {
         "locales": {
-            "en": "Civilian_04"
+            "en": "Civilian 4"
         },
         "name": "Civilian_04",
         "addVoiceToPlayer": false,
@@ -43,7 +43,7 @@
     },
     "68e7a025dcdb0a85f4046d69": {
         "locales": {
-            "en": "Civilian_01"
+            "en": "Civilian 1"
         },
         "name": "Civilian_01",
         "addVoiceToPlayer": false,
@@ -51,7 +51,7 @@
     },
     "68a322c44dc8ea81b6035293": {
         "locales": {
-            "en": "VSRF_02"
+            "en": "VSRF 2"
         },
         "name": "VSRF_02",
         "addVoiceToPlayer": false,
@@ -59,7 +59,7 @@
     },
     "6899fff4c17f776ecb07fafd": {
         "locales": {
-            "en": "Black_Division_2"
+            "en": "BD 2"
         },
         "name": "Black_Division_2",
         "addVoiceToPlayer": false,
@@ -67,7 +67,7 @@
     },
     "6899fcdea469e729c40cbbde": {
         "locales": {
-            "en": "Black_Division_1"
+            "en": "BD 1"
         },
         "name": "Black_Division_1",
         "addVoiceToPlayer": false,
@@ -75,7 +75,7 @@
     },
     "68a322944dc8ea81b603528f": {
         "locales": {
-            "en": "VSRF_01"
+            "en": "VSRF 1"
         },
         "name": "VSRF_01",
         "addVoiceToPlayer": false,

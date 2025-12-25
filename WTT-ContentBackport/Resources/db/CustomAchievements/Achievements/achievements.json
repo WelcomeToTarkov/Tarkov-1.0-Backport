@@ -19,8 +19,143 @@
       ],
       "fail": []
     },
-    "instantComplete": false,
-    "showNotificationsInGame": false,
+    "instantComplete": true,
+    "showNotificationsInGame": true,
+    "showProgress": false,
+    "prefab": "",
+    "rarity": "Legendary",
+    "hidden": false,
+    "showConditions": false,
+    "progressBarEnabled": true,
+    "side": "Pmc",
+    "index": 19001
+  },
+  {
+    "id": "694d58833cff7ff7be31c5e8",
+    "imageUrl": "/files/achievement/twitchguyicon.png",
+    "assetPath": "",
+    "rewards": [
+      {
+        "id": "694d5b15a2f65de51831c5ed",
+        "unknown": false,
+        "gameMode": [
+          "regular",
+          "pve"
+        ],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "694d5b11eb5884255831c5ec",
+        "value": 1,
+        "isEncoded": false,
+        "findInRaid": true,
+        "items": [
+          {
+            "_id": "694d5b11eb5884255831c5ec",
+            "_tpl": "6937ecc3dbdccab44605fcf0",
+            "upd": {
+              "SpawnedInSession": true,
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "type": "Item"
+      },
+      {
+        "id": "694d5ba7f3f792e59031c5f0",
+        "unknown": false,
+        "gameMode": [
+          "regular",
+          "pve"
+        ],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "694d5ba6ba1951091431c5ef",
+        "value": 1,
+        "isEncoded": false,
+        "findInRaid": true,
+        "items": [
+          {
+            "_id": "694d5ba6ba1951091431c5ef",
+            "_tpl": "6937eccbfd921faceb0dfecd",
+            "upd": {
+              "SpawnedInSession": true,
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "type": "Item"
+      },
+      {
+        "id": "694d5c972fd6f1d20631c5f2",
+        "unknown": false,
+        "gameMode": [
+          "regular",
+          "pve"
+        ],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "694d5c912184e8896831c5f1",
+        "value": 1,
+        "isEncoded": false,
+        "findInRaid": true,
+        "items": [
+          {
+            "_id": "694d5c912184e8896831c5f1",
+            "_tpl": "68f117b8121d878a2303eee0",
+            "upd": {
+              "SpawnedInSession": true,
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "type": "Item"
+      },
+      {
+        "id": "694d5cd8c469d9068031c5f4",
+        "unknown": false,
+        "gameMode": [
+          "regular",
+          "pve"
+        ],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "694d5cd4b5789bf0ae31c5f3",
+        "value": 1,
+        "isEncoded": false,
+        "findInRaid": true,
+        "items": [
+          {
+            "_id": "694d5cd4b5789bf0ae31c5f3",
+            "_tpl": "68d55968ca9935b3f10607a9",
+            "upd": {
+              "SpawnedInSession": true,
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "type": "Item"
+      }
+    ],
+    "conditions": {
+      "availableForFinish": [
+        {
+          "id": "694d58847e7cba6bee31c5e9",
+          "index": 0,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "conditionType": "Block"
+        }
+      ],
+      "fail": []
+    },
+    "instantComplete": true,
+    "showNotificationsInGame": true,
     "showProgress": false,
     "prefab": "",
     "rarity": "Legendary",
@@ -35,6 +170,32 @@
     "imageUrl": "/files/achievement/67prestigeicon.png",
     "assetPath": "",
     "rewards": [
+      {
+        "id": "694d5980ab4d07aa7d31c5eb",
+        "unknown": false,
+        "gameMode": [
+          "regular",
+          "pve"
+        ],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "694d59798a66b0d06931c5ea",
+        "value": 1,
+        "isEncoded": false,
+        "findInRaid": true,
+        "items": [
+          {
+            "_id": "694d59798a66b0d06931c5ea",
+            "_tpl": "68f117b8121d878a2303eee0",
+            "upd": {
+              "SpawnedInSession": true,
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "type": "Item"
+      },
       {
         "id": "694c65b195af104d3a9a573a",
         "unknown": false,
@@ -64,26 +225,6 @@
         "isHidden": false,
         "target": "68f11506a1e799f1c3027c79",
         "type": "CustomizationDirect"
-      },
-      {
-        "id": "694c663d0c447289d59a573f",
-        "unknown": false,
-        "gameMode": [],
-        "availableInGameEditions": [],
-        "illustrationConfig": null,
-        "isHidden": false,
-        "target": "68fb8872fb3842532002cbc1",
-        "type": "CustomizationDirect"
-      },
-      {
-        "id": "694c665e12854822409a5740",
-        "unknown": false,
-        "gameMode": [],
-        "availableInGameEditions": [],
-        "illustrationConfig": null,
-        "isHidden": false,
-        "target": "68fb88b9d4b0e9617502c1c4",
-        "type": "CustomizationDirect"
       }
     ],
     "conditions": {
@@ -100,8 +241,8 @@
       ],
       "fail": []
     },
-    "instantComplete": false,
-    "showNotificationsInGame": false,
+    "instantComplete": true,
+    "showNotificationsInGame": true,
     "showProgress": false,
     "prefab": "",
     "rarity": "Legendary",
@@ -291,8 +432,8 @@
       ],
       "fail": []
     },
-    "instantComplete": false,
-    "showNotificationsInGame": false,
+    "instantComplete": true,
+    "showNotificationsInGame": true,
     "showProgress": false,
     "prefab": "",
     "rarity": "Legendary",
@@ -307,46 +448,6 @@
     "imageUrl": "/files/achievement/alltheclothes.png",
     "assetPath": "",
     "rewards": [
-      {
-        "id": "694c6712d2fea2636a9a5745",
-        "unknown": false,
-        "gameMode": [],
-        "availableInGameEditions": [],
-        "illustrationConfig": null,
-        "isHidden": false,
-        "target": "68a6fb5ca1eb443ead010e8a",
-        "type": "CustomizationDirect"
-      },
-      {
-        "id": "694c6714b0d03faaa99a5746",
-        "unknown": false,
-        "gameMode": [],
-        "availableInGameEditions": [],
-        "illustrationConfig": null,
-        "isHidden": false,
-        "target": "68a6fb6d62b09585f80dd73b",
-        "type": "CustomizationDirect"
-      },
-      {
-        "id": "694c671580d687128a9a5747",
-        "unknown": false,
-        "gameMode": [],
-        "availableInGameEditions": [],
-        "illustrationConfig": null,
-        "isHidden": false,
-        "target": "68a6fb7a226a60005506faff",
-        "type": "CustomizationDirect"
-      },
-      {
-        "id": "694c6716ee941f297b9a5748",
-        "unknown": false,
-        "gameMode": [],
-        "availableInGameEditions": [],
-        "illustrationConfig": null,
-        "isHidden": false,
-        "target": "68a6fb8ac8a3ef285c060b7b",
-        "type": "CustomizationDirect"
-      }
     ],
     "conditions": {
       "availableForFinish": [
@@ -362,8 +463,8 @@
       ],
       "fail": []
     },
-    "instantComplete": false,
-    "showNotificationsInGame": false,
+    "instantComplete": true,
+    "showNotificationsInGame": true,
     "showProgress": false,
     "prefab": "",
     "rarity": "Legendary",
@@ -393,8 +494,8 @@
       ],
       "fail": []
     },
-    "instantComplete": false,
-    "showNotificationsInGame": false,
+    "instantComplete": true,
+    "showNotificationsInGame": true,
     "showProgress": false,
     "prefab": "",
     "rarity": "Legendary",
@@ -409,6 +510,32 @@
     "imageUrl": "/files/achievement/preordericon.png",
     "assetPath": "",
     "rewards": [
+      {
+        "id": "694d5e1d3fa105542031c5f6",
+        "unknown": false,
+        "gameMode": [
+          "regular",
+          "pve"
+        ],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "694d5e1818351a3c4531c5f5",
+        "value": 1,
+        "isEncoded": false,
+        "findInRaid": true,
+        "items": [
+          {
+            "_id": "694d5e1818351a3c4531c5f5",
+            "_tpl": "68f8e04eae031982b00e7aaf",
+            "upd": {
+              "SpawnedInSession": true,
+              "StackObjectsCount": 1
+            }
+          }
+        ],
+        "type": "Item"
+      },
       {
         "id": "69489970d58abfecad9a56f8",
         "unknown": true,
@@ -544,7 +671,7 @@
       ],
       "fail": []
     },
-    "instantComplete": false,
+    "instantComplete": true,
     "showNotificationsInGame": true,
     "showProgress": false,
     "prefab": "",
