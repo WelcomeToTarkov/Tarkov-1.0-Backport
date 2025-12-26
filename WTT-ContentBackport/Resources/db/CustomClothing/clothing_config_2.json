@@ -12,7 +12,7 @@
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_usec_crusader.bundle",
-    "handsBundlePath": "hands/hands_usec_crusader/hands_usec_crusader.skin.bundle",
+    "handsBundlePath": "assets/content/hands/hands_usec_crusader/hands_usec_crusader.skin.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -35,7 +35,7 @@
       }
     },
     "topBundlePath": "assets/content/characters/character/prefabs/top_bear_sso.bundle",
-    "handsBundlePath": "hands/hands_bear_sso/hands_bear_sso.skin.bundle",
+    "handsBundlePath": "assets/content/hands/hands_bear_sso/hands_bear_sso.skin.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
