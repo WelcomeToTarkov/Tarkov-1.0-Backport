@@ -139,7 +139,9 @@
         "description": "A high-end solution in tactical hearing protection. Custom-made to fit the wearer, so this matching size is a real stroke of luck."
       }
     },
-    "addtoInventorySlots": [],
+    "addtoInventorySlots": [
+      "Earpiece"
+    ],
     "addtoModSlots": false,
     "modSlot": [],
     "fleaPriceRoubles": 146200,
@@ -335,7 +337,9 @@
         "description": "The EARMOR M32 headset is an activated electronic communication hearing protector, ideal for tactical use. Manufactured by OPSMEN. Version in white color."
       }
     },
-    "addtoInventorySlots": [],
+    "addtoInventorySlots": [
+      "Earpiece"
+    ],
     "addtoModSlots": false,
     "modSlot": [],
     "fleaPriceRoubles": 18000,

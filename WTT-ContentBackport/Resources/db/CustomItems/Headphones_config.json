@@ -181,7 +181,9 @@
         "description": "A special in-ear headset for communication and hearing protection. Manufactured by 3M Peltor. Coyote Brown version."
       }
     },
-    "addtoInventorySlots": [],
+    "addtoInventorySlots": [
+      "Earpiece"
+    ],
     "addtoModSlots": false,
     "modSlot": [],
     "fleaPriceRoubles": 99718,
@@ -202,7 +204,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   }
