@@ -13,7 +13,7 @@ using SPTarkov.Server.Core.Servers;
 using SPTarkov.Server.Core.Services;
 using WTTServerCommonLib.Helpers;
 
-namespace WTTExampleMod.Commands;
+namespace WTTContentBackport.Commands;
 
 [Injectable]
 public class NikitasVoiceCommand(

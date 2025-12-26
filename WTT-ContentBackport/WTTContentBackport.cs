@@ -6,11 +6,11 @@ using SPTarkov.Server.Core.Models.Spt.Mod;
 using SPTarkov.Server.Core.Services;
 using SPTarkov.Server.Core.Services.Image;
 using WTTContentBackport.Helpers;
-using WTTExampleMod.Patches;
+using WTTContentBackport.Patches;
 using WTTServerCommonLib.Models;
 using Range = SemanticVersioning.Range;
 
-namespace WTTExampleMod;
+namespace WTTContentBackport;
 
 public record ModMetadata : AbstractModMetadata
 {

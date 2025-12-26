@@ -7,7 +7,7 @@ using SPTarkov.Server.Core.Models.Eft.Profile;
 using SPTarkov.Server.Core.Servers;
 using SPTarkov.Server.Core.Services;
 
-namespace WTTExampleMod.Commands;
+namespace WTTContentBackport.Commands;
 
 [Injectable]
 public class BackstabberCommand(

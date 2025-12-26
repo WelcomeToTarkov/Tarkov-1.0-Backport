@@ -5,7 +5,7 @@ using SPTarkov.Server.Core.Servers;
 using SPTarkov.Server.Core.Models.Eft.Profile;
 using WTTContentBackport.Helpers;
 
-namespace WTTExampleMod.Patches;
+namespace WTTContentBackport.Patches;
 
 public class AddCustomisationUnlocksToProfilePatch : AbstractPatch
 {
