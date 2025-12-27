@@ -170,7 +170,8 @@ public class BaseGameItemEdits(
                                     Filter = ["680b87fc9402a78e7504a057"]
                                 }
                             }
-                        }
+                        },
+                        Required = false
 
                     });
                     break; //Manually add new mod_sight_front to g36 template
