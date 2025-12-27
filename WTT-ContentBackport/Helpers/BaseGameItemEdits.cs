@@ -1,4 +1,5 @@
-﻿using SPTarkov.DI.Annotations;
+﻿using HarmonyLib;
+using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
 using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
@@ -83,7 +84,7 @@ public class BaseGameItemEdits(
 
                     item.Properties.EffectsHealth[HealthFactor.Hydration].Value = -10;
 
-                    break;
+                    break; // manually push new salad box properties
                 case "5ae30bad5acfc400185c2dc4":
                     slotHelper.ModifySlotFilters(item, 0, 0, [
                         "68a63d1522b1e0bd360afe67"]);
@@ -94,13 +95,13 @@ public class BaseGameItemEdits(
                         item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter.Add(dogtag);
                     foreach (var dogtag in _bearDogtags)
                         item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter.Add(dogtag);
-                    break;
+                    break; // Manually push dogtags to dogtag case
                 case "5d235bb686f77443f4331278":
                     foreach (var dogtag in _usecDogtags)
                         item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter.Add(dogtag);
                     foreach (var dogtag in _bearDogtags)
                         item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter.Add(dogtag);
-                    break;
+                    break; // Manually push dogtags to SICC case
                 case "57ac965c24597706be5f975c":
                     slotHelper.ModifySlotFilters(item, 0, 0, [
                         "688b54a11cef2a61d005273b"]);
@@ -153,9 +154,11 @@ public class BaseGameItemEdits(
                         "6936bde84737190b66053bb1"]);
                     break; //Manually push M110 gas blocks to SR-25 barrels
                 case "623063e994fc3f7b302a9696":
-                    item.Properties.Slots.Append(new Slot()
+                    var slotsList = item.Properties.Slots.ToList();
+    
+                    slotsList.Add(new Slot()
                     {
-                        Id = new MongoId(),
+                        Id = "680b87cae0666b345f05d628",
                         Name = "mod_sight_front",
                         Parent = "623063e994fc3f7b302a9696",
                         MaxCount = 1,
@@ -167,13 +170,15 @@ public class BaseGameItemEdits(
                             {
                                 new()
                                 {
-                                    Filter = ["680b87fc9402a78e7504a057"]
+                                    Filter = ["680b87fc9402a78e7504a057"],
+                                    Shift = 0
                                 }
                             }
                         },
                         Required = false
-
                     });
+    
+                    item.Properties.Slots = slotsList;
                     break; //Manually add new mod_sight_front to g36 template
             }
         }
