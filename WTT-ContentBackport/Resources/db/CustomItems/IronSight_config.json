@@ -1411,10 +1411,8 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": true,
-    "modSlot": [
-      "mod_sight_front"
-    ],
+    "addtoModSlots": false,
+    "modSlot": [],
     "fleaPriceRoubles": 6847,
     "handbookPriceRoubles": 2433,
     "addtoBots": false,
