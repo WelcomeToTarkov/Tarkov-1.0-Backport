@@ -10,6 +10,14 @@
             ]
         },
         {
+            "key": "assets/content/items/mods/magazines/mag_ar10_kac_steel_762x51_20.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },        
+        {
             "key": "assets/content/weapons/usable_items/item_alusplint/item_alusplint_tigzresq.generated.bundle",
             "dependencyKeys": [
                 "assets/content/weapons/usable_items/item_alusplint/client_assets.bundle",
