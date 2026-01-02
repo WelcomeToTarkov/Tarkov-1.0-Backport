@@ -23,7 +23,7 @@ public record ModMetadata : AbstractModMetadata
     public override List<string>? Incompatibilities { get; init; }
     public override Dictionary<string, Range>? ModDependencies { get; init; } = new()
     {
-        { "com.wtt.commonlib", new Range("~2.0.8") }
+        { "com.wtt.commonlib", new Range("~2.0.10") }
     };
     public override string? Url { get; init; }
     public override bool? IsBundleMod { get; init; } = true;
@@ -45,9 +45,9 @@ public class WTTContentBackport(
         await wttCommon.CustomClothingService.CreateCustomClothing(assembly);
         await wttCommon.CustomVoiceService.CreateCustomVoices(assembly);
         await wttCommon.CustomCustomizationService.CreateCustomCustomizations(assembly);
-        await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
         await wttCommon.CustomAchievementService.CreateCustomAchievements(assembly);
         await wttCommon.CustomBotLoadoutService.CreateCustomBotLoadouts(assembly);
+        await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
         //new AddCustomisationUnlocksToProfilePatch().Enable();
         backportQuestHelper.ModifyQuests();
         backportJunkDisabler.AddDogtagsToPmCs();

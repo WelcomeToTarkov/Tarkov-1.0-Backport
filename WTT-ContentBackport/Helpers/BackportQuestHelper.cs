@@ -28,6 +28,7 @@ namespace WTTContentBackport.Helpers
         
         // Marksman Rifle
         private const string TKPD = "68aee763130c00663d08aea8";
+        private const string SR25_TAUPE = "6932abeb5403890d0c09c926";
         
         // Sniper Rifle
         private const string MXLR = "67c6de3ce39861860909e8e5";
@@ -94,6 +95,9 @@ namespace WTTContentBackport.Helpers
 
             // ReSharper disable CommentTypo
             // ====================== PRAPOR QUESTS ======================
+            
+            // Test Drive Part 1 (5c0bd94186f7747a727f09b2)
+            AddWeaponsToKillCondition(quests, "5c0bd94186f7747a727f09b2", [SR25_TAUPE]);
             
             // Punisher Part 4 (59ca264786f77445a80ed044)
             //AddWeaponsToKillCondition(quests, "59ca264786f77445a80ed044", []);
@@ -202,28 +206,58 @@ namespace WTTContentBackport.Helpers
 
         private void AddWeaponsToKillCondition(Dictionary<MongoId, Quest> quests, string questId, string[] weaponIds)
         {
-            if (!quests.TryGetValue(questId, out var quest) || quest.Conditions.AvailableForFinish == null)
+            if (!quests.TryGetValue(questId, out var quest))
+            {
+                logger.Warning($"Quest {questId} not found");
                 return;
+            }
+
+            if (quest.Conditions.AvailableForFinish == null)
+            {
+                logger.Warning($"Quest {questId} has no AvailableForFinish conditions");
+                return;
+            }
+
+            var modified = false;
 
             foreach (var condition in quest.Conditions.AvailableForFinish)
             {
+                logger.Debug($"Checking condition type: {condition.ConditionType}");
+
                 if (condition is { ConditionType: "CounterCreator", Counter.Conditions: not null })
                 {
                     foreach (var counterCond in condition.Counter.Conditions)
                     {
-                        if (counterCond is { ConditionType: "Kills", Weapon: not null })
+                        logger.Debug($"  Counter condition type: {counterCond.ConditionType}");
+
+                        if (counterCond is { Weapon: not null, ConditionType: "Kills" or "Shots" })
                         {
+                            var beforeCount = counterCond.Weapon.Count;
+                    
                             foreach (var weaponId in weaponIds)
                             {
-                                counterCond.Weapon.Add(weaponId);
-                                
+                                if (counterCond.Weapon.Add(weaponId))
+                                {
+                                    modified = true;
+                                    logger.Debug($"    Added weapon {weaponId}");
+                                }
                             }
+                            logger.Debug($"  Weapon count before: {beforeCount}, after: {counterCond.Weapon.Count}");
                         }
                     }
                 }
             }
+
+            if (modified)
+            {
+                logger.Debug($"Successfully modified quest {questId}");
+            }
+            else
+            {
+                logger.Warning($"No modifications made to quest {questId} - condition structure might differ");
+            }
         }
-        
+
         private void AddArmorToEquipmentExclusive(Dictionary<MongoId, Quest> quests, string questId, string[] armorIds)
         {
             if (!quests.TryGetValue(questId, out var quest) || quest.Conditions.AvailableForFinish == null)

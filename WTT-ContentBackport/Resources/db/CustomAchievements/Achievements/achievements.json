@@ -2131,7 +2131,7 @@
               {
                 "id": "69473586e5b3480be4ff89ba",
                 "dynamicLocale": false,
-                "target": "Any",
+                "target": "Savage",
                 "value": 1,
                 "compareMethod": ">=",
                 "conditionType": "Kills",
@@ -2150,6 +2150,7 @@
                 },
                 "resetOnSessionEnd": false,
                 "savageRole": [
+                  "bossZryachiy"
                 ],
                 "enemyEquipmentExclusive": [],
                 "enemyEquipmentInclusive": [],
