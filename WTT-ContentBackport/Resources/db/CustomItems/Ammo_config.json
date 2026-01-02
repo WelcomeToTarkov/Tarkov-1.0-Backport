@@ -499,7 +499,7 @@
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
     "addtoStatuetteSlots": false,
-    "addCaliberToAllCloneLocations": false,
+    "addCaliberToAllCloneLocations": true,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
     "addtoSecureFilters": false,
