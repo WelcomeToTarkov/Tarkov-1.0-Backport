@@ -108,7 +108,7 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 461
       },
       {
@@ -136,7 +136,7 @@
         "probability": 174
       },
       {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 488
       }
     ],
@@ -265,7 +265,7 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 293
       },
       {
@@ -293,7 +293,7 @@
         "probability": 298
       },
       {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 374
       }
     ],
@@ -443,7 +443,7 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 342
       },
       {
@@ -471,7 +471,7 @@
         "probability": 110
       },
       {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 102
       }
     ],
@@ -600,7 +600,7 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 281
       },
       {
@@ -628,7 +628,7 @@
         "probability": 149
       },
       {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 493
       }
     ],
@@ -757,7 +757,7 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 318
       },
       {
@@ -785,7 +785,7 @@
         "probability": 249
       },
       {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 455
       }
     ],
@@ -914,7 +914,7 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 189
       },
       {
@@ -942,7 +942,7 @@
         "probability": 385
       },
       {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 355
       }
     ],
@@ -1071,7 +1071,7 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 227
       },
       {
@@ -1099,7 +1099,7 @@
         "probability": 186
       },
       {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 299
       }
     ],
@@ -1228,7 +1228,7 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 169
       },
       {
@@ -1256,7 +1256,7 @@
         "probability": 439
       },
       {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 172
       }
     ],

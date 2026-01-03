@@ -11,7 +11,7 @@ public class BackportJunkDisabler(ConfigServer configServer)
 {
     private PmcConfig pmcConfig = configServer.GetConfig<PmcConfig>();
     private ItemConfig itemConfig = configServer.GetConfig<ItemConfig>();
-    private readonly List<MongoId> _bearDogtags = new()
+    public static readonly List<MongoId> _bearDogtags = new()
     {
         "68df9908972cf1e1ec07256a",
         "68df9927a38a5e37d80df6c9",
@@ -25,7 +25,7 @@ public class BackportJunkDisabler(ConfigServer configServer)
         "68f15e26f1aa7e100a0ca208",
         "68f153aa7da590b6df0515da"
     };
-    private readonly List<MongoId> _usecDogtags = new()
+    public static readonly List<MongoId> _usecDogtags = new()
     {
         "68df99c05d4e135b130392cc",
         "68df99a614ca2428b2017cd8",

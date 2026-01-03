@@ -2506,6 +2506,14 @@
       ]
     },
     {
+      "key": "assets/content/items/equipment/rig_6sh112/item_equipment_rig_6sh112.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/items/equipment/rig_bd1_spiritus/item_equipment_armor_bd1_spiritus.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",

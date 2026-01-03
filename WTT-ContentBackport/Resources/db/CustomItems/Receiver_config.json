@@ -221,7 +221,7 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 213
       },
       {
@@ -249,7 +249,7 @@
         "probability": 221
       },
       {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 159
       }
     ],
@@ -570,7 +570,7 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 132
       },
       {
@@ -598,7 +598,7 @@
         "probability": 144
       },
       {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 111
       }
     ],
@@ -893,7 +893,7 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 192
       },
       {
@@ -1163,7 +1163,7 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 185
       },
       {
@@ -1517,7 +1517,7 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 229
       },
       {
@@ -1784,7 +1784,7 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 202
       },
       {
@@ -2060,7 +2060,7 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 199
       },
       {

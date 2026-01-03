@@ -105,7 +105,7 @@
         "probability": 350
       },
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 350
       },
       {
@@ -240,7 +240,7 @@
         "probability": 350
       },
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 350
       },
       {
@@ -379,7 +379,7 @@
         "probability": 350
       },
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 350
       },
       {
@@ -518,7 +518,7 @@
         "probability": 111
       },
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 111
       },
       {
@@ -657,7 +657,7 @@
         "probability": 111
       },
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 111
       },
       {
@@ -796,7 +796,7 @@
         "probability": 350
       },
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 350
       },
       {
@@ -935,7 +935,7 @@
         "probability": 350
       },
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 350
       },
       {
@@ -1074,7 +1074,7 @@
         "probability": 136
       },
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 136
       },
       {
@@ -1213,7 +1213,7 @@
         "probability": 600
       },
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 600
       },
       {
@@ -1352,7 +1352,7 @@
         "probability": 350
       },
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 350
       },
       {
@@ -1491,7 +1491,7 @@
         "probability": 250
       },
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 250
       },
       {
@@ -1630,7 +1630,7 @@
         "probability": 250
       },
       {
-        "containerName": "LOOTCONTAINER_TOOLBOX_4X3_2",
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 250
       },
       {
