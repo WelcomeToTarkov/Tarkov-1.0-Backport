@@ -58,6 +58,10 @@ public class BaseGameItemEdits(
         {
             switch (id)
             {
+                case "5929a2a086f7744f4b234d43":
+                    item.Properties.Prefab.Path =
+                        "assets/content/items/equipment/rig_6sh112/item_equipment_rig_6sh112.bundle";
+                    break;
                 case "67586b7e49c2fa592e0d8ed9":
                     item.Parent = "5448e8d04bdc2ddf718b4569";
                     item.Properties.ShortName= "item_food_saladbox";
