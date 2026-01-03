@@ -17,34 +17,7 @@ public class BaseGameItemEdits(
     SlotHelper slotHelper
 ):IOnLoad
 {
-    private readonly List<MongoId> _bearDogtags = new()
-    {
-        "68df9908972cf1e1ec07256a",
-        "68df9927a38a5e37d80df6c9",
-        "68df991142e96f583d042b8a",
-        "68df991dbeba86572e097ceb",
-        "68f0f63c645c14a02104142a",
-        "68fb412b0760c7891606613e",
-        "68f15cf222c8979ee308f495",
-        "68f0f60a121d878a2303eedb",
-        "68fb41120760c7891606613c",
-        "68f15e26f1aa7e100a0ca208",
-        "68f153aa7da590b6df0515da"
-    };
-    private readonly List<MongoId> _usecDogtags = new()
-    {
-        "68df99c05d4e135b130392cc",
-        "68df99a614ca2428b2017cd8",
-        "68df99b2f716906506098308",
-        "68df99975d4e135b130392ca",
-        "68f15dbab2b53abd200b9378",
-        "68f0f64f183146ea530330aa",
-        "68fb4157b280c103230e3b3c",
-        "68f0f662859ebec8d501b76a",
-        "68fb4143a854bc7ae80fad3e",
-        "68f15e53103c5d9d4f022c78",
-        "5b9b9020e7ef6f5716480215"
-    };
+
     public Task OnLoad()
     {
         EditFilters();
@@ -95,15 +68,15 @@ public class BaseGameItemEdits(
                     break; //Manually push Delta Pic mount to AR-15 carry handle
                 
                 case "5c093e3486f77430cb02e593":
-                    foreach (var dogtag in _usecDogtags)
+                    foreach (var dogtag in BackportJunkDisabler._usecDogtags)
                         item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter.Add(dogtag);
-                    foreach (var dogtag in _bearDogtags)
+                    foreach (var dogtag in BackportJunkDisabler._bearDogtags)
                         item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter.Add(dogtag);
                     break; // Manually push dogtags to dogtag case
                 case "5d235bb686f77443f4331278":
-                    foreach (var dogtag in _usecDogtags)
+                    foreach (var dogtag in BackportJunkDisabler._usecDogtags)
                         item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter.Add(dogtag);
-                    foreach (var dogtag in _bearDogtags)
+                    foreach (var dogtag in BackportJunkDisabler._bearDogtags)
                         item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter.Add(dogtag);
                     break; // Manually push dogtags to SICC case
                 case "57ac965c24597706be5f975c":

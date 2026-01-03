@@ -101,6 +101,9 @@ namespace WTTContentBackport.Helpers
             // ReSharper disable CommentTypo
             // ====================== PRAPOR QUESTS ======================
             
+            // Our Own Land (6179b5b06e9dd54ac275e409)
+            questHelper.AddDogtagsToQuests(quests, "6179b5b06e9dd54ac275e409", BackportJunkDisabler._usecDogtags, "USEC");
+            
             // Test Drive Part 1 (5c0bd94186f7747a727f09b2)
             questHelper.AddWeaponsToKillCondition(quests, "5c0bd94186f7747a727f09b2", [SR25_TAUPE]);
             
@@ -109,6 +112,8 @@ namespace WTTContentBackport.Helpers
             
             // Punisher Part 6 (59ca2eb686f77445a80ed049)
             //questHelper.AddWeaponsToKillCondition(quests, "59ca2eb686f77445a80ed049", []);
+            questHelper.AddDogtagsToQuests(quests, "59ca2eb686f77445a80ed049", BackportJunkDisabler._bearDogtags, "BEAR");
+            questHelper.AddDogtagsToQuests(quests, "59ca2eb686f77445a80ed049", BackportJunkDisabler._usecDogtags, "USEC");
 
             // Mall Cop (64e7b99017ab941a6f7bf9d7)
             //questHelper.AddWeaponsToKillCondition(quests, "64e7b99017ab941a6f7bf9d7", []);
@@ -123,6 +128,9 @@ namespace WTTContentBackport.Helpers
 
             // ====================== SKIER QUESTS ======================
 
+            // Friend From The West Part 1 (5a27c99a86f7747d2c6bdd8e)
+            questHelper.AddDogtagsToQuests(quests, "5a27c99a86f7747d2c6bdd8e", BackportJunkDisabler._usecDogtags, "USEC");
+            
             // Stirrup (596b455186f77457cb50eccb)
             //questHelper.AddWeaponsToKillCondition(quests, "596b455186f77457cb50eccb", []);
 
@@ -136,8 +144,24 @@ namespace WTTContentBackport.Helpers
             questHelper.AddWeaponsToKillCondition(quests, "6764174c86addd02bc033d68", [
                 MXLR
             ]);
+            
+            // ====================== FENCE QUESTS ======================
+            // Compensation For Damage Trust (61e6e5e0f5b9633f6719ed95)
+            questHelper.AddDogtagsToQuests(quests, "61e6e5e0f5b9633f6719ed95", BackportJunkDisabler._bearDogtags, "BEAR");
+            questHelper.AddDogtagsToQuests(quests, "61e6e5e0f5b9633f6719ed95", BackportJunkDisabler._usecDogtags, "USEC");
 
             // ====================== PEACEKEEPER QUESTS ======================
+            
+            // Counteraction (6179b5eabca27a099552e052)
+            questHelper.AddDogtagsToQuests(quests, "6179b5eabca27a099552e052", BackportJunkDisabler._bearDogtags, "BEAR");
+            
+            // Trophies (60e71ccb5688f6424c7bfec4)
+            questHelper.AddDogtagsToQuests(quests, "60e71ccb5688f6424c7bfec4", BackportJunkDisabler._usecDogtags, "USEC");
+            questHelper.AddDogtagsToQuests(quests, "60e71ccb5688f6424c7bfec4", BackportJunkDisabler._bearDogtags, "BEAR");
+            
+            // The Punisher Harvest (655e427b64d09b4122018228)
+            questHelper.AddDogtagsToQuests(quests, "655e427b64d09b4122018228", BackportJunkDisabler._usecDogtags, "USEC");
+            questHelper.AddDogtagsToQuests(quests, "655e427b64d09b4122018228", BackportJunkDisabler._bearDogtags, "BEAR");
 
             // Spa Tour Part 1 (5a03153686f77442d90e2171)
             //questHelper.AddWeaponsToKillCondition(quests, "5a03153686f77442d90e2171", []);
