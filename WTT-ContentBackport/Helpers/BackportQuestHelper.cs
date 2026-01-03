@@ -89,6 +89,10 @@ namespace WTTContentBackport.Helpers
         private const string facecover_Atomic_demonic = "68a9a15d73d52d47830759c9";
         private const string facecover_Atomic_blastedice = "6936ff8734029a096c06f95a";
         
+        // Gas masks
+
+        private const string facecover_gasmask_avon_m53a1 = "689b880fff8b4adc420f5b56";
+        
         public void ModifyQuests()
         {
             var quests = databaseService.GetTemplates().Quests;
@@ -202,6 +206,12 @@ namespace WTTContentBackport.Helpers
             };
             // Import Control
             AddWeaponsToFindOrHandoverCondition(quests, "668bcccc167d507eb01a268b", allWesternWeapons);
+            
+            // ====================== THERAPIST QUESTS ======================
+            
+            // Decontamination Services (5c0d1c4cd0928202a02a6f5c)
+            AddArmorToEquipmentExclusive(quests, "5c0d1c4cd0928202a02a6f5c", [facecover_gasmask_avon_m53a1]);
+
         }
 
         private void AddWeaponsToKillCondition(Dictionary<MongoId, Quest> quests, string questId, string[] weaponIds)
