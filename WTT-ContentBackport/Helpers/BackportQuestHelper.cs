@@ -3,11 +3,12 @@ using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Models.Utils;
 using SPTarkov.Server.Core.Services;
+using WTTServerCommonLib.Helpers;
 
 namespace WTTContentBackport.Helpers
 {
     [Injectable]
-    public class BackportQuestHelper(DatabaseService  databaseService, ISptLogger<BackportQuestHelper> logger)
+    public class BackportQuestHelper(DatabaseService  databaseService, ISptLogger<BackportQuestHelper> logger, QuestHelper questHelper)
     {
 
         // Define weapon IDs
@@ -89,6 +90,10 @@ namespace WTTContentBackport.Helpers
         private const string facecover_Atomic_demonic = "68a9a15d73d52d47830759c9";
         private const string facecover_Atomic_blastedice = "6936ff8734029a096c06f95a";
         
+        // Gas masks
+
+        private const string facecover_gasmask_avon_m53a1 = "689b880fff8b4adc420f5b56";
+        
         public void ModifyQuests()
         {
             var quests = databaseService.GetTemplates().Quests;
@@ -96,49 +101,73 @@ namespace WTTContentBackport.Helpers
             // ReSharper disable CommentTypo
             // ====================== PRAPOR QUESTS ======================
             
+            // Our Own Land (6179b5b06e9dd54ac275e409)
+            questHelper.AddDogtagsToQuests(quests, "6179b5b06e9dd54ac275e409", BackportJunkDisabler._usecDogtags, "USEC");
+            
             // Test Drive Part 1 (5c0bd94186f7747a727f09b2)
-            AddWeaponsToKillCondition(quests, "5c0bd94186f7747a727f09b2", [SR25_TAUPE]);
+            questHelper.AddWeaponsToKillCondition(quests, "5c0bd94186f7747a727f09b2", [SR25_TAUPE]);
             
             // Punisher Part 4 (59ca264786f77445a80ed044)
-            //AddWeaponsToKillCondition(quests, "59ca264786f77445a80ed044", []);
+            //questHelper.AddWeaponsToKillCondition(quests, "59ca264786f77445a80ed044", []);
             
             // Punisher Part 6 (59ca2eb686f77445a80ed049)
-            //AddWeaponsToKillCondition(quests, "59ca2eb686f77445a80ed049", []);
+            //questHelper.AddWeaponsToKillCondition(quests, "59ca2eb686f77445a80ed049", []);
+            questHelper.AddDogtagsToQuests(quests, "59ca2eb686f77445a80ed049", BackportJunkDisabler._bearDogtags, "BEAR");
+            questHelper.AddDogtagsToQuests(quests, "59ca2eb686f77445a80ed049", BackportJunkDisabler._usecDogtags, "USEC");
 
             // Mall Cop (64e7b99017ab941a6f7bf9d7)
-            //AddWeaponsToKillCondition(quests, "64e7b99017ab941a6f7bf9d7", []);
+            //questHelper.AddWeaponsToKillCondition(quests, "64e7b99017ab941a6f7bf9d7", []);
 
             // Tickets, Please (64e7b9a4aac4cd0a726562cb)
-            //AddWeaponsToKillCondition(quests, "64e7b9a4aac4cd0a726562cb", []);
+            //questHelper.AddWeaponsToKillCondition(quests, "64e7b9a4aac4cd0a726562cb", []);
 
             // District Patrol (64e7b9bffd30422ed03dad38)
-            AddWeaponsToKillCondition(quests, "64e7b9bffd30422ed03dad38", [
+            questHelper.AddWeaponsToKillCondition(quests, "64e7b9bffd30422ed03dad38", [
                 ASVAL_MOD4, RADIAN_MODEL1, M16A1, NL545, NL545_DI, AK308, M16A2
             ]);
 
             // ====================== SKIER QUESTS ======================
 
+            // Friend From The West Part 1 (5a27c99a86f7747d2c6bdd8e)
+            questHelper.AddDogtagsToQuests(quests, "5a27c99a86f7747d2c6bdd8e", BackportJunkDisabler._usecDogtags, "USEC");
+            
             // Stirrup (596b455186f77457cb50eccb)
-            //AddWeaponsToKillCondition(quests, "596b455186f77457cb50eccb", []);
+            //questHelper.AddWeaponsToKillCondition(quests, "596b455186f77457cb50eccb", []);
 
             // Silent Caliber (5c0bc91486f7746ab41857a2)
-            //AddWeaponsToKillCondition(quests, "5c0bc91486f7746ab41857a2", []);
+            //questHelper.AddWeaponsToKillCondition(quests, "5c0bc91486f7746ab41857a2", []);
 
             // Setup (5c1234c286f77406fa13baeb)
-            //AddWeaponsToKillCondition(quests, "5c1234c286f77406fa13baeb", []);
+            //questHelper.AddWeaponsToKillCondition(quests, "5c1234c286f77406fa13baeb", []);
 
             // Connections Up North (6764174c86addd02bc033d68)
-            AddWeaponsToKillCondition(quests, "6764174c86addd02bc033d68", [
+            questHelper.AddWeaponsToKillCondition(quests, "6764174c86addd02bc033d68", [
                 MXLR
             ]);
+            
+            // ====================== FENCE QUESTS ======================
+            // Compensation For Damage Trust (61e6e5e0f5b9633f6719ed95)
+            questHelper.AddDogtagsToQuests(quests, "61e6e5e0f5b9633f6719ed95", BackportJunkDisabler._bearDogtags, "BEAR");
+            questHelper.AddDogtagsToQuests(quests, "61e6e5e0f5b9633f6719ed95", BackportJunkDisabler._usecDogtags, "USEC");
 
             // ====================== PEACEKEEPER QUESTS ======================
+            
+            // Counteraction (6179b5eabca27a099552e052)
+            questHelper.AddDogtagsToQuests(quests, "6179b5eabca27a099552e052", BackportJunkDisabler._bearDogtags, "BEAR");
+            
+            // Trophies (60e71ccb5688f6424c7bfec4)
+            questHelper.AddDogtagsToQuests(quests, "60e71ccb5688f6424c7bfec4", BackportJunkDisabler._usecDogtags, "USEC");
+            questHelper.AddDogtagsToQuests(quests, "60e71ccb5688f6424c7bfec4", BackportJunkDisabler._bearDogtags, "BEAR");
+            
+            // The Punisher Harvest (655e427b64d09b4122018228)
+            questHelper.AddDogtagsToQuests(quests, "655e427b64d09b4122018228", BackportJunkDisabler._usecDogtags, "USEC");
+            questHelper.AddDogtagsToQuests(quests, "655e427b64d09b4122018228", BackportJunkDisabler._bearDogtags, "BEAR");
 
             // Spa Tour Part 1 (5a03153686f77442d90e2171)
-            //AddWeaponsToKillCondition(quests, "5a03153686f77442d90e2171", []);
+            //questHelper.AddWeaponsToKillCondition(quests, "5a03153686f77442d90e2171", []);
 
             // Worst Job (63a9b229813bba58a50c9ee5)
-            AddWeaponsToKillCondition(quests, "63a9b229813bba58a50c9ee5", [
+            questHelper.AddWeaponsToKillCondition(quests, "63a9b229813bba58a50c9ee5", [
                 M16A2, M16A1, RADIAN_MODEL1
             ]);
 
@@ -160,40 +189,40 @@ namespace WTTContentBackport.Helpers
             };
 
             // Tarkov Shooter Part 1-8
-            AddWeaponsToKillCondition(quests, "5bc4776586f774512d07cf05", [MXLR]); // Part 1
-            AddWeaponsToKillCondition(quests, "5bc479e586f7747f376c7da3", [MXLR]); // Part 2
-            AddWeaponsToKillCondition(quests, "5bc47dbf86f7741ee74e93b9", [MXLR]); // Part 3
-            AddWeaponsToKillCondition(quests, "5bc480a686f7741af0342e29", [MXLR]); // Part 4
-            AddWeaponsToKillCondition(quests, "5bc4826c86f774106d22d88b", [MXLR]); // Part 5
-            AddWeaponsToKillCondition(quests, "5bc4836986f7740c0152911c", [MXLR]); // Part 6
-            AddWeaponsToKillCondition(quests, "5bc4856986f77454c317bea7", [MXLR]); // Part 7
-            AddWeaponsToKillCondition(quests, "5bc4893c86f774626f5ebf3e", [MXLR]); // Part 8
+            questHelper.AddWeaponsToKillCondition(quests, "5bc4776586f774512d07cf05", [MXLR]); // Part 1
+            questHelper.AddWeaponsToKillCondition(quests, "5bc479e586f7747f376c7da3", [MXLR]); // Part 2
+            questHelper.AddWeaponsToKillCondition(quests, "5bc47dbf86f7741ee74e93b9", [MXLR]); // Part 3
+            questHelper.AddWeaponsToKillCondition(quests, "5bc480a686f7741af0342e29", [MXLR]); // Part 4
+            questHelper.AddWeaponsToKillCondition(quests, "5bc4826c86f774106d22d88b", [MXLR]); // Part 5
+            questHelper.AddWeaponsToKillCondition(quests, "5bc4836986f7740c0152911c", [MXLR]); // Part 6
+            questHelper.AddWeaponsToKillCondition(quests, "5bc4856986f77454c317bea7", [MXLR]); // Part 7
+            questHelper.AddWeaponsToKillCondition(quests, "5bc4893c86f774626f5ebf3e", [MXLR]); // Part 8
 
             // Claustrophobia (669fa3979b0ce3feae01a130)
-            //AddWeaponsToKillCondition(quests, "669fa3979b0ce3feae01a130", []);
+            //questHelper.AddWeaponsToKillCondition(quests, "669fa3979b0ce3feae01a130", []);
 
             // ====================== MECHANIC QUESTS ======================
 
             // Psycho Sniper (5c0be13186f7746f016734aa)
-            AddWeaponsToKillCondition(quests, "5c0be13186f7746f016734aa", [
+            questHelper.AddWeaponsToKillCondition(quests, "5c0be13186f7746f016734aa", [
                 MXLR
             ]);
 
             // Shooter Born in Heaven (5c0bde0986f77479cf22c2f8)
-            AddWeaponsToKillCondition(quests, "5c0bde0986f77479cf22c2f8", [
+            questHelper.AddWeaponsToKillCondition(quests, "5c0bde0986f77479cf22c2f8", [
                 MXLR
             ]);
 
             // Make Amends Equipment (6261482fa4eb80027c4f2e11)
-            //AddWeaponsToFindOrHandoverCondition(quests, "6261482fa4eb80027c4f2e11", []);
+            //questHelper.AddWeaponsToFindOrHandoverCondition(quests, "6261482fa4eb80027c4f2e11", []);
             
             // Survivalist Path Unprotected but Dangerous (5d25aed386f77442734d25d2)
-            AddArmorToEquipmentExclusive(quests, "5d25aed386f77442734d25d2", allArmors);
+            questHelper.AddArmorToEquipmentExclusive(quests, "5d25aed386f77442734d25d2", allArmors);
             
             // Swift One (60e729cf5698ee7b05057439)
-            AddArmorToEquipmentExclusive(quests, "60e729cf5698ee7b05057439", allArmors);
-            AddArmorToEquipmentExclusive(quests, "60e729cf5698ee7b05057439", allHelmets);
-            AddArmorToEquipmentExclusive(quests, "60e729cf5698ee7b05057439", allFaceCovers);
+            questHelper.AddArmorToEquipmentExclusive(quests, "60e729cf5698ee7b05057439", allArmors);
+            questHelper.AddArmorToEquipmentExclusive(quests, "60e729cf5698ee7b05057439", allHelmets);
+            questHelper.AddArmorToEquipmentExclusive(quests, "60e729cf5698ee7b05057439", allFaceCovers);
             
             // All Western Items
             var allWesternWeapons = new[]
@@ -201,105 +230,13 @@ namespace WTTContentBackport.Helpers
                 AK308, M110
             };
             // Import Control
-            AddWeaponsToFindOrHandoverCondition(quests, "668bcccc167d507eb01a268b", allWesternWeapons);
-        }
+            questHelper.AddWeaponsToFindOrHandoverCondition(quests, "668bcccc167d507eb01a268b", allWesternWeapons);
+            
+            // ====================== THERAPIST QUESTS ======================
+            
+            // Decontamination Services (5c0d1c4cd0928202a02a6f5c)
+            questHelper.AddArmorToEquipmentExclusive(quests, "5c0d1c4cd0928202a02a6f5c", [facecover_gasmask_avon_m53a1]);
 
-        private void AddWeaponsToKillCondition(Dictionary<MongoId, Quest> quests, string questId, string[] weaponIds)
-        {
-            if (!quests.TryGetValue(questId, out var quest))
-            {
-                logger.Warning($"Quest {questId} not found");
-                return;
-            }
-
-            if (quest.Conditions.AvailableForFinish == null)
-            {
-                logger.Warning($"Quest {questId} has no AvailableForFinish conditions");
-                return;
-            }
-
-            var modified = false;
-
-            foreach (var condition in quest.Conditions.AvailableForFinish)
-            {
-                logger.Debug($"Checking condition type: {condition.ConditionType}");
-
-                if (condition is { ConditionType: "CounterCreator", Counter.Conditions: not null })
-                {
-                    foreach (var counterCond in condition.Counter.Conditions)
-                    {
-                        logger.Debug($"  Counter condition type: {counterCond.ConditionType}");
-
-                        if (counterCond is { Weapon: not null, ConditionType: "Kills" or "Shots" })
-                        {
-                            var beforeCount = counterCond.Weapon.Count;
-                    
-                            foreach (var weaponId in weaponIds)
-                            {
-                                if (counterCond.Weapon.Add(weaponId))
-                                {
-                                    modified = true;
-                                    logger.Debug($"    Added weapon {weaponId}");
-                                }
-                            }
-                            logger.Debug($"  Weapon count before: {beforeCount}, after: {counterCond.Weapon.Count}");
-                        }
-                    }
-                }
-            }
-
-            if (modified)
-            {
-                logger.Debug($"Successfully modified quest {questId}");
-            }
-            else
-            {
-                logger.Warning($"No modifications made to quest {questId} - condition structure might differ");
-            }
-        }
-
-        private void AddArmorToEquipmentExclusive(Dictionary<MongoId, Quest> quests, string questId, string[] armorIds)
-        {
-            if (!quests.TryGetValue(questId, out var quest) || quest.Conditions.AvailableForFinish == null)
-                return;
-
-            foreach (var condition in quest.Conditions.AvailableForFinish)
-            {
-                if (condition is { ConditionType: "CounterCreator", Counter.Conditions: not null })
-                {
-                    foreach (var counterCond in condition.Counter.Conditions)
-                    {
-                        if (counterCond is { ConditionType: "Equipment", EquipmentExclusive: not null })
-                        {
-                            foreach (var armorId in armorIds)
-                            {
-                                counterCond.EquipmentExclusive.Add([armorId]);
-                            }
-                        }
-                    }
-                }
-            }
-        }
-
-        private void AddWeaponsToFindOrHandoverCondition(Dictionary<MongoId, Quest> quests, string questId, string[] weaponIds)
-        {
-            if (!quests.TryGetValue(questId, out var quest) || quest.Conditions.AvailableForFinish == null)
-                return;
-
-            foreach (var condition in quest.Conditions.AvailableForFinish)
-            {
-                if ((condition.ConditionType == "FindItem" || condition.ConditionType == "HandoverItem") && condition.Target != null)
-                {
-                    foreach (var weaponId in weaponIds)
-                    {
-                        if (condition.Target.List != null && !condition.Target.List.Contains(weaponId))
-                        {
-                            condition.Target.List.Add(weaponId); 
-                            
-                        }
-                    }
-                }
-            }
         }
     }
 }

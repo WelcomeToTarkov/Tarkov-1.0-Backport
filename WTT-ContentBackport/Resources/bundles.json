@@ -2506,6 +2506,14 @@
       ]
     },
     {
+      "key": "assets/content/items/equipment/rig_6sh112/item_equipment_rig_6sh112.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/items/equipment/rig_bd1_spiritus/item_equipment_armor_bd1_spiritus.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
@@ -2572,6 +2580,14 @@
     },
     {
       "key": "assets/content/items/equipment/rig_m1/item_equipment_rig_m1.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/rig_m2/item_equipment_rig_m2.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
         "cubemaps",
@@ -4494,6 +4510,51 @@
     },
     {
       "key": "assets/content/weapons/adar_2-15/weapon_adar_2-15_556x45_container.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/m590/weapon_mossberg_590a1_12g_container.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/p226r/weapon_sig_p226r_9x19_container.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/m870/weapon_remington_model_870_12g_container.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
