@@ -79,8 +79,41 @@
     "fleaPriceRoubles": 112000,
     "handbookPriceRoubles": 90500,
     "addtoBots": false,
-    "addtoStaticLootContainers": false,
-    "staticLootContainers": [],
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_COMMON_SUPPLY_CRATE",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV_4X4_2",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_JACKET",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_PMC_BODY",
+        "probability": 150
+      },
+      {
+        "containerName": "LOOTCONTAINER_SCAV_BODY",
+        "probability": 150
+      }
+    ],
     "addtoHallOfFame": true,
     "hallOfFameSlots": [
       "bigTrophies"
