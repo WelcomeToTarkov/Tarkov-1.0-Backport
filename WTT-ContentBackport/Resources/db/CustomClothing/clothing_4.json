@@ -19,6 +19,7 @@
     "standing": 0,
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
+    "side": ["Usec"],
     "questRequirements": [],
     "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
@@ -34,6 +35,7 @@
         "description": "Tactival vest"
       }
     },
+    "side": ["Bear"],
     "topBundlePath": "assets/content/characters/character/prefabs/top_bear_green_preppers.bundle",
     "handsBundlePath": "assets/content/hands/hands_bear_green_preppers/hands_bear_green_preppers.skin.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
@@ -57,6 +59,7 @@
         "description": "Sportswear"
       }
     },
+    "side": ["Usec"],
     "topBundlePath": "assets/content/characters/character/prefabs/top_usec_goptac_2.bundle",
     "handsBundlePath": "assets/content/hands/hands_usec_goptac_2/hands_usec_goptac_2.skin.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
@@ -80,6 +83,7 @@
         "description": "Sportswear"
       }
     },
+    "side": ["Bear"],
     "topBundlePath": "assets/content/characters/character/prefabs/top_bear_goptac_2.bundle",
     "handsBundlePath": "assets/content/hands/hands_bear_goptac_2/hands_bear_goptac_2.skin.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
@@ -102,6 +106,7 @@
         "description": "Sportswear"
       }
     },
+    "side": ["Usec"],
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_usec_goptac_2.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
@@ -123,6 +128,7 @@
         "description": "Tactical pants"
       }
     },
+    "side": ["Usec"],
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_usec_red_preppers.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
@@ -144,6 +150,7 @@
         "description": "Combat pants"
       }
     },
+    "side": ["Bear"],
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_green_preppers.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
@@ -165,6 +172,7 @@
         "description": "Sportswear"
       }
     },
+    "side": ["Bear"],
     "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_goptac_2.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
