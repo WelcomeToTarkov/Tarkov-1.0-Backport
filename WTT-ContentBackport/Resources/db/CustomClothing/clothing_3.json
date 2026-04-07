@@ -1,18 +1,18 @@
 [
   {
     "type": "top",
-    "suiteId": "6943e6c4f5320785380eb0ec",
-    "outfitId": "694c14d3d89c65ca1383df05",
-    "topId": "694c21ace2428faaef9a5711",
-    "handsId": "694c21b12827d05b749a5712",
+    "suiteId": "697a1bed4fd85417be07c5a6",
+    "outfitId": "697a1bed4fd85417be07c5a6",
+    "topId": "697a1a642706743ec00766d3",
+    "handsId": "697a1b40e614e1b1e006f648",
     "locales": {
       "en": {
-        "name": "USEC Gold Squadron",
+        "name": "USEC Fahrenheit",
         "description": "Tactical jacket"
       }
     },
-    "topBundlePath": "assets/content/characters/character/prefabs/top_usec_crusader.bundle",
-    "handsBundlePath": "assets/content/hands/hands_usec_crusader/hands_usec_crusader.skin.bundle",
+    "topBundlePath": "assets/content/characters/character/prefabs/top_usec_winterset_2.bundle",
+    "handsBundlePath": "assets/content/hands/hands_usec_winterset_2/hands_usec_winterset_2.skin.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -25,18 +25,18 @@
   },
   {
     "type": "top",
-    "suiteId": "6945416cd456b032ae071604",
-    "outfitId": "694c21b6ed109915369a5713",
-    "topId": "694c21b6f73dcba7ac9a5714",
-    "handsId": "694c21b7b21bf92c549a5715",
+    "suiteId": "697a1c1fd753995683085542",
+    "outfitId": "697a1c1fd753995683085542",
+    "topId": "697a1a3801958b2b7b0cce7a",
+    "handsId": "697a1ae6e418da3bd10ca7b8",
     "locales": {
       "en": {
-        "name": "BEAR Senezh",
+        "name": "BEAR Arktika",
         "description": "Tactical jacket"
       }
     },
-    "topBundlePath": "assets/content/characters/character/prefabs/top_bear_sso.bundle",
-    "handsBundlePath": "assets/content/hands/hands_bear_sso/hands_bear_sso.skin.bundle",
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bear_winterset_2.bundle",
+    "handsBundlePath": "assets/content/hands/hands_bear_winterset_2/hands_bear_winterset_2.skin.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -49,38 +49,16 @@
   },
   {
     "type": "bottom",
-    "suiteId": "6945419bbea259180a06f6b2",
-    "outfitId": "694c21bb47d166cf0c9a5716",
-    "bottomId": "694c21bcf7722319c19a5717",
+    "suiteId": "697a1c654fd85417be07c5a8",
+    "outfitId": "697a1c654fd85417be07c5a8",
+    "bottomId": "697a1abc93250c9ec90b74ae",
     "locales": {
       "en": {
-        "name": "BEAR Senezh",
+        "name": "USEC Fahrenheit",
         "description": "Tactical pants"
       }
     },
-    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_sso.bundle",
-    "traderId": "5ac3b934156ae10c4430e83c",
-    "loyaltyLevel": 1,
-    "profileLevel": 1,
-    "standing": 0,
-    "currencyId": "MONEY_ROUBLES",
-    "price": 150,
-    "questRequirements": [],
-    "side": ["Bear"],
-    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
-  },
-  {
-    "type": "bottom",
-    "suiteId": "6943e6f371a234d6c00d598a",
-    "outfitId": "694c21be77ce1ffd3b9a5718",
-    "bottomId": "694c21bf0db5fcbd7f9a5719",
-    "locales": {
-      "en": {
-        "name": "USEC Gold Squadron",
-        "description": "Combat pants"
-      }
-    },
-    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_usec_crusader.bundle",
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_usec_winterset_2.bundle",
     "traderId": "5ac3b934156ae10c4430e83c",
     "loyaltyLevel": 1,
     "profileLevel": 1,
@@ -89,6 +67,28 @@
     "price": 150,
     "questRequirements": [],
     "side": ["Usec"],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "697a1c34cd967770800e8029",
+    "outfitId": "697a1c34cd967770800e8029",
+    "bottomId": "697a1a91dd691ac297075dde",
+    "locales": {
+      "en": {
+        "name": "BEAR Arktika",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_winterset_2.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "side": ["Bear"],
     "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   }
 ]

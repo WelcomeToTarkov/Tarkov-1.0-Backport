@@ -1,6 +1,14 @@
 {
   "manifest": [
     {
+      "key": "assets/content/items/mods/handguards/handguard_mcx_sig_spear_m_lok.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/weapons/usable_items/item_alusplint/item_alusplint_tigzresq_simple.generated.bundle",
       "dependencyKeys": [
         "assets/content/weapons/usable_items/item_alusplint/client_assets.bundle",
@@ -2210,14 +2218,6 @@
       ]
     },
     {
-      "key": "assets/content/items/equipment/glasses_red_charm/item_equipment_glasses_red_charm_bp2_red.bundle",
-      "dependencyKeys": [
-        "assets/commonassets/physics/physicsmaterials.bundle",
-        "cubemaps",
-        "shaders"
-      ]
-    },
-    {
       "key": "assets/content/items/equipment/glasses_red_charm/item_equipment_glasses_red_charm_bp2_wht.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
@@ -4367,8 +4367,23 @@
       ]
     },
     {
+      "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_prestige_01.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_prestige_01.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_echo_of_battle.bundle",
       "dependencyKeys": [
+        "cubemaps",
         "shaders"
       ]
     },
@@ -4382,6 +4397,7 @@
     {
       "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_forgotten.bundle",
       "dependencyKeys": [
+        "cubemaps",
         "shaders"
       ]
     },
@@ -4395,6 +4411,7 @@
     {
       "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_story_02_in_the_darkness.bundle",
       "dependencyKeys": [
+        "cubemaps",
         "shaders"
       ]
     },
@@ -4463,6 +4480,7 @@
     {
       "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_forgotten.bundle",
       "dependencyKeys": [
+        "cubemaps",
         "shaders"
       ]
     },
@@ -4825,18 +4843,6 @@
       ]
     },
     {
-      "key": "assets/content/weapons/tx15/client_assets.bundle",
-      "dependencyKeys": [
-        "assets/content/weapons/tx15/textures/client_assets.bundle",
-        "cubemaps",
-        "shaders"
-      ]
-    },
-    {
-      "key": "assets/content/weapons/tx15/textures/client_assets.bundle",
-      "dependencyKeys": []
-    },
-    {
       "key": "assets/content/weapons/tx15/weapon_lone_star_tx15_designated_marksman_556x45_container.bundle",
       "dependencyKeys": [
         "shaders",
@@ -4864,6 +4870,170 @@
         "assets/content/audio/weapons/generic",
         "assets/content/audio/blendoptions/assets.bundle",
         "assets/content/weapons/additional_hands/client_assets.bundle"
+      ]
+    },
+
+    {
+      "key": "assets/content/characters/character/armband.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_flyers/item_barter_flyers_ducks.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_flyers/item_barter_flyers_story_01_and_survived.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_flyers/item_barter_flyers_story_02_in_the_darkness.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_flyers/item_barter_flyers_story_03_didnt_escape_from_yourself.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_flyers/item_barter_flyers_story_04_for_humanity.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_tarko_duck/item_barter_tarko_duck.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/containers/item_container_tube/item_container_tube.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/armband/item_equipment_armband_story_01_and_survived.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/characters/character/armband.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/armband/item_equipment_armband_story_02_in_the_darkness.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/characters/character/armband.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/armband/item_equipment_armband_story_03_didnt_escape_from_yourself.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/characters/character/armband.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/armband/item_equipment_armband_story_04_for_humanity.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/characters/character/armband.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/glasses_red_charm/item_equipment_glasses_red_charm_bp2_red.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_maska_1sh/item_equipment_helmet_maska_1sh_vida.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_maska_1sh/item_equipment_helmet_maska_1sh_killa_textures",
+        "assets/content/items/equipment/helmet_maska_1sh/item_equipment_helmet_maska_1sh_textures",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_maska_1sh_shield/item_equipment_helmet_maska_1sh_shield_vida.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_maska_1sh/item_equipment_helmet_maska_1sh_killa_textures",
+        "assets/content/items/equipment/helmet_maska_1sh/item_equipment_helmet_maska_1sh_textures",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_food_beefstew/textures/client_assets.bundle",
+      "dependencyKeys": []
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_food_beefstew_2/client_assets.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/usable_items/item_food_beefstew/textures/client_assets.bundle",
+        "assets/content/weapons/usable_items/item_food_beefstew_2/textures/client_assets.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_food_beefstew_2/textures/client_assets.bundle",
+      "dependencyKeys": []
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_food_pate/item_food_pate_container.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_food_pate/item_food_pate_duck_loot.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/usable_items/item_food_beefstew/textures/client_assets.bundle",
+        "assets/content/weapons/usable_items/item_food_beefstew_2/client_assets.bundle",
+        "assets/content/weapons/usable_items/item_food_beefstew_2/textures/client_assets.bundle",
+        "cubemaps",
+        "shaders"
       ]
     }
   ]

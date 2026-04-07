@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTT-ContentBackport", "WTT-ContentBackport\WTT-ContentBackport.csproj", "{E5EBAECE-68CA-466F-ADD2-CDCC287D8EC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTT-ContentBackportClient", "WTT-ContentBackportClient\WTT-ContentBackportClient.csproj", "{F76AC5A4-90FB-425D-A6A7-A2C707165EB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTT-ContentBackportPatcher", "WTT-ContentBackportPatcher\WTT-ContentBackportPatcher.csproj", "{BFD7B32B-A638-407D-A316-17890372F144}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{E5EBAECE-68CA-466F-ADD2-CDCC287D8EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5EBAECE-68CA-466F-ADD2-CDCC287D8EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5EBAECE-68CA-466F-ADD2-CDCC287D8EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76AC5A4-90FB-425D-A6A7-A2C707165EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76AC5A4-90FB-425D-A6A7-A2C707165EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76AC5A4-90FB-425D-A6A7-A2C707165EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76AC5A4-90FB-425D-A6A7-A2C707165EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD7B32B-A638-407D-A316-17890372F144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD7B32B-A638-407D-A316-17890372F144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD7B32B-A638-407D-A316-17890372F144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD7B32B-A638-407D-A316-17890372F144}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

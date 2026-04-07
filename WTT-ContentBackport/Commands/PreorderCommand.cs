@@ -7,6 +7,7 @@ using SPTarkov.Server.Core.Models.Eft.Dialog;
 using SPTarkov.Server.Core.Models.Eft.Profile;
 using SPTarkov.Server.Core.Servers;
 using SPTarkov.Server.Core.Services;
+using WTTServerCommonLib.Helpers;
 
 namespace WTTContentBackport.Commands;
 
@@ -20,6 +21,13 @@ public class PreorderCommand(
     public ValueTask<string> PerformAction(UserDialogInfo commandHandler, MongoId sessionId, SendMessageRequest request)
     {
         var profile = profileHelper.GetFullProfile(sessionId);
+        IEnumerable<MongoId> preorderposes = new MongoId[]
+        {
+            "68fb7e94d4b0e9617502c1ae",
+            "68fb7ec2fb3842532002cba7",
+            "68fb7eb310742e456a0fa857",
+        };
+        profile.AddCustomisations(preorderposes, "mannequinPose", CustomisationSource.DEFAULT);
 
         if (!profileHelper.PlayerHasReceivedMaxNumberOfGift(sessionId, "shutupandtakemyroubles", 1))
         {

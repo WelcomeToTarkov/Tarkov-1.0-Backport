@@ -21,6 +21,9 @@ public class SixSevenPrestigeCommand(
     public ValueTask<string> PerformAction(UserDialogInfo commandHandler, MongoId sessionId, SendMessageRequest request)
     {
         var profile = profileHelper.GetFullProfile(sessionId);
+        profile.AddCustomisation("68f12827372e7bb1de0d7361", "environment", CustomisationSource.DEFAULT);
+        profile.AddCustomisation("683dc6aa57f38ea79c0073f1", "wall", CustomisationSource.DEFAULT);
+        profile.AddCustomisation("683dc67e5e8c96c28e0ce6f8", "ceiling", CustomisationSource.DEFAULT);
 
         if (!profileHelper.PlayerHasReceivedMaxNumberOfGift(sessionId, "67prestigeicon", 1))
         {

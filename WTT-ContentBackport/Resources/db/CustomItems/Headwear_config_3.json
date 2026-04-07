@@ -1,0 +1,276 @@
+﻿{
+  "697c79b1daf4828686033fcb": {
+    "itemTplToClone": "5c0919b50db834001b7ce3b9",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [
+        "5645bcc04bdc2d363b8b4572",
+        "5aa2ba71e5b5b000137b758f",
+        "5a16b9fffcdbcb0176308b34",
+        "66b5f69ea7f72d197e70bcdb",
+        "66b5f6a28ca68c6461709ed8",
+        "628e4e576d783146b124c64d",
+        "66b5f693acff495a294927e3",
+        "66b5f6985891c84aab75ca76",
+        "5b432b965acfc47a8774094e",
+        "66b5f68de98be930d701c00e",
+        "6033fa48ffd42c541047f728",
+        "5c165d832e2216398b5a7e36",
+        "5e4d34ca86f774264f758330",
+        "5f60cd6cf2bcbb675b00dac6",
+        "693bb59250fafa102607aeb7"
+      ],
+      "Description": "item_equipment_helmet_maska_1sh_vida",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": true,
+      "Name": "item_equipment_helmet_maska_1sh_vida",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_maska_1sh/item_equipment_helmet_maska_1sh_vida.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 606,
+      "RepairSpeed": 10,
+      "ShortName": "item_equipment_helmet_maska_1sh_vida",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 2.6,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_equipment",
+          "_id": "697c79b1daf4828686033fcd",
+          "_parent": "697c79b1daf4828686033fcb",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0919b50db834001b7ce3b9",
+                  "5c0e842486f77443a74d2976",
+                  "697c7a457c3b0223c30d16e6"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "697c79b1daf4828686033fce",
+          "_parent": "697c79b1daf4828686033fcb",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6571133d22996eaf11088200"
+                ],
+                "Plate": "6571133d22996eaf11088200",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "697c79b1daf4828686033fcf",
+          "_parent": "697c79b1daf4828686033fcb",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6571138e818110db4600aa71"
+                ],
+                "Plate": "6571138e818110db4600aa71",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_ears",
+          "_id": "697c79b1daf4828686033fd0",
+          "_parent": "697c79b1daf4828686033fcb",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657112fa818110db4600aa6b"
+                ],
+                "Plate": "657112fa818110db4600aa6b",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "ArmoredSteel",
+      "ArmorType": "Heavy",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0.1726,
+      "DeafStrength": "High",
+      "Durability": 0,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "Helmet",
+      "MaxDurability": 0,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0.8,
+        "y": 0.3,
+        "z": 80
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": -1,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -4
+    },
+    "locales": {
+      "en": {
+        "name": "Maska-1SCh bulletproof helmet (Vida Edition)",
+        "shortName": "Maska-1SCh VE",
+        "description": "The Maska-1 bulletproof protective helmet appeared in service in 1991 as a replacement for the \"Sphere\" helmet, designed for use by the Ministry of Internal Affairs of the Russian Federation armed forces. The Maska-1SCh (\"Mask-1 Shield\") modification features a bulletproof steel faceshield to ensure maximum protection of the user's face. "
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 104546,
+    "handbookPriceRoubles": 8372,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "69c487ff58d866cee12a5ccb",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Helmet Maska 1Sh Vida",
+        "_parent": "69c48805ef6569af572a5ccc",
+        "_items": [
+          {
+            "_id": "69c48805ef6569af572a5ccc",
+            "_tpl": "697c79b1daf4828686033fcb"
+          },
+          {
+            "_id": "6576e80dfad2d1a4c00ca47b",
+            "_tpl": "6571133d22996eaf11088200",
+            "parentId": "69c48805ef6569af572a5ccc",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "6576e80dfad2d1a4c00ca47c",
+            "_tpl": "6571138e818110db4600aa71",
+            "parentId": "69c48805ef6569af572a5ccc",
+            "slotId": "Helmet_back"
+          },
+          {
+            "_id": "6576e80dfad2d1a4c00ca47d",
+            "_tpl": "657112fa818110db4600aa6b",
+            "parentId": "69c48805ef6569af572a5ccc",
+            "slotId": "Helmet_ears"
+          }
+        ],
+        "_encyclopedia": "697c79b1daf4828686033fcb"
+      }
+    ],
+    "addtoTraders": false,
+    "traders": {}
+  }
+}
