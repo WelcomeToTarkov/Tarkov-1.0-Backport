@@ -30,6 +30,55 @@ public class EndingsCommand(
         profile.AddCustomisations(endingbackgrounds, "environment", CustomisationSource.DEFAULT);
         rewardHelper.AddAchievementToProfile(profile, "694c60b50cb1e6ad639a5723");
         rewardHelper.AddAchievementToProfile(profile, "6948990c05f4f91bdb9a56f3");
+        if (!profileHelper.PlayerHasReceivedMaxNumberOfGift(sessionId, "ibeatthegameiswear", 1))
+        {
+            profileHelper.FlagGiftReceivedInProfile(sessionId, "ibeatthegameiswear", 1);
+            mailSendService.SendSystemMessageToPlayer(sessionId, $"Endings rewards sent! Enjoy you filthy cheater!",
+                new List<Item>
+                {
+                    new()
+                    {
+                        Id = "69d546e56cd0336ce513f932",
+                        Template = "68d41f017cb8c03da8079004",
+                        Upd = new Upd()
+                        {
+                            SpawnedInSession = true,
+                            StackObjectsCount = 1
+                        }
+                    },
+                    new()
+                    {
+                        Id = "69d546e8a9d603390d13f933",
+                        Template = "68d41e65a706eba9a204ed27",
+                        Upd = new Upd()
+                        {
+                            SpawnedInSession = true,
+                            StackObjectsCount = 1
+                        }
+                    },
+                    new()
+                    {
+                        Id = "69d546e9a2073bc5b313f934",
+                        Template = "68d41fb0a1c275dbaa0798bf",
+                        Upd = new Upd()
+                        {
+                            SpawnedInSession = true,
+                            StackObjectsCount = 1
+                        }
+                    },
+                    new()
+                    {
+                        Id = "69d546eb08df0b9c4e13f935",
+                        Template = "68d41fde2937f3f17c04864d",
+                        Upd = new Upd()
+                        {
+                            SpawnedInSession = true,
+                            StackObjectsCount = 1
+                        }
+                    }
+                });
+        }
+
         return new ValueTask<string>(request.DialogId);
     }
 
@@ -40,9 +89,6 @@ public class EndingsCommand(
 
     public string CommandHelp
     {
-        get
-        {
-            return "Usage: Receive all four endings customizations (dogtags, hideout, main menu environments, etc)";
-        }
+        get { return "Usage: Receive all four endings customizations (dogtags, hideout, main menu environments, armbands, etc)"; }
     }
 }
