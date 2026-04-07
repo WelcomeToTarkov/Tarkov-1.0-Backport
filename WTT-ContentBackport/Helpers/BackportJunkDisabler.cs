@@ -49,6 +49,11 @@ public class BackportJunkDisabler(ConfigServer configServer)
     "68947a4be4bf255d1b0ca746", // BD First Spear Siege-R
     "689479eb30cc5ba7be00f5ff", // BD Spiritus Systems LV-119
     "689479a4a733b1602007e2eb", // BD Spiritus Systems LV-119 v1
+    "689b889473ebd6871805edd6", // BD L3Harris PVS-31A night vision goggles
+    "68d41f017cb8c03da8079004", // Armband (To Fall in the Darkness)
+    "68d41e65a706eba9a204ed27", // Armband (Survivor)
+    "68d41fb0a1c275dbaa0798bf", // Armband (Lighthouse)
+    "68d41fde2937f3f17c04864d", // Armband (For Humanity)
     };
     public void AddDogtagsToPmCs()
     {
