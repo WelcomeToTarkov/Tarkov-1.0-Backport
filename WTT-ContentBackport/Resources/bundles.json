@@ -1,6 +1,30 @@
 {
   "manifest": [
     {
+      "key": "assets/content/characters/character/prefabs/top_usec_winterset_2.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_usec_winterset_2/hands_usec_winterset_2.skin.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+        {
+      "key": "assets/content/characters/character/prefabs/pants_usec_winterset_2.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/characters/character/prefabs/pants_usec_red_preppers.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",

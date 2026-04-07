@@ -20,7 +20,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -43,7 +43,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -66,7 +66,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "top",
@@ -89,7 +89,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "bottom",
@@ -110,7 +110,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "bottom",
@@ -131,7 +131,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "bottom",
@@ -152,7 +152,7 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   },
   {
     "type": "bottom",
@@ -173,6 +173,6 @@
     "currencyId": "MONEY_ROUBLES",
     "price": 150,
     "questRequirements": [],
-    "achievementRequirements": []
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
   }
 ]
