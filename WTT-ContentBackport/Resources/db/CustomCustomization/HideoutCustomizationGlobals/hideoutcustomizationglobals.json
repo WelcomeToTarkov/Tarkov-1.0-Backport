@@ -486,5 +486,104 @@
     "systemName": "Wall_EchoOfBattle",
     "isEnabled": false,
     "itemId": "68fb6a584e7ecdb1220adfa5"
+  },
+  {
+    "id": "697cdcfd397fe7d54748a20d",
+    "conditions": [
+      {
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "dialogId": null,
+        "entryPoint": null,
+        "fromTraderId": null,
+        "id": "697cdd1e61e7056d010cf7d3",
+        "props": {
+          "index": 0,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "entryPoint": null,
+          "dialogId": null,
+          "fromTraderId": null
+        },
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "shootingRangeMark",
+    "index": 0,
+    "systemName": "Target_Kryakov",
+    "isEnabled": true,
+    "itemId": "697cdc8a156bcff2ec04a127"
+  },
+  {
+    "id": "6841cdb93de393b52dd49865",
+    "conditions": [
+      {
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "dialogId": null,
+        "entryPoint": null,
+        "fromTraderId": null,
+        "id": "6841cdc772532c1991fe1615",
+        "props": {
+          "index": 0,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "entryPoint": null,
+          "dialogId": null,
+          "fromTraderId": null
+        },
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "ceiling",
+    "index": 0,
+    "systemName": "Ceiling_Prestige_2",
+    "isEnabled": true,
+    "itemId": "683dc67e5e8c96c28e0ce6f8"
+  },
+  {
+    "id": "6841cc541c407f8aa0e4f62b",
+    "conditions": [
+      {
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "dialogId": null,
+        "entryPoint": null,
+        "fromTraderId": null,
+        "id": "6841cc7af143c60fc8dfbd26",
+        "props": {
+          "index": 0,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "entryPoint": null,
+          "dialogId": null,
+          "fromTraderId": null
+        },
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "wall",
+    "index": 0,
+    "systemName": "Wall_Prestige_2",
+    "isEnabled": true,
+    "itemId": "683dc6aa57f38ea79c0073f1"
   }
 ]

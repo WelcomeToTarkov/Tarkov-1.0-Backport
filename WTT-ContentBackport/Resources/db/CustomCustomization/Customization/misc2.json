@@ -1,0 +1,264 @@
+{
+  "683db01a0dea92512e020550": {
+    "_id": "683db01a0dea92512e020550",
+    "_name": "TMannequinPose",
+    "_parent": "675ff48ce8d2356707079617",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "TMannequinPose",
+      "Name": "TMannequinPose",
+      "ProfileVersions": [],
+      "ShortName": "TMannequinPose",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "MannequinPoseName": "t_pose"
+    }
+  },
+  "68f12827372e7bb1de0d7361": {
+    "_id": "68f12827372e7bb1de0d7361",
+    "_name": "MiamiEnvironmentUiType",
+    "_parent": "67584ea0ff58ff0e7909e435",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "MiamiEnvironmentUiType",
+      "Name": "MiamiEnvironmentUiType",
+      "ProfileVersions": [],
+      "ShortName": "MiamiEnvironmentUiType",
+      "Side": [
+        "Savage",
+        "Bear",
+        "Usec"
+      ],
+      "EnvironmentUIType": "MiamiEnvironmentUiType",
+      "HiddenByDefault": false
+    }
+  },
+  "68f0f556e3aa0f5eb903faca": {
+    "_id": "68f0f556e3aa0f5eb903faca",
+    "_name": "PraiseMannequinPose",
+    "_parent": "675ff48ce8d2356707079617",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "PraiseMannequinPose",
+      "Name": "PraiseMannequinPose",
+      "ProfileVersions": [],
+      "ShortName": "PraiseMannequinPose",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "MannequinPoseName": "praise"
+    }
+  },
+  "683dc6aa57f38ea79c0073f1": {
+    "_id": "683dc6aa57f38ea79c0073f1",
+    "_name": "Prestige2Wall",
+    "_parent": "67373f1e5a5ee73f2a081baf",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Prestige2Wall",
+      "Name": "Prestige2Wall",
+      "ProfileVersions": [],
+      "ShortName": "Prestige2Wall",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_prestige_01.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "683dc67e5e8c96c28e0ce6f8": {
+    "_id": "683dc67e5e8c96c28e0ce6f8",
+    "_name": "Prestige2Ceiling",
+    "_parent": "673b3f595bf6b605c90fcdc2",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Prestige2Ceiling",
+      "Name": "Prestige2Ceiling",
+      "ProfileVersions": [],
+      "ShortName": "Prestige2Ceiling",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_prestige_01.bundle",
+        "rcid": ""
+      }
+    }
+  },
+  "697cdc8a156bcff2ec04a127": {
+    "_id": "697cdc8a156bcff2ec04a127",
+    "_name": "TargetKryakov",
+    "_parent": "67373f330eca6e03ab0d5394",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "TargetKryakov",
+      "Name": "TargetKryakov",
+      "ProfileVersions": [],
+      "ShortName": "TargetKryakov",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "",
+        "rcid": "TargetKryakov"
+      }
+    }
+  },
+  "68fb7e94d4b0e9617502c1ae": {
+    "_id": "68fb7e94d4b0e9617502c1ae",
+    "_name": "Preorder_1_right_Pose",
+    "_parent": "675ff48ce8d2356707079617",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Preorder_1_right_Pose",
+      "Name": "Preorder_1_right_Pose",
+      "ProfileVersions": [],
+      "ShortName": "Preorder_1_right_Pose",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "MannequinPoseName": "preorder_1_right"
+    }
+  },
+  "68fb7ec2fb3842532002cba7": {
+    "_id": "68fb7ec2fb3842532002cba7",
+    "_name": "Preorder_3_center_Pose",
+    "_parent": "675ff48ce8d2356707079617",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Preorder_3_center_Pose",
+      "Name": "Preorder_3_center_Pose",
+      "ProfileVersions": [],
+      "ShortName": "Preorder_3_center_Pose",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "MannequinPoseName": "preorder_3_center"
+    }
+  },
+  "68fb7eb310742e456a0fa857": {
+    "_id": "68fb7eb310742e456a0fa857",
+    "_name": "Preorder_2_left_Pose",
+    "_parent": "675ff48ce8d2356707079617",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Preorder_2_left_Pose",
+      "Name": "Preorder_2_left_Pose",
+      "ProfileVersions": [],
+      "ShortName": "Preorder_2_left_Pose",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "MannequinPoseName": "preorder_2_left"
+    }
+  },
+  "68fb63c9be7aff394b01681a": {
+    "_id": "68fb63c9be7aff394b01681a",
+    "_name": "EndingForHumanityEnvironmentUiType",
+    "_parent": "67584ea0ff58ff0e7909e435",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "EndingForHumanityEnvironmentUi",
+      "Name": "EndingForHumanityEnvironmentUi",
+      "ProfileVersions": [],
+      "ShortName": "EndingForHumanityEnvironmentUi",
+      "Side": [
+        "Savage",
+        "Bear",
+        "Usec"
+      ],
+      "EnvironmentUIType": "EndingForHumanityEnvironmentUiType",
+      "HiddenByDefault": true
+    }
+  },
+  "68fb63afc09c82a74d07d21f": {
+    "_id": "68fb63afc09c82a74d07d21f",
+    "_name": "EndingInTheDarknessEnvironmentUiType",
+    "_parent": "67584ea0ff58ff0e7909e435",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "EndingInTheDarknessEnvironmentUi",
+      "Name": "EndingInTheDarknessEnvironmentUi",
+      "ProfileVersions": [],
+      "ShortName": "EndingInTheDarknessEnvironmentUi",
+      "Side": [
+        "Savage",
+        "Bear",
+        "Usec"
+      ],
+      "EnvironmentUIType": "EndingInTheDarknessEnvironmentUiType",
+      "HiddenByDefault": true
+    }
+  },
+  "68fb638ebe7aff394b016818": {
+    "_id": "68fb638ebe7aff394b016818",
+    "_name": "EndingAndSurvivedEnvironmentUiType",
+    "_parent": "67584ea0ff58ff0e7909e435",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "EndingAndSurvivedEnvironmentUi",
+      "Name": "EndingAndSurvivedEnvironmentUi",
+      "ProfileVersions": [],
+      "ShortName": "EndingAndSurvivedEnvironmentUi",
+      "Side": [
+        "Savage",
+        "Bear",
+        "Usec"
+      ],
+      "EnvironmentUIType": "EndingAndSurvivedEnvironmentUiType",
+      "HiddenByDefault": true
+    }
+  },
+  "68fb63be323974a4ae011df8": {
+    "_id": "68fb63be323974a4ae011df8",
+    "_name": "EndingDidntEscapeFromYourselfEnvironmentUiType",
+    "_parent": "67584ea0ff58ff0e7909e435",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "EndingDidntEscapeFromYourselfEnvironmentUi",
+      "Name": "EndingDidntEscapeFromYourselfEnvironmentUi",
+      "ProfileVersions": [],
+      "ShortName": "EndingDidntEscapeFromYourselfEnvironmentUi",
+      "Side": [
+        "Savage",
+        "Bear",
+        "Usec"
+      ],
+      "EnvironmentUIType": "EndingDidntEscapeFromYourselfEnvironmentUiType",
+      "HiddenByDefault": true
+    }
+  }
+}
