@@ -1,6 +1,30 @@
 {
   "manifest": [
     {
+      "key": "assets/content/characters/character/prefabs/top_bear_winterset_2.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_bear_winterset_2/hands_bear_winterset_2.skin.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/pants_bear_winterset_2.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/characters/character/prefabs/top_usec_winterset_2.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
