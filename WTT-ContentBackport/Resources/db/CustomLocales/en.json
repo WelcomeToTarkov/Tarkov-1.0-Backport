@@ -1690,5 +1690,11 @@
   "EndingAndSurvivedEnvironmentUiType": "Bleak Horizon",
   "EndingDidntEscapeFromYourselfEnvironmentUiType": "Storm Front",
   "EndingForHumanityEnvironmentUiType": "Peaceful Sky",
-  "EndingInTheDarknessEnvironmentUiType": "Dusk of Humanity"
+  "EndingInTheDarknessEnvironmentUiType": "Dusk of Humanity",
+  "697cdc8a156bcff2ec04a127 Name": "Scavenger target",
+  "697cdc8a156bcff2ec04a127 ShortName": "Scavenger",
+  "697cdc8a156bcff2ec04a127 Description": "A target for those who are thoroughly sick of these red fellows.",
+  "697cdcfd397fe7d54748a20d Name": "Scavenger target",
+  "697cdcfd397fe7d54748a20d Description": "A target for those who are thoroughly sick of these red fellows.",
+  "697cdd1e61e7056d010cf7d3": "Can only be obtained during special events"
 }
