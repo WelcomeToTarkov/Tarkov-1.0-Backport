@@ -221,10 +221,6 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 213
-      },
-      {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 117
       },
@@ -247,10 +243,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 221
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 159
       }
     ],
     "addtoHallOfFame": false,
@@ -570,10 +562,6 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 132
-      },
-      {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 284
       },
@@ -596,10 +584,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 144
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 111
       }
     ],
     "addtoHallOfFame": false,
@@ -893,10 +877,6 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 192
-      },
-      {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 368
       },
@@ -1158,10 +1138,6 @@
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 185
-      },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 438
@@ -1509,10 +1485,6 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 229
-      },
-      {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 140
       },
@@ -1771,10 +1743,6 @@
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 202
-      },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 107
@@ -2043,10 +2011,6 @@
     "addtoBots": false,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 199
-      },
       {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 392

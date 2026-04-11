@@ -848,10 +848,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 150
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 150
       }
     ],
     "addtoHallOfFame": false,

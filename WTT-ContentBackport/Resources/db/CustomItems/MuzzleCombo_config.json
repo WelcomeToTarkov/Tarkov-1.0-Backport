@@ -114,10 +114,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 350
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 150
       }
     ],
     "addtoHallOfFame": false,
@@ -248,10 +244,6 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 450
-      },
-      {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 450
       },
@@ -274,10 +266,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 350
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 250
       }
     ],
     "addtoHallOfFame": false,
@@ -440,10 +428,6 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 450
-      },
-      {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 450
       },
@@ -466,10 +450,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 350
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 250
       }
     ],
     "addtoHallOfFame": false,
@@ -598,10 +578,6 @@
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 450
-      },
-      {
         "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
         "probability": 450
       },
@@ -624,10 +600,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 350
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 250
       }
     ],
     "addtoHallOfFame": false,

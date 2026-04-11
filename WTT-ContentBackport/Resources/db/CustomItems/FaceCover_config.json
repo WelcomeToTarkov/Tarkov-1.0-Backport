@@ -151,10 +151,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 600
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 400
       }
     ],
     "addtoHallOfFame": false,
@@ -299,10 +295,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 600
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 400
       }
     ],
     "addtoHallOfFame": false,
@@ -458,10 +450,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 600
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 400
       }
     ],
     "addtoHallOfFame": false,
@@ -606,10 +594,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 600
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 400
       }
     ],
     "addtoHallOfFame": false,
@@ -790,10 +774,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 600
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 600
       }
     ],
     "addtoHallOfFame": false,
@@ -938,10 +918,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 600
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 600
       }
     ],
     "addtoHallOfFame": false,
@@ -1085,10 +1061,6 @@
       },
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
-        "probability": 600
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 600
       }
     ],
@@ -1264,10 +1236,6 @@
       },
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
-        "probability": 600
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 600
       }
     ],
@@ -1497,10 +1465,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 600
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 600
       }
     ],
     "addtoHallOfFame": false,
@@ -1662,10 +1626,6 @@
       },
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
-        "probability": 600
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
         "probability": 600
       }
     ],
@@ -1829,10 +1789,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 600
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 600
       }
     ],
     "addtoHallOfFame": false,
@@ -1980,10 +1936,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 10
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 2
       }
     ],
     "addtoHallOfFame": false,
@@ -2212,10 +2164,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 55
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 25
       }
     ],
     "addtoHallOfFame": false,
@@ -2378,10 +2326,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 55
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 25
       },
       {
         "containerName": "LOOTCONTAINER_PMC_BODY",
@@ -2563,10 +2507,6 @@
         "probability": 55
       },
       {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 25
-      },
-      {
         "containerName": "LOOTCONTAINER_PMC_BODY",
         "probability": 25
       }
@@ -2733,10 +2673,6 @@
         "probability": 20
       },
       {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 60
-      },
-      {
         "containerName": "LOOTCONTAINER_PMC_BODY",
         "probability": 60
       }
@@ -2894,10 +2830,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 20
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 60
       },
       {
         "containerName": "LOOTCONTAINER_PMC_BODY",
@@ -3079,10 +3011,6 @@
         "probability": 20
       },
       {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 60
-      },
-      {
         "containerName": "LOOTCONTAINER_PMC_BODY",
         "probability": 60
       },
@@ -3244,10 +3172,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 20
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 60
       },
       {
         "containerName": "LOOTCONTAINER_PMC_BODY",
@@ -3484,10 +3408,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 600
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 400
       }
     ],
     "addtoHallOfFame": false,
@@ -3716,10 +3636,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 600
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 400
       }
     ],
     "addtoHallOfFame": false,
@@ -3948,10 +3864,6 @@
       {
         "containerName": "LOOTCONTAINER_DUFFLE_BAG",
         "probability": 600
-      },
-      {
-        "containerName": "LOOTCONTAINER_SCAV_BODY",
-        "probability": 400
       }
     ],
     "addtoHallOfFame": false,
