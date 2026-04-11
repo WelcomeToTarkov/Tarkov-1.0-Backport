@@ -4519,10 +4519,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 313
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 231
       }
     ],
     "addtoHallOfFame": false,
@@ -4676,10 +4672,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 385
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 180
       }
     ],
     "addtoHallOfFame": false,
@@ -4860,10 +4852,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 411
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 133
       }
     ],
     "addtoHallOfFame": false,
@@ -5116,10 +5104,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 495
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 102
       }
     ],
     "addtoHallOfFame": false,
@@ -5367,10 +5351,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 382
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 113
       }
     ],
     "addtoHallOfFame": false,
@@ -5643,10 +5623,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 116
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 439
       }
     ],
     "addtoHallOfFame": false,
@@ -5971,10 +5947,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 457
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 120
       }
     ],
     "addtoHallOfFame": false,
@@ -6245,10 +6217,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 452
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 247
       }
     ],
     "addtoHallOfFame": false,
@@ -6499,10 +6467,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 213
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 131
       }
     ],
     "addtoHallOfFame": false,
@@ -6698,10 +6662,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 152
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 233
       }
     ],
     "addtoHallOfFame": false,
@@ -6975,10 +6935,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 406
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 271
       }
     ],
     "addtoHallOfFame": false,
@@ -7170,10 +7126,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 256
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 276
       }
     ],
     "addtoHallOfFame": false,
@@ -7497,10 +7449,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 102
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 343
       }
     ],
     "addtoHallOfFame": false,
@@ -7845,10 +7793,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 286
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 233
       }
     ],
     "addtoHallOfFame": false,
@@ -8044,10 +7988,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 332
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 118
       }
     ],
     "addtoHallOfFame": false,
@@ -8299,10 +8239,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 359
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 122
       }
     ],
     "addtoHallOfFame": false,
@@ -8542,10 +8478,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 259
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 180
       }
     ],
     "addtoHallOfFame": false,
@@ -8951,10 +8883,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 376
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 189
       }
     ],
     "addtoHallOfFame": false,
@@ -9199,10 +9127,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 153
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 240
       }
     ],
     "addtoHallOfFame": false,
@@ -9473,10 +9397,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 339
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 150
       }
     ],
     "addtoHallOfFame": false,
@@ -9750,10 +9670,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 412
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 191
       }
     ],
     "addtoHallOfFame": false,
@@ -9977,10 +9893,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 267
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 291
       }
     ],
     "addtoHallOfFame": false,
@@ -10299,10 +10211,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 196
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 464
       }
     ],
     "addtoHallOfFame": false,
@@ -10593,10 +10501,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 281
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 179
       }
     ],
     "addtoHallOfFame": false,
@@ -11135,10 +11039,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 246
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 431
       }
     ],
     "addtoHallOfFame": false,
@@ -11412,10 +11312,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 422
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 193
       }
     ],
     "addtoHallOfFame": false,
@@ -11778,10 +11674,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 500
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 156
       }
     ],
     "addtoHallOfFame": false,
@@ -12096,10 +11988,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 192
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 168
       }
     ],
     "addtoHallOfFame": false,
@@ -12490,10 +12378,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 217
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 185
       }
     ],
     "addtoHallOfFame": false,
@@ -12854,10 +12738,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 434
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 264
       }
     ],
     "addtoHallOfFame": false,
@@ -13247,10 +13127,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 222
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 331
       }
     ],
     "addtoHallOfFame": false,
@@ -13541,10 +13417,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 240
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 171
       }
     ],
     "addtoHallOfFame": false,
@@ -13815,10 +13687,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 442
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 193
       }
     ],
     "addtoHallOfFame": false,
@@ -14065,10 +13933,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 352
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 278
       }
     ],
     "addtoHallOfFame": false,
@@ -14264,10 +14128,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 497
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 277
       }
     ],
     "addtoHallOfFame": false,
@@ -14512,10 +14372,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 480
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 166
       }
     ],
     "addtoHallOfFame": false,
@@ -14830,10 +14686,6 @@
       {
         "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
         "probability": 121
-      },
-      {
-        "containerName": "LOOTCONTAINER_WOODEN_AMMO_BOX_3X3_2",
-        "probability": 325
       }
     ],
     "addtoHallOfFame": false,
