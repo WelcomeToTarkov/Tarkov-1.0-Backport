@@ -80,6 +80,7 @@
     "handbookPriceRoubles": 100000,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
+    "addtoItemBlacklist":  true,
     "staticLootContainers": [
       {
         "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",

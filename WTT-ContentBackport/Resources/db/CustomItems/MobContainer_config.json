@@ -266,7 +266,7 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
+    "addtoItemBlacklist":  true,
     "addtoTraders": false,
     "traders": {}
   },
@@ -542,7 +542,7 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
+    "addtoItemBlacklist": true,
     "addtoTraders": false,
     "traders": {}
   },
@@ -813,7 +813,7 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
+    "addtoItemBlacklist": true,
     "addtoTraders": false,
     "traders": {}
   }

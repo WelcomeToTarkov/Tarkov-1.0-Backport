@@ -1087,7 +1087,7 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
+    "addtoItemBlacklist": true,
     "addtoTraders": false,
     "traders": {},
     "addWeaponPreset": true,
@@ -2228,7 +2228,7 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
+    "addtoItemBlacklist": true,
     "addtoTraders": false,
     "traders": {},
     "addWeaponPreset": true,
@@ -2804,7 +2804,7 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
+    "addtoItemBlacklist": true,
     "addtoTraders": false,
     "traders": {},
     "addWeaponPreset": true,
@@ -4058,7 +4058,7 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
+    "addtoItemBlacklist": true,
     "addtoTraders": false,
     "traders": {},
     "addWeaponPreset": true,

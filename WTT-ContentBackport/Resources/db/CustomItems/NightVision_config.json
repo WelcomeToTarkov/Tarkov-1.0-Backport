@@ -170,6 +170,7 @@
     "addtoStatuetteSlots": false,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
+    "addtoItemBlacklist": true,
     "staticAmmoProbability": 0,
     "addtoSecureFilters": false,
     "masteries": false,

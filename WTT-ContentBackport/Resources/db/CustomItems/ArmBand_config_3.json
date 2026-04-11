@@ -109,6 +109,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "addtoTraders": false,
+    "addtoItemBlacklist": true,
     "traders": {}
   },
   "68d41e65a706eba9a204ed27": {
@@ -212,6 +213,7 @@
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
     "addtoStatuetteSlots": false,
+    "addtoItemBlacklist": true,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
     "staticAmmoProbability": 0,
@@ -326,6 +328,7 @@
     "addtoStatuetteSlots": false,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
+    "addtoItemBlacklist": true,
     "staticAmmoProbability": 0,
     "addtoSecureFilters": false,
     "masteries": false,
@@ -441,6 +444,7 @@
     "staticAmmoProbability": 0,
     "addtoSecureFilters": false,
     "masteries": false,
+    "addtoItemBlacklist": true,
     "masterySections": [],
     "addWeaponPreset": false,
     "weaponPresets": [],

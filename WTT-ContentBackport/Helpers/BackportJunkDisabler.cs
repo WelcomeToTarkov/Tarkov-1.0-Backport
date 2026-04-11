@@ -1,96 +1,93 @@
-﻿using SPTarkov.DI.Annotations;
-using SPTarkov.Server.Core.Models.Common;
-using SPTarkov.Server.Core.Models.Spt.Config;
-using SPTarkov.Server.Core.Servers;
+﻿    using SPTarkov.DI.Annotations;
+    using SPTarkov.Server.Core.Models.Common;
+    using SPTarkov.Server.Core.Models.Spt.Config;
+    using SPTarkov.Server.Core.Servers;
 
-namespace WTTContentBackport.Helpers;
+    namespace WTTContentBackport.Helpers;
 
 
-[Injectable]
-public class BackportJunkDisabler(ConfigServer configServer)
-{
-    private PmcConfig pmcConfig = configServer.GetConfig<PmcConfig>();
-    private ItemConfig itemConfig = configServer.GetConfig<ItemConfig>();
-    public static readonly List<MongoId> _bearDogtags = new()
+    [Injectable]
+    public class BackportJunkDisabler(ConfigServer configServer)
     {
-        "68df9908972cf1e1ec07256a",
-        "68df9927a38a5e37d80df6c9",
-        "68df991142e96f583d042b8a",
-        "68df991dbeba86572e097ceb",
-        "68f0f63c645c14a02104142a",
-        "68fb412b0760c7891606613e",
-        "68f15cf222c8979ee308f495",
-        "68f0f60a121d878a2303eedb",
-        "68fb41120760c7891606613c",
-        "68f15e26f1aa7e100a0ca208",
-        "68f153aa7da590b6df0515da"
-    };
-    public static readonly List<MongoId> _usecDogtags = new()
-    {
-        "68df99c05d4e135b130392cc",
-        "68df99a614ca2428b2017cd8",
-        "68df99b2f716906506098308",
-        "68df99975d4e135b130392ca",
-        "68f15dbab2b53abd200b9378",
-        "68f0f64f183146ea530330aa",
-        "68fb4157b280c103230e3b3c",
-        "68f0f662859ebec8d501b76a",
-        "68fb4143a854bc7ae80fad3e",
-        "68f15e53103c5d9d4f022c78",
-        "5b9b9020e7ef6f5716480215"
-    };
-
-    private readonly List<MongoId> _itemsToBlacklist = new()
-    {
-    "68f117b8121d878a2303eee0", // LP Gamma
-    "68f8e04eae031982b00e7aaf", // Battle Worn Gamma
-    "68d55968ca9935b3f10607a9", // LP Fanny
-    "689479cb47e5acd1e10be986", // BD Ferro Concepts FCPC
-    "68947a4be4bf255d1b0ca746", // BD First Spear Siege-R
-    "689479eb30cc5ba7be00f5ff", // BD Spiritus Systems LV-119
-    "689479a4a733b1602007e2eb", // BD Spiritus Systems LV-119 v1
-    "689b889473ebd6871805edd6", // BD L3Harris PVS-31A night vision goggles
-    "68d41f017cb8c03da8079004", // Armband (To Fall in the Darkness)
-    "68d41e65a706eba9a204ed27", // Armband (Survivor)
-    "68d41fb0a1c275dbaa0798bf", // Armband (Lighthouse)
-    "68d41fde2937f3f17c04864d", // Armband (For Humanity)
-    };
-    public void AddDogtagsToPmCs()
-    {
-        var bearDogtagSettings = pmcConfig.DogtagSettings["bear"];
-        var usecDogtagSettings = pmcConfig.DogtagSettings["usec"];
-        foreach (var newDogtag in _usecDogtags)
+        private PmcConfig pmcConfig = configServer.GetConfig<PmcConfig>();
+        private ItemConfig itemConfig = configServer.GetConfig<ItemConfig>();
+        public static readonly List<MongoId> _bearDogtags = new()
         {
-            foreach (var profileVersion in usecDogtagSettings)
+            "68df9908972cf1e1ec07256a",
+            "68df9927a38a5e37d80df6c9",
+            "68df991142e96f583d042b8a",
+            "68df991dbeba86572e097ceb",
+            "68f0f63c645c14a02104142a",
+            "68fb412b0760c7891606613e",
+            "68f15cf222c8979ee308f495",
+            "68f0f60a121d878a2303eedb",
+            "68fb41120760c7891606613c",
+            "68f15e26f1aa7e100a0ca208",
+            "68f153aa7da590b6df0515da"
+        };
+        public static readonly List<MongoId> _usecDogtags = new()
+        {
+            "68df99c05d4e135b130392cc",
+            "68df99a614ca2428b2017cd8",
+            "68df99b2f716906506098308",
+            "68df99975d4e135b130392ca",
+            "68f15dbab2b53abd200b9378",
+            "68f0f64f183146ea530330aa",
+            "68fb4157b280c103230e3b3c",
+            "68f0f662859ebec8d501b76a",
+            "68fb4143a854bc7ae80fad3e",
+            "68f15e53103c5d9d4f022c78",
+            "5b9b9020e7ef6f5716480215"
+        };
+
+        private readonly List<MongoId> _itemsToBlacklist = new()
+        {
+        "68f117b8121d878a2303eee0", // LP Gamma
+        "68f8e04eae031982b00e7aaf", // Battle Worn Gamma
+        "68d55968ca9935b3f10607a9", // LP Fanny
+        "689479cb47e5acd1e10be986", // BD Ferro Concepts FCPC
+        "68947a4be4bf255d1b0ca746", // BD First Spear Siege-R
+        "689479eb30cc5ba7be00f5ff", // BD Spiritus Systems LV-119
+        "689479a4a733b1602007e2eb", // BD Spiritus Systems LV-119 v1
+        "689b889473ebd6871805edd6", // BD L3Harris PVS-31A night vision goggles
+        "68d41f017cb8c03da8079004", // Armband (To Fall in the Darkness)
+        "68d41e65a706eba9a204ed27", // Armband (Survivor)
+        "68d41fb0a1c275dbaa0798bf", // Armband (Lighthouse)
+        "68d41fde2937f3f17c04864d", // Armband (For Humanity)
+        };
+
+        public void AddDogtagsToPmCs()
+        {
+            var bearDogtagSettings = pmcConfig.DogtagSettings["bear"];
+            var usecDogtagSettings = pmcConfig.DogtagSettings["usec"];
+            foreach (var newDogtag in _usecDogtags)
             {
-                profileVersion.Value[newDogtag] = 1;
+                foreach (var profileVersion in usecDogtagSettings)
+                {
+                    profileVersion.Value[newDogtag] = 1;
+                }
+            }
+            foreach (var newDogtag in _bearDogtags)
+            {
+                foreach (var profileVersion in bearDogtagSettings)
+                {
+                    profileVersion.Value[newDogtag] = 1;
+                }
             }
         }
-        foreach (var newDogtag in _bearDogtags)
+    
+        public void AddItemsToRewardItemBlacklist()
         {
-            foreach (var profileVersion in bearDogtagSettings)
+            foreach (var dogtag in _bearDogtags)
             {
-                profileVersion.Value[newDogtag] = 1;
+                itemConfig.Blacklist.Add(dogtag);
             }
-        }
-    }
-    
-    public void AddItemsToRewardItemBlacklist()
-    {
-        foreach (var dogtag in _bearDogtags)
-        {
-            itemConfig.Blacklist.Add(dogtag);
-        }
 
-        foreach (var dogtag in _usecDogtags)
-        {
-            itemConfig.Blacklist.Add(dogtag);
-        }
+            foreach (var dogtag in _usecDogtags)
+            {
+                itemConfig.Blacklist.Add(dogtag);
+            }
 
-        foreach (var itemToBlacklist in _itemsToBlacklist)
-        {
-            itemConfig.Blacklist.Add(itemToBlacklist);
         }
-    }
     
-}
+    }

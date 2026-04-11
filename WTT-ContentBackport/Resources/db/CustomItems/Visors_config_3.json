@@ -112,6 +112,7 @@
     "handbookPriceRoubles": 0,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
+    "addtoItemBlacklist": true,
     "staticLootContainers": [],
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
