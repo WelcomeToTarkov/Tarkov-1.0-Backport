@@ -13,11 +13,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="SPTarkov.Common" Version="4.0.3" />
-    <PackageReference Include="SPTarkov.DI" Version="4.0.3" />
-    <PackageReference Include="SPTarkov.Reflection" Version="4.0.3" />
-    <PackageReference Include="SPTarkov.Server.Core" Version="4.0.3" />
-    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.18" />
+    <PackageReference Include="SPTarkov.Common" Version="4.0.13" />
+    <PackageReference Include="SPTarkov.DI" Version="4.0.13" />
+    <PackageReference Include="SPTarkov.Reflection" Version="4.0.13" />
+    <PackageReference Include="SPTarkov.Server.Core" Version="4.0.13" />
+    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.20" />
   </ItemGroup>
 
   <ItemGroup>
