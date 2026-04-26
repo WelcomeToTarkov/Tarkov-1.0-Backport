@@ -6,18 +6,18 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <OutputType>Library</OutputType>
-    <Version>1.0.6</Version>
+    <Version>1.0.7</Version>
     <!-- The two lines below will set the output path for the binaries -->
     <OutputPath>bin\$(Configuration)\$(ProjectName)\$(AssemblyName)-$(Version)\</OutputPath>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="SPTarkov.Common" Version="4.0.3" />
-    <PackageReference Include="SPTarkov.DI" Version="4.0.3" />
-    <PackageReference Include="SPTarkov.Reflection" Version="4.0.3" />
-    <PackageReference Include="SPTarkov.Server.Core" Version="4.0.3" />
-    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.18" />
+    <PackageReference Include="SPTarkov.Common" Version="4.0.13" />
+    <PackageReference Include="SPTarkov.DI" Version="4.0.13" />
+    <PackageReference Include="SPTarkov.Reflection" Version="4.0.13" />
+    <PackageReference Include="SPTarkov.Server.Core" Version="4.0.13" />
+    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.20" />
   </ItemGroup>
 
   <ItemGroup>
