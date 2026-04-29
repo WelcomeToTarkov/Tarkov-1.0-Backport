@@ -97,7 +97,11 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_pistol_grip", "mod_pistol_grip_akms"],
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistol_grip_akms",
+      "mod_pistolgrip"
+    ],
     "fleaPriceRoubles": 19055,
     "handbookPriceRoubles": 8120,
     "addtoBots": false,
@@ -137,7 +141,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -239,7 +242,11 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_pistol_grip"],
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip",
+      "mod_pistolgrip_000"
+    ],
     "fleaPriceRoubles": 5732,
     "handbookPriceRoubles": 1327,
     "addtoBots": false,
@@ -380,7 +387,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_pistol_grip"],
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
     "fleaPriceRoubles": 22389,
     "handbookPriceRoubles": 1790,
     "addtoBots": false,
@@ -525,7 +534,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_pistol_grip"],
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
     "fleaPriceRoubles": 33688,
     "handbookPriceRoubles": 11120,
     "addtoBots": false,
@@ -569,7 +580,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -671,7 +681,11 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_pistol_grip"],
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip",
+      "mod_pistolgrip_000"
+    ],
     "fleaPriceRoubles": 24690,
     "handbookPriceRoubles": 7846,
     "addtoBots": false,
@@ -711,7 +725,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -813,7 +826,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_pistol_grip"],
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
     "fleaPriceRoubles": 22389,
     "handbookPriceRoubles": 1790,
     "addtoBots": false,
@@ -853,7 +868,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   }

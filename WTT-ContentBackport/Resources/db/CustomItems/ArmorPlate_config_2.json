@@ -117,10 +117,10 @@
     "addtoInventorySlots": [],
     "addtoModSlots": true,
     "modSlot": [
-      "Front_plate",
       "Back_plate",
-      "front_plate",
-      "back_plate"
+      "Front_plate",
+      "back_plate",
+      "front_plate"
     ],
     "fleaPriceRoubles": 5200,
     "handbookPriceRoubles": 4350,

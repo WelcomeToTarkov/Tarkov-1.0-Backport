@@ -130,9 +130,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": true,
     "modSlot": [
-      "mod_scope",
-      "mod_scope_000",
-      "mod_scope_001"
+      "mod_scope"
     ],
     "fleaPriceRoubles": 89554,
     "handbookPriceRoubles": 23845,
@@ -173,7 +171,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -308,9 +305,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": true,
     "modSlot": [
-      "mod_scope",
-      "mod_scope_000",
-      "mod_scope_001"
+      "mod_scope"
     ],
     "fleaPriceRoubles": 38287,
     "handbookPriceRoubles": 24842,
@@ -351,7 +346,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -486,9 +480,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": true,
     "modSlot": [
-      "mod_scope",
-      "mod_scope_000",
-      "mod_scope_001"
+      "mod_scope"
     ],
     "fleaPriceRoubles": 47637,
     "handbookPriceRoubles": 24842,
@@ -529,7 +521,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   }

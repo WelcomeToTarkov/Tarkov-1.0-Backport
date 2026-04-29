@@ -148,7 +148,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -285,7 +284,8 @@
     "addtoModSlots": true,
     "modSlot": [
       "mod_stock",
-      "mod_stock_000"
+      "mod_stock_000",
+      "mod_stock_001"
     ],
     "fleaPriceRoubles": 12024,
     "handbookPriceRoubles": 2147,
@@ -305,7 +305,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -455,7 +454,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -568,8 +566,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": true,
     "modSlot": [
-      "mod_stock",
-      "mod_stock_000"
+      "mod_stock"
     ],
     "fleaPriceRoubles": 13928,
     "handbookPriceRoubles": 11200,
@@ -589,7 +586,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -717,7 +713,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -895,7 +890,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -1033,7 +1027,8 @@
     "addtoInventorySlots": [],
     "addtoModSlots": true,
     "modSlot": [
-      "mod_stock"
+      "mod_stock",
+      "mod_stock_001"
     ],
     "fleaPriceRoubles": 25674,
     "handbookPriceRoubles": 1085,
@@ -1053,7 +1048,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -1187,7 +1181,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -1339,7 +1332,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -1451,7 +1443,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_stock_000"],
+    "modSlot": [
+      "mod_stock"
+    ],
     "fleaPriceRoubles": 13152,
     "handbookPriceRoubles": 9980,
     "addtoBots": false,
@@ -1470,7 +1464,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -1579,7 +1572,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": ["mod_stock  "],
+    "modSlot": [
+      "mod_stock  "
+    ],
     "fleaPriceRoubles": 8787,
     "handbookPriceRoubles": 5980,
     "addtoBots": false,
@@ -1598,7 +1593,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -1753,7 +1747,11 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_stock"],
+    "modSlot": [
+      "mod_stock",
+      "mod_stock_000",
+      "mod_stock_001"
+    ],
     "fleaPriceRoubles": 6296,
     "handbookPriceRoubles": 3800,
     "addtoBots": false,
@@ -1772,7 +1770,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -1927,7 +1924,11 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_stock"],
+    "modSlot": [
+      "mod_stock",
+      "mod_stock_000",
+      "mod_stock_001"
+    ],
     "fleaPriceRoubles": 11296,
     "handbookPriceRoubles": 3800,
     "addtoBots": false,
@@ -1946,7 +1947,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -2055,7 +2055,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": ["mod_stock"],
+    "modSlot": [
+      "mod_stock"
+    ],
     "fleaPriceRoubles": 10187,
     "handbookPriceRoubles": 7480,
     "addtoBots": false,
@@ -2074,7 +2076,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -2183,7 +2184,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_stock"],
+    "modSlot": [
+      "mod_stock"
+    ],
     "fleaPriceRoubles": 18000,
     "handbookPriceRoubles": 8967,
     "addtoBots": false,
@@ -2202,7 +2205,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -2336,7 +2338,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -2473,7 +2474,10 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_stock"],
+    "modSlot": [
+      "mod_stock",
+      "mod_stock_000"
+    ],
     "fleaPriceRoubles": 15644,
     "handbookPriceRoubles": 1093,
     "addtoBots": false,
@@ -2492,7 +2496,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -2654,7 +2657,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_stock"],
+    "modSlot": [
+      "mod_stock"
+    ],
     "fleaPriceRoubles": 55555,
     "handbookPriceRoubles": 4750,
     "addtoBots": false,
@@ -2673,7 +2678,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -2782,7 +2786,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": ["mod_stock"],
+    "modSlot": [
+      "mod_stock"
+    ],
     "fleaPriceRoubles": 7980,
     "handbookPriceRoubles": 4386,
     "addtoBots": false,
@@ -2801,7 +2807,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -2910,7 +2915,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": ["mod_stock"],
+    "modSlot": [
+      "mod_stock"
+    ],
     "fleaPriceRoubles": 16702,
     "handbookPriceRoubles": 9450,
     "addtoBots": false,
@@ -2929,7 +2936,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -3038,7 +3044,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": ["mod_stock"],
+    "modSlot": [
+      "mod_stock"
+    ],
     "fleaPriceRoubles": 16334,
     "handbookPriceRoubles": 9450,
     "addtoBots": false,
@@ -3057,7 +3065,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -3263,7 +3270,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_stock"],
+    "modSlot": [
+      "mod_stock"
+    ],
     "fleaPriceRoubles": 24896,
     "handbookPriceRoubles": 12324,
     "addtoBots": false,
@@ -3282,7 +3291,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -3391,7 +3399,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": ["mod_stock"],
+    "modSlot": [
+      "mod_stock"
+    ],
     "fleaPriceRoubles": 26999,
     "handbookPriceRoubles": 5273,
     "addtoBots": false,
@@ -3410,7 +3420,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -3519,7 +3528,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": false,
-    "modSlot": ["mod_stock"],
+    "modSlot": [
+      "mod_stock"
+    ],
     "fleaPriceRoubles": 19105,
     "handbookPriceRoubles": 9450,
     "addtoBots": false,
@@ -3538,7 +3549,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   }
