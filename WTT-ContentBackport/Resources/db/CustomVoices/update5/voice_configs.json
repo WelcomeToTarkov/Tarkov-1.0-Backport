@@ -1,0 +1,10 @@
+{
+  "69c68f1a8f75eda7610edac4": {
+    "locales": {
+      "en": "Wedge"
+    },
+    "name": "Boss_Wedge",
+    "addVoiceToPlayer": true,
+    "bundlePath": "assets/content/audio/phrases/boss_wedge_voice.bundle"
+  }
+}

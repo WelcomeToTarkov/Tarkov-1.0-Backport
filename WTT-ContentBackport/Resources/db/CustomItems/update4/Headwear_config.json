@@ -1,0 +1,3879 @@
+{
+  "69ceab1a8562e71bbe063511": {
+    "itemTplToClone": "61c18db6dfd64163ea78fbb4",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [
+        "5bd06f5d86f77427101ad47c",
+        "5bd0716d86f774171822ef4b",
+        "5bd071d786f7747e707b93a3",
+        "5b4325355acfc40019478126",
+        "69412e1d0045b2176002e4eb",
+        "6176a40f0b8c0312ac75a3d3",
+        "635267ab3c89e2112001f826",
+        "6176a48d732a664031271438",
+        "62a5c2c98ec41a51b34739c0",
+        "62a5c333ec21e50cad3b5dc6",
+        "62a5c41e8ec41a51b34739c3",
+        "62a09e08de7ac81993580532"
+      ],
+      "Description": "item_equipment_head_inverted_cap_boston_bp03",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 5,
+      "MergesWithChildren": false,
+      "Name": "item_equipment_head_inverted_cap_boston_bp03",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/head_inverted_cap/item_equipment_head_inverted_cap_boston_bp03.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "item_equipment_head_inverted_cap_boston_bp03",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.1,
+      "Width": 1,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "UHMWPE",
+      "ArmorType": "None",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0,
+      "DeafStrength": "None",
+      "Durability": 100,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "BodyArmor",
+      "MaxDurability": 100,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 80
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Baseball cap (Boston)",
+        "shortName": "Boston",
+        "description": "A denim cap perfect for those who want to show some style. Must only be worn with the brim facing backward - rules of the Arena."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 1330,
+    "handbookPriceRoubles": 1021,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "69ceab3a8562e71bbe063514": {
+    "itemTplToClone": "61c18db6dfd64163ea78fbb4",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [
+        "5bd071d786f7747e707b93a3",
+        "5bd0716d86f774171822ef4b",
+        "5bd06f5d86f77427101ad47c",
+        "69412e1d0045b2176002e4eb",
+        "6176a48d732a664031271438",
+        "62a09e08de7ac81993580532",
+        "635267ab3c89e2112001f826",
+        "6176a40f0b8c0312ac75a3d3",
+        "62a5c2c98ec41a51b34739c0",
+        "62a5c333ec21e50cad3b5dc6",
+        "62a5c41e8ec41a51b34739c3",
+        "5b4325355acfc40019478126"
+      ],
+      "Description": "item_equipment_head_inverted_cap_multicam_black_bp03",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 5,
+      "MergesWithChildren": false,
+      "Name": "item_equipment_head_inverted_cap_multicam_black_bp03",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/head_inverted_cap/item_equipment_head_inverted_cap_multicam_black_bp03.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "item_equipment_head_inverted_cap_multicam_black_bp03",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.1,
+      "Width": 1,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "UHMWPE",
+      "ArmorType": "None",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0,
+      "DeafStrength": "None",
+      "Durability": 100,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "BodyArmor",
+      "MaxDurability": 100,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 80
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Baseball cap (MultiCam Black)",
+        "shortName": "Cap",
+        "description": "A baseball cap in a MultiCam Black camouflage, worn only with the brim facing backward. Ignore and Override."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 13450,
+    "handbookPriceRoubles": 1021,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "69cbfe34c293038df7002963": {
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_equipment_helmet_crye_airframe_olivedrab",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": true,
+      "Name": "item_equipment_helmet_crye_airframe_olivedrab",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_crye_airframe/item_equipment_helmet_crye_airframe_olivedrab.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Superrare",
+      "RepairCost": 626,
+      "RepairSpeed": 10,
+      "ShortName": "item_equipment_helmet_crye_airframe_olivedrab",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.88,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_equipment_000",
+          "_id": "69cbfe34c293038df7002964",
+          "_parent": "69cbfe34c293038df7002963",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_nvg",
+          "_id": "69cbfe34c293038df7002965",
+          "_parent": "69cbfe34c293038df7002963",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca",
+                  "689b8883b49f27df1c0873f8",
+                  "689dbded6c7e684817080c29"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "69cbfe34c293038df7002966",
+          "_parent": "69cbfe34c293038df7002963",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_001",
+          "_id": "69cbfe34c293038df7002967",
+          "_parent": "69cbfe34c293038df7002963",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c178a942e22164bef5ceca3",
+                  "5c1793902e221602b21d3de2",
+                  "69caa20ff3190e7dfe0c197f",
+                  "69cbd3188eeaa243ed09710e",
+                  "69cbd33bc293038df7002951",
+                  "69cbd35600ebef208805cc04",
+                  "69caa229512d14715e0fccdf",
+                  "69cbd32a05c5beb41b0781b3",
+                  "69cbd346d0e5ec2c8a0429c2",
+                  "69cbd36d8eeaa243ed097112"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "69cbfe34c293038df7002968",
+          "_parent": "69cbfe34c293038df7002963",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "657f9897f4c82973640b235e",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "69cbfe34c293038df7002969",
+          "_parent": "69cbfe34c293038df7002963",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f98fbada5fadd1f07a585"
+                ],
+                "Plate": "657f98fbada5fadd1f07a585",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "Combined",
+      "ArmorType": "Light",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0.1314,
+      "DeafStrength": "None",
+      "Durability": 0,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "Helmet",
+      "MaxDurability": 0,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0.9,
+        "y": 0.5,
+        "z": 75
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -2
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AirFrame helmet (OD Green)",
+        "shortName": "AirFrame",
+        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Highly modular. Manufactured by Crye Precision. OD Green version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 4630,
+    "handbookPriceRoubles": 4373,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addweaponpreset": true,
+    "weaponpresets": [
+      {
+        "_id": "69cfd277ce0df53f230f2976",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Helmet Crye Precision AirFrame OD Green Standart",
+        "_parent": "69cfd277ce0df53f230f297a",
+        "_items": [
+          {
+            "_id": "69cfd277ce0df53f230f297a",
+            "_tpl": "69cbfe34c293038df7002963"
+          },
+          {
+            "_id": "69cfd277ce0df53f230f297b",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "69cfd277ce0df53f230f297a",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "69cfd277ce0df53f230f297c",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "69cfd277ce0df53f230f297a",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "69cbfe34c293038df7002963"
+      }
+    ]
+  },
+  "69ce70df606696c00301a760": {
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_equipment_helmet_atlant_armor_titan_multicam_bp03",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": true,
+      "Name": "item_equipment_helmet_atlant_armor_titan_multicam_bp03",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_atlant_armor_titan/item_equipment_helmet_atlant_armor_titan_multicam_bp03.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 626,
+      "RepairSpeed": 10,
+      "ShortName": "item_equipment_helmet_atlant_armor_titan_multicam_bp03",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 1.58,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "69ce70df606696c00301a761",
+          "_parent": "69ce70df606696c00301a760",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca",
+                  "689b8883b49f27df1c0873f8",
+                  "689dbded6c7e684817080c29"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "69ce70df606696c00301a762",
+          "_parent": "69ce70df606696c00301a760",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "69ce70df606696c00301a763",
+          "_parent": "69ce70df606696c00301a760",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "657f9897f4c82973640b235e",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "69ce70df606696c00301a764",
+          "_parent": "69ce70df606696c00301a760",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f98fbada5fadd1f07a585"
+                ],
+                "Plate": "657f98fbada5fadd1f07a585",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "mod_equipment_001",
+          "_id": "69de0201e38aadc7eba5e953",
+          "_parent": "69ce70df606696c00301a760",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c178a942e22164bef5ceca3",
+                  "69caa20ff3190e7dfe0c197f",
+                  "69cbd3188eeaa243ed09710e",
+                  "69cbd33bc293038df7002951",
+                  "69cbd35600ebef208805cc04",
+                  "5c1793902e221602b21d3de2",
+                  "69caa229512d14715e0fccdf",
+                  "69cbd32a05c5beb41b0781b3",
+                  "69cbd346d0e5ec2c8a0429c2",
+                  "69cbd36d8eeaa243ed097112"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "Combined",
+      "ArmorType": "Light",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0.1314,
+      "DeafStrength": "None",
+      "Durability": 0,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "Helmet",
+      "MaxDurability": 0,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0.9,
+        "y": 0.5,
+        "z": 75
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -2
+    },
+    "locales": {
+      "en": {
+        "name": "Atlant Armour Titan Aramid helmet (MultiCam)",
+        "shortName": "Titan Aramid",
+        "description": "The Titan Aramid ballistic helmet in the form factor copying the Crye Precision AirFrame helmet. Made entirely of aramid, providing an optimal balance between protection and mobility. Equipped with accessory rails and a mount for additional devices. Manufactured by Atlant Armour. MultiCam version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 4760,
+    "handbookPriceRoubles": 4373,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addweaponpreset": true,
+    "weaponpresets": [
+      {
+        "_id": "69d14174bd18f31c000587a0",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Helmet Atlant Armour Titan Aramid Multicam Standard",
+        "_parent": "69d14174bd18f31c000587a4",
+        "_items": [
+          {
+            "_id": "69d14174bd18f31c000587a4",
+            "_tpl": "69ce70df606696c00301a760"
+          },
+          {
+            "_id": "69d14174bd18f31c000587a5",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "69d14174bd18f31c000587a4",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "69d14174bd18f31c000587a6",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "69d14174bd18f31c000587a4",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "69ce70df606696c00301a760"
+      }
+    ]
+  },
+  "69ce70a321c1fc42cd01affa": {
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_equipment_helmet_atlant_armor_titan_od_bp03",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": true,
+      "Name": "item_equipment_helmet_atlant_armor_titan_od_bp03",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_atlant_armor_titan/item_equipment_helmet_atlant_armor_titan_od_bp03.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 626,
+      "RepairSpeed": 10,
+      "ShortName": "item_equipment_helmet_atlant_armor_titan_od_bp03",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 1.58,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "69ce70a321c1fc42cd01affc",
+          "_parent": "69ce70a321c1fc42cd01affa",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca",
+                  "689b8883b49f27df1c0873f8",
+                  "689dbded6c7e684817080c29"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "69ce70a321c1fc42cd01affd",
+          "_parent": "69ce70a321c1fc42cd01affa",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "69ce70a321c1fc42cd01afff",
+          "_parent": "69ce70a321c1fc42cd01affa",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "657f9897f4c82973640b235e",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "69ce70a321c1fc42cd01b000",
+          "_parent": "69ce70a321c1fc42cd01affa",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f98fbada5fadd1f07a585"
+                ],
+                "Plate": "657f98fbada5fadd1f07a585",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "mod_equipment_001",
+          "_id": "69de0248dd7bbf5e6aa7fe34",
+          "_parent": "69ce70a321c1fc42cd01affa",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c178a942e22164bef5ceca3",
+                  "69caa20ff3190e7dfe0c197f",
+                  "69cbd3188eeaa243ed09710e",
+                  "69cbd33bc293038df7002951",
+                  "69cbd35600ebef208805cc04",
+                  "5c1793902e221602b21d3de2",
+                  "69caa229512d14715e0fccdf",
+                  "69cbd32a05c5beb41b0781b3",
+                  "69cbd346d0e5ec2c8a0429c2",
+                  "69cbd36d8eeaa243ed097112"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "Combined",
+      "ArmorType": "Light",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0.1314,
+      "DeafStrength": "None",
+      "Durability": 0,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "Helmet",
+      "MaxDurability": 0,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0.9,
+        "y": 0.5,
+        "z": 75
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -2
+    },
+    "locales": {
+      "en": {
+        "name": "Atlant Armour Titan Aramid helmet (OD Green)",
+        "shortName": "Titan Aramid",
+        "description": "The Titan Aramid ballistic helmet in the form factor copying the Crye Precision AirFrame helmet. Made entirely of aramid, providing an optimal balance between protection and mobility. Equipped with accessory rails and a mount for additional devices. Manufactured by Atlant Armour. OD Green version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 5430,
+    "handbookPriceRoubles": 4373,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addweaponpreset": true,
+    "weaponpresets": [
+      {
+        "_id": "69d13ff6780dfc470f04725c",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Helmet Atlant Armour Titan Aramid OD Green Standard",
+        "_parent": "69d13ff6780dfc470f047260",
+        "_items": [
+          {
+            "_id": "69d13ff6780dfc470f047260",
+            "_tpl": "69ce70a321c1fc42cd01affa"
+          },
+          {
+            "_id": "69d13ff6780dfc470f047261",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "69d13ff6780dfc470f047260",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "69d13ff6780dfc470f047262",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "69d13ff6780dfc470f047260",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "69ce70a321c1fc42cd01affa"
+      }
+    ]
+  },
+  "69c26722bf4ff19f50057643": {
+    "itemTplToClone": "5e00c1ad86f774747333222c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_equipment_helmet_team_wendy_exfil_multicam_bp03",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": true,
+      "Name": "item_equipment_helmet_team_wendy_exfil_multicam_bp03",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/item_equipment_helmet_team_wendy_exfil_gen2_multicam_bp03/item_equipment_helmet_team_wendy_exfil_multicam_bp03.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 668,
+      "RepairSpeed": 10,
+      "ShortName": "item_equipment_helmet_team_wendy_exfil_multicam_bp03",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 1.18,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_equipment_000",
+          "_id": "69c26722bf4ff19f50057644",
+          "_parent": "69c26722bf4ff19f50057643",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5e00cfa786f77469dc6e5685",
+                  "5e01f31d86f77465cf261343",
+                  "66b5f69ea7f72d197e70bcdb",
+                  "66b5f6a28ca68c6461709ed8",
+                  "69c26593ea474c30ad069f8f",
+                  "69c264c00f660b3f0d058fcf"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_nvg",
+          "_id": "69c26722bf4ff19f50057645",
+          "_parent": "69c26722bf4ff19f50057643",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca",
+                  "689dbded6c7e684817080c29",
+                  "689b8883b49f27df1c0873f8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_001",
+          "_id": "69c26722bf4ff19f50057646",
+          "_parent": "69c26722bf4ff19f50057643",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5e00cdd986f7747473332240",
+                  "5e01f37686f774773c6f6c15"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "helmet_top",
+          "_id": "69c26722bf4ff19f50057647",
+          "_parent": "69c26722bf4ff19f50057643",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6551fec55d0cf82e51014288"
+                ],
+                "Plate": "6551fec55d0cf82e51014288",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "helmet_back",
+          "_id": "69c26722bf4ff19f50057648",
+          "_parent": "69c26722bf4ff19f50057643",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "655200ba0ef76cf7be09d528"
+                ],
+                "Plate": "655200ba0ef76cf7be09d528",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "Combined",
+      "ArmorType": "Heavy",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0.1548,
+      "DeafStrength": "None",
+      "Durability": 0,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "BodyArmor",
+      "MaxDurability": 0,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 80
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": -1,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -1
+    },
+    "locales": {
+      "en": {
+        "name": "Team Wendy EXFIL Ballistic Helmet (MultiCam)",
+        "shortName": "EXFIL",
+        "description": "One of the most recent tactical ballistic helmets with extensive customization capabilities. The EXFIL LTP (Lightweight, Tactical, Polymer) bump helmet provides impact protection for maritime environments and a stable, comfortable platform for mounting night vision and other accessories. The built-in NVG shroud utilizes an integrated Wilcox machined aluminum shroud insert. MultiCam version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 6560,
+    "handbookPriceRoubles": 5068,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addweaponpreset": true,
+    "weaponpresets": [
+      {
+        "_id": "69c26c42ddd9f9858800897a",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Helmet EXFIL Multicam Standard",
+        "_parent": "69c26c42ddd9f9858800897e",
+        "_items": [
+          {
+            "_id": "69c26c42ddd9f9858800897e",
+            "_tpl": "69c26722bf4ff19f50057643"
+          },
+          {
+            "_id": "69c26c42ddd9f9858800897f",
+            "_tpl": "6551fec55d0cf82e51014288",
+            "parentId": "69c26c42ddd9f9858800897e",
+            "slotId": "helmet_top"
+          },
+          {
+            "_id": "69c26c42ddd9f98588008980",
+            "_tpl": "655200ba0ef76cf7be09d528",
+            "parentId": "69c26c42ddd9f9858800897e",
+            "slotId": "helmet_back"
+          }
+        ],
+        "_encyclopedia": "69c26722bf4ff19f50057643"
+      }
+    ]
+  },
+  "69ce8fa8579d5d18300a1fd3": {
+    "itemTplToClone": "61c18db6dfd64163ea78fbb4",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_equipment_head_zaebtsa_cap_flecktarn_bp03",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 5,
+      "MergesWithChildren": false,
+      "Name": "item_equipment_head_zaebtsa_cap_flecktarn_bp03",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/head_zaebtsa_cap/item_equipment_head_zaebtsa_cap_flecktarn_bp03.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "item_equipment_head_zaebtsa_cap_flecktarn_bp03",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.1,
+      "Width": 1,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "UHMWPE",
+      "ArmorType": "None",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0,
+      "DeafStrength": "None",
+      "Durability": 100,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "BodyArmor",
+      "MaxDurability": 100,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 80
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Baseball cap (Zaebtsa Flecktarn)",
+        "shortName": "Zaebtsa",
+        "description": "A baseball cap in a Flecktarn camouflage. For those who always wanna look \"supreme\"."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 4430,
+    "handbookPriceRoubles": 3750,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "69ce70ff49b447e32200cc1c": {
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [
+        "69cfe083ce0df53f230f29b0",
+        "69cfe095b96c8e8d3e002aa3",
+        "68bee21213febe37b20e7e11",
+        "68bee20bede5c8489f08e1b1",
+        "68bee1066b0736bebc012adb",
+        "68bee0fac89ccaee060c81d4",
+        "68bee0ee79c8186398098e6b",
+        "6570aead4d84f81fd002a033",
+        "68a9b821cdf661cc5a0626c6",
+        "68a9b852cdf661cc5a0626c9",
+        "68bee22e79c8186398098e6d",
+        "68bee238a48c3c320808abc4",
+        "68bee23f6b0736bebc012add",
+        "68bee246ede5c8489f08e1b3",
+        "60363c0c92ec1c31037959f5",
+        "5e54f79686f7744022011103",
+        "6176a40f0b8c0312ac75a3d3",
+        "6176a48d732a664031271438",
+        "5b432c305acfc40019478128",
+        "59e7715586f7742ee5789605",
+        "62a09dd4621468534a797ac7",
+        "5c1a1e3f2e221602b66cc4c2",
+        "5645bcc04bdc2d363b8b4572",
+        "5aa2ba71e5b5b000137b758f",
+        "5a16b9fffcdbcb0176308b34",
+        "66b5f69ea7f72d197e70bcdb",
+        "66b5f6a28ca68c6461709ed8",
+        "69c1632ca078dbb51e0e31b5",
+        "69c264c00f660b3f0d058fcf",
+        "69c163b17c7040819b086502",
+        "69c26593ea474c30ad069f8f",
+        "628e4e576d783146b124c64d",
+        "66b5f693acff495a294927e3",
+        "66b5f6985891c84aab75ca76",
+        "5b432b965acfc47a8774094e",
+        "66b5f68de98be930d701c00e",
+        "69c14efe66c213ea750e1960",
+        "69c14fa8b33aad3beb036878",
+        "69c139c022093da1c50a8808",
+        "6033fa48ffd42c541047f728",
+        "693bb59250fafa102607aeb7",
+        "5c165d832e2216398b5a7e36",
+        "5e4d34ca86f774264f758330",
+        "69d3c156cdeff2f448010e2e",
+        "5f60cd6cf2bcbb675b00dac6"
+      ],
+      "Description": "item_equipment_helmet_atlant_armor_titan_champion_bp03",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": true,
+      "Name": "item_equipment_helmet_atlant_armor_titan_champion_bp03",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_atlant_armor_titan_champion_bp03/item_equipment_helmet_atlant_armor_titan_champion_bp03.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 626,
+      "RepairSpeed": 10,
+      "ShortName": "item_equipment_helmet_atlant_armor_titan_champion_bp03",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 3.42,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "69ce70ff49b447e32200cc1d",
+          "_parent": "69ce70ff49b447e32200cc1c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca",
+                  "689b8883b49f27df1c0873f8",
+                  "689dbded6c7e684817080c29"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "69ce70ff49b447e32200cc1e",
+          "_parent": "69ce70ff49b447e32200cc1c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "69ce70ff49b447e32200cc1f",
+          "_parent": "69ce70ff49b447e32200cc1c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "657f9897f4c82973640b235e",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "69ce70ff49b447e32200cc20",
+          "_parent": "69ce70ff49b447e32200cc1c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f98fbada5fadd1f07a585"
+                ],
+                "Plate": "657f98fbada5fadd1f07a585",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_jaw",
+          "_id": "69d142e6a2ecf5719dc1bcb1",
+          "_parent": "69ce70ff49b447e32200cc1c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69d1444ab3bbe10c0d049562"
+                ],
+                "Plate": "69d1444ab3bbe10c0d049562",
+                "armorColliders": [
+                  "Jaw",
+                  "HeadCommon"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_ears",
+          "_id": "69d14388312d310808ca8541",
+          "_parent": "69ce70ff49b447e32200cc1c",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "69d144d70d4abb31620b1a91"
+                ],
+                "Plate": "69d144d70d4abb31620b1a91",
+                "armorColliders": [
+                  "Ears"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": true,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "Combined",
+      "ArmorType": "Light",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0.1314,
+      "DeafStrength": "None",
+      "Durability": 0,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "Helmet",
+      "MaxDurability": 0,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0.9,
+        "y": 0.5,
+        "z": 75
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": -1,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -3
+    },
+    "locales": {
+      "en": {
+        "name": "Atlant Armour Titan Aramid helmet (Rudiarius)",
+        "shortName": "Titan Aramid",
+        "description": "The Titan Aramid ballistic helmet in the form factor copied from the Crye Precision AirFrame helmet. Manufactured by Atlant Armour. The decorations and additional protection were firmly attached by Champion JP, a well-known enthusiast of aggressive close-quarters combat."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 4960,
+    "handbookPriceRoubles": 4373,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addweaponpreset": true,
+    "weaponpresets": [
+      {
+        "_id": "69d4391897cfdb944d05727a",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Helmet Atlant Armour Titan Aramid Champion Standard",
+        "_parent": "69d4391897cfdb944d057280",
+        "_items": [
+          {
+            "_id": "69d4391897cfdb944d057280",
+            "_tpl": "69ce70ff49b447e32200cc1c"
+          },
+          {
+            "_id": "69d4391897cfdb944d057281",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "69d4391897cfdb944d057280",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "69d4391897cfdb944d057282",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "69d4391897cfdb944d057280",
+            "slotId": "Helmet_back"
+          },
+          {
+            "_id": "69d4391897cfdb944d057283",
+            "_tpl": "69d1444ab3bbe10c0d049562",
+            "parentId": "69d4391897cfdb944d057280",
+            "slotId": "Helmet_jaw"
+          },
+          {
+            "_id": "69d4391897cfdb944d057284",
+            "_tpl": "69d144d70d4abb31620b1a91",
+            "parentId": "69d4391897cfdb944d057280",
+            "slotId": "Helmet_ears"
+          }
+        ],
+        "_encyclopedia": "69ce70ff49b447e32200cc1c"
+      }
+    ]
+  },
+  "69ce47ca49b447e32200cbe9": {
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_equipment_helmet_crye_airframe_mlok_coyote_sof_bp03",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": true,
+      "Name": "item_equipment_helmet_crye_airframe_mlok_coyote_sof_bp03",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_crye_airframe_mlok/item_equipment_helmet_crye_airframe_mlok_coyote_sof_bp03.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 626,
+      "RepairSpeed": 10,
+      "ShortName": "item_equipment_helmet_crye_airframe_mlok_coyote_sof_bp03",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.88,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "69ce47ca49b447e32200cbea",
+          "_parent": "69ce47ca49b447e32200cbe9",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca",
+                  "689b8883b49f27df1c0873f8",
+                  "689dbded6c7e684817080c29"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "69ce47ca49b447e32200cbeb",
+          "_parent": "69ce47ca49b447e32200cbe9",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_001",
+          "_id": "69ce47ca49b447e32200cbec",
+          "_parent": "69ce47ca49b447e32200cbe9",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c178a942e22164bef5ceca3",
+                  "5c1793902e221602b21d3de2",
+                  "69caa20ff3190e7dfe0c197f",
+                  "69cbd3188eeaa243ed09710e",
+                  "69cbd33bc293038df7002951",
+                  "69cbd35600ebef208805cc04",
+                  "69caa229512d14715e0fccdf",
+                  "69cbd32a05c5beb41b0781b3",
+                  "69cbd346d0e5ec2c8a0429c2",
+                  "69cbd36d8eeaa243ed097112"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "69ce47ca49b447e32200cbed",
+          "_parent": "69ce47ca49b447e32200cbe9",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "657f9897f4c82973640b235e",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "69ce47ca49b447e32200cbee",
+          "_parent": "69ce47ca49b447e32200cbe9",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f98fbada5fadd1f07a585"
+                ],
+                "Plate": "657f98fbada5fadd1f07a585",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "Combined",
+      "ArmorType": "Light",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0.1314,
+      "DeafStrength": "None",
+      "Durability": 0,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "Helmet",
+      "MaxDurability": 0,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0.9,
+        "y": 0.5,
+        "z": 75
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -2
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AirFrame M-LOK helmet (Bull)",
+        "shortName": "AirFrame M-LOK",
+        "description": "A Crye Precision AirFrame ballistic helmet fitted with M-LOK accessory rails. This configuration is most commonly seen among fans of JP, one of the Arena Champions. Rumor has it that this is the exact type of helmet he once tossed into the air and shot with his final round when he first became champion."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 4780,
+    "handbookPriceRoubles": 4373,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addweaponpreset": true,
+    "weaponpresets": [
+      {
+        "_id": "69ceac15e328235217073727",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Helmet Crye Precision AirFrame M-LOK Coyote SOF Standart",
+        "_parent": "69d4306dfbed7b921804a351",
+        "_items": [
+          {
+            "_id": "69d4306dfbed7b921804a351",
+            "_tpl": "69ce47ca49b447e32200cbe9"
+          },
+          {
+            "_id": "69d4306dfbed7b921804a352",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "69d4306dfbed7b921804a351",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "69d4306dfbed7b921804a353",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "69d4306dfbed7b921804a351",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "69ce47ca49b447e32200cbe9"
+      }
+    ]
+  },
+  "69ce47f01bb66daf5b0d62fd": {
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_equipment_helmet_crye_airframe_oldschool_bp03",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": true,
+      "Name": "item_equipment_helmet_crye_airframe_oldschool_bp03",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_crye_airframe/item_equipment_helmet_crye_airframe_oldschool_bp03.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 626,
+      "RepairSpeed": 10,
+      "ShortName": "item_equipment_helmet_crye_airframe_oldschool_bp03",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.88,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "69ce47f01bb66daf5b0d62fe",
+          "_parent": "69ce47f01bb66daf5b0d62fd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca",
+                  "689b8883b49f27df1c0873f8",
+                  "689dbded6c7e684817080c29",
+                  "69ce4e3430056e9ce1007c78"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_001",
+          "_id": "69ce47f01bb66daf5b0d6300",
+          "_parent": "69ce47f01bb66daf5b0d62fd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c178a942e22164bef5ceca3",
+                  "5c1793902e221602b21d3de2",
+                  "69caa20ff3190e7dfe0c197f",
+                  "69cbd3188eeaa243ed09710e",
+                  "69cbd33bc293038df7002951",
+                  "69cbd35600ebef208805cc04",
+                  "69caa229512d14715e0fccdf",
+                  "69cbd32a05c5beb41b0781b3",
+                  "69cbd346d0e5ec2c8a0429c2",
+                  "69cbd36d8eeaa243ed097112"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "69ce47f01bb66daf5b0d6301",
+          "_parent": "69ce47f01bb66daf5b0d62fd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "657f9897f4c82973640b235e",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "69ce47f01bb66daf5b0d6302",
+          "_parent": "69ce47f01bb66daf5b0d62fd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f98fbada5fadd1f07a585"
+                ],
+                "Plate": "657f98fbada5fadd1f07a585",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "Combined",
+      "ArmorType": "Light",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0.1314,
+      "DeafStrength": "None",
+      "Durability": 0,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "Helmet",
+      "MaxDurability": 0,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0.9,
+        "y": 0.5,
+        "z": 75
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -2
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AirFrame helmet (Old School)",
+        "shortName": "AirFrame",
+        "description": "A Crye Precision AirFrame ballistic helmet without accessory rails. When JP was brought into the cleanup crew on Tagilla’s recommendation, this became his first trophy, taken from one of the Arena fighters."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 4900,
+    "handbookPriceRoubles": 4373,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addweaponpreset": true,
+    "weaponpresets": [
+      {
+        "_id": "69ceaef3b32e945ef408a609",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Helmet Crye Precision AirFrame Oldschool Standart",
+        "_parent": "69d430502eedcb1afe067a58",
+        "_items": [
+          {
+            "_id": "69d430502eedcb1afe067a58",
+            "_tpl": "69ce47f01bb66daf5b0d62fd"
+          },
+          {
+            "_id": "69d430502eedcb1afe067a59",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "69d430502eedcb1afe067a58",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "69d430502eedcb1afe067a5a",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "69d430502eedcb1afe067a58",
+            "slotId": "Helmet_back"
+          },
+          {
+            "_id": "69d430502eedcb1afe067a5b",
+            "_tpl": "69ce4e3430056e9ce1007c78",
+            "parentId": "69d430502eedcb1afe067a58",
+            "slotId": "mod_nvg"
+          }
+        ],
+        "_encyclopedia": "69ce47f01bb66daf5b0d62fd"
+      }
+    ]
+  },
+  "69ce8ea6c5fbc777150faf69": {
+    "itemTplToClone": "61c18db6dfd64163ea78fbb4",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_equipment_head_zaebtsa_cap_berezka_white_bp03",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 5,
+      "MergesWithChildren": false,
+      "Name": "item_equipment_head_zaebtsa_cap_berezka_white_bp03",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/head_zaebtsa_cap/item_equipment_head_zaebtsa_cap_berezka_white_bp03.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "item_equipment_head_zaebtsa_cap_berezka_white_bp03",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.1,
+      "Width": 1,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "UHMWPE",
+      "ArmorType": "None",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0,
+      "DeafStrength": "None",
+      "Durability": 100,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "BodyArmor",
+      "MaxDurability": 100,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0,
+        "y": 0,
+        "z": 80
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Baseball cap (Zaebtsa Berezka)",
+        "shortName": "Zaebtsa",
+        "description": "A baseball cap in a KLMK Winter camouflage. For those who always wanna look \"supreme\"."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 4540,
+    "handbookPriceRoubles": 3750,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "69cbfe1f6dbaa9badb0c6b13": {
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_equipment_helmet_crye_airframe_mesh_green_bp03",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": true,
+      "Name": "item_equipment_helmet_crye_airframe_mesh_green_bp03",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_crye_airframe/item_equipment_helmet_crye_airframe_mesh_green_bp03.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 626,
+      "RepairSpeed": 10,
+      "ShortName": "item_equipment_helmet_crye_airframe_mesh_green_bp03",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.88,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_equipment_000",
+          "_id": "69cbfe1f6dbaa9badb0c6b14",
+          "_parent": "69cbfe1f6dbaa9badb0c6b13",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_nvg",
+          "_id": "69cbfe1f6dbaa9badb0c6b15",
+          "_parent": "69cbfe1f6dbaa9badb0c6b13",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca",
+                  "689b8883b49f27df1c0873f8",
+                  "689dbded6c7e684817080c29"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "69cbfe1f6dbaa9badb0c6b16",
+          "_parent": "69cbfe1f6dbaa9badb0c6b13",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_001",
+          "_id": "69cbfe1f6dbaa9badb0c6b17",
+          "_parent": "69cbfe1f6dbaa9badb0c6b13",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c178a942e22164bef5ceca3",
+                  "5c1793902e221602b21d3de2",
+                  "69caa20ff3190e7dfe0c197f",
+                  "69cbd3188eeaa243ed09710e",
+                  "69cbd33bc293038df7002951",
+                  "69cbd35600ebef208805cc04",
+                  "69caa229512d14715e0fccdf",
+                  "69cbd32a05c5beb41b0781b3",
+                  "69cbd346d0e5ec2c8a0429c2",
+                  "69cbd36d8eeaa243ed097112"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "69cbfe1f6dbaa9badb0c6b18",
+          "_parent": "69cbfe1f6dbaa9badb0c6b13",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "657f9897f4c82973640b235e",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "69cbfe1f6dbaa9badb0c6b19",
+          "_parent": "69cbfe1f6dbaa9badb0c6b13",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f98fbada5fadd1f07a585"
+                ],
+                "Plate": "657f98fbada5fadd1f07a585",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "Combined",
+      "ArmorType": "Light",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0.1314,
+      "DeafStrength": "None",
+      "Durability": 0,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "Helmet",
+      "MaxDurability": 0,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0.9,
+        "y": 0.5,
+        "z": 75
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -2
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AirFrame helmet (Mesh Green)",
+        "shortName": "AirFrame",
+        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Highly modular. Manufactured by Crye Precision."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 5450,
+    "handbookPriceRoubles": 4350,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "69cbfe3a2f657c59da06e262": {
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_equipment_helmet_crye_airframe_shark_bp03",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": true,
+      "Name": "item_equipment_helmet_crye_airframe_shark_bp03",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_crye_airframe/item_equipment_helmet_crye_airframe_shark_bp03.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 626,
+      "RepairSpeed": 10,
+      "ShortName": "item_equipment_helmet_crye_airframe_shark_bp03",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.88,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_equipment_000",
+          "_id": "69cbfe3a2f657c59da06e263",
+          "_parent": "69cbfe3a2f657c59da06e262",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_nvg",
+          "_id": "69cbfe3a2f657c59da06e264",
+          "_parent": "69cbfe3a2f657c59da06e262",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca",
+                  "689b8883b49f27df1c0873f8",
+                  "689dbded6c7e684817080c29"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "69cbfe3a2f657c59da06e265",
+          "_parent": "69cbfe3a2f657c59da06e262",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_001",
+          "_id": "69cbfe3a2f657c59da06e266",
+          "_parent": "69cbfe3a2f657c59da06e262",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c178a942e22164bef5ceca3",
+                  "5c1793902e221602b21d3de2",
+                  "69caa20ff3190e7dfe0c197f",
+                  "69cbd3188eeaa243ed09710e",
+                  "69cbd33bc293038df7002951",
+                  "69cbd35600ebef208805cc04",
+                  "69caa229512d14715e0fccdf",
+                  "69cbd32a05c5beb41b0781b3",
+                  "69cbd346d0e5ec2c8a0429c2",
+                  "69cbd36d8eeaa243ed097112"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "69cbfe3a2f657c59da06e267",
+          "_parent": "69cbfe3a2f657c59da06e262",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "657f9897f4c82973640b235e",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "69cbfe3a2f657c59da06e268",
+          "_parent": "69cbfe3a2f657c59da06e262",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f98fbada5fadd1f07a585"
+                ],
+                "Plate": "657f98fbada5fadd1f07a585",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "Combined",
+      "ArmorType": "Light",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0.1314,
+      "DeafStrength": "None",
+      "Durability": 0,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "Helmet",
+      "MaxDurability": 0,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0.9,
+        "y": 0.5,
+        "z": 75
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -2
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AirFrame helmet (Shark)",
+        "shortName": "AirFrame",
+        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Highly modular. Manufactured by Crye Precision. The added eye stickers complete the Shark look when combined with the painted chops."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 5650,
+    "handbookPriceRoubles": 4373,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addweaponpreset": true,
+    "weaponpresets": [
+      {
+        "_id": "69cec0510fbae4085208f4cc",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Helmet Crye Precision AirFrame Shark Standart",
+        "_parent": "69cec0510fbae4085208f4d0",
+        "_items": [
+          {
+            "_id": "69cec0510fbae4085208f4d0",
+            "_tpl": "69cbfe3a2f657c59da06e262"
+          },
+          {
+            "_id": "69cec0510fbae4085208f4d1",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "69cec0510fbae4085208f4d0",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "69cec0510fbae4085208f4d2",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "69cec0510fbae4085208f4d0",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "69cbfe3a2f657c59da06e262"
+      }
+    ]
+  },
+  "69cd423343c6b278a2076cca": {
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_equipment_helmet_crye_airframe_mlok_black_bp03",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": true,
+      "Name": "item_equipment_helmet_crye_airframe_mlok_black_bp03",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_crye_airframe_mlok/item_equipment_helmet_crye_airframe_mlok_black_bp03.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 626,
+      "RepairSpeed": 10,
+      "ShortName": "item_equipment_helmet_crye_airframe_mlok_black_bp03",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.88,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_nvg",
+          "_id": "69cd423343c6b278a2076ccc",
+          "_parent": "69cd423343c6b278a2076cca",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca",
+                  "689b8883b49f27df1c0873f8",
+                  "689dbded6c7e684817080c29"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "69cd423343c6b278a2076ccd",
+          "_parent": "69cd423343c6b278a2076cca",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "669a6a4a525be1d2d004b8eb",
+                  "5b7be47f5acfc400170e2dd2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_001",
+          "_id": "69cd423343c6b278a2076cce",
+          "_parent": "69cd423343c6b278a2076cca",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c178a942e22164bef5ceca3",
+                  "5c1793902e221602b21d3de2",
+                  "69caa20ff3190e7dfe0c197f",
+                  "69cbd3188eeaa243ed09710e",
+                  "69cbd33bc293038df7002951",
+                  "69cbd35600ebef208805cc04",
+                  "69caa229512d14715e0fccdf",
+                  "69cbd32a05c5beb41b0781b3",
+                  "69cbd346d0e5ec2c8a0429c2",
+                  "69cbd36d8eeaa243ed097112"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "69cd423343c6b278a2076ccf",
+          "_parent": "69cd423343c6b278a2076cca",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "657f9897f4c82973640b235e",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "69cd423343c6b278a2076cd0",
+          "_parent": "69cd423343c6b278a2076cca",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f98fbada5fadd1f07a585"
+                ],
+                "Plate": "657f98fbada5fadd1f07a585",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "Combined",
+      "ArmorType": "Light",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0.1314,
+      "DeafStrength": "None",
+      "Durability": 0,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "Helmet",
+      "MaxDurability": 0,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0.9,
+        "y": 0.5,
+        "z": 75
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -2
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AirFrame M-LOK helmet (Black)",
+        "shortName": "AirFrame M-LOK",
+        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Equipped with M-LOK rails. Manufactured by Crye Precision. Black version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 5430,
+    "handbookPriceRoubles": 4373,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addweaponpreset": true,
+    "weaponpresets": [
+      {
+        "_id": "69cea8be21c1fc42cd01b030",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Helmet Crye Precision AirFrame M-LOK Black Standart",
+        "_parent": "69cea8be21c1fc42cd01b034",
+        "_items": [
+          {
+            "_id": "69cea8be21c1fc42cd01b034",
+            "_tpl": "69cd423343c6b278a2076cca"
+          },
+          {
+            "_id": "69cea8be21c1fc42cd01b035",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "69cea8be21c1fc42cd01b034",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "69cea8be21c1fc42cd01b036",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "69cea8be21c1fc42cd01b034",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "69cd423343c6b278a2076cca"
+      }
+    ]
+  },
+  "69c26fa8add25b3623091e89": {
+    "itemTplToClone": "5b40e3f35acfc40016388218",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_equipment_helmet_ACHHC_coyote_bp03",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": false,
+      "Name": "item_equipment_helmet_ACHHC_coyote_bp03",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/item_equipment_helmet_achhc_coyote_bp03/item_equipment_helmet_achhc_coyote_bp03.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 451,
+      "RepairSpeed": 10,
+      "ShortName": "item_equipment_helmet_ACHHC_coyote_bp03",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 1.2,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "Helmet_back",
+          "_id": "69c26fa8add25b3623091e8b",
+          "_parent": "69c26fa8add25b3623091e89",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9605f4c82973640b2358"
+                ],
+                "Plate": "657f9605f4c82973640b2358",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "69c26fa8add25b3623091e8a",
+          "_parent": "69c26fa8add25b3623091e89",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f95bff92cd718b701550c"
+                ],
+                "Plate": "657f95bff92cd718b701550c",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "Combined",
+      "ArmorType": "Light",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0.1548,
+      "DeafStrength": "None",
+      "Durability": 0,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "Helmet",
+      "MaxDurability": 0,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0.9,
+        "y": 0.4,
+        "z": 75
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": -1,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -2
+    },
+    "locales": {
+      "en": {
+        "name": "HighCom Striker ACHHC IIIA helmet (Coyote Brown)",
+        "shortName": "ACHHC",
+        "description": "A combat helmet manufactured by HighCom, the High Cut version. Does not feature any additional mounts. Coyote Brown version."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 3340,
+    "handbookPriceRoubles": 2608,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addweaponpreset": true,
+    "weaponpresets": [
+      {
+        "_id": "69c2727e074993ca3406aa59",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Helmet HighCom Striker ACHHC IIIA Coyote Brown Standart",
+        "_parent": "69c2727e074993ca3406aa5d",
+        "_items": [
+          {
+            "_id": "69c2727e074993ca3406aa5d",
+            "_tpl": "69c26fa8add25b3623091e89"
+          },
+          {
+            "_id": "69c2727e074993ca3406aa5e",
+            "_tpl": "657f95bff92cd718b701550c",
+            "parentId": "69c2727e074993ca3406aa5d",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "69c2727e074993ca3406aa5f",
+            "_tpl": "657f9605f4c82973640b2358",
+            "parentId": "69c2727e074993ca3406aa5d",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "69c26fa8add25b3623091e89"
+      }
+    ]
+  },
+  "69cbfe44897389c1870b2337": {
+    "itemTplToClone": "5c17a7ed2e2216152142459c",
+    "parentId": "5a341c4086f77401f2541505",
+    "handbookParentId": "5b47574386f77428ca22b330",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "default",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_equipment_helmet_crye_airframe_snake_skin_bp03",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_helmet",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": true,
+      "Name": "item_equipment_helmet_crye_airframe_snake_skin_bp03",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/equipment/helmet_crye_airframe/item_equipment_helmet_crye_airframe_snake_skin_bp03.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 626,
+      "RepairSpeed": 10,
+      "ShortName": "item_equipment_helmet_crye_airframe_snake_skin_bp03",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.88,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_equipment_000",
+          "_id": "69cbfe44897389c1870b2338",
+          "_parent": "69cbfe44897389c1870b2337",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a16b672fcdbcb001912fa83",
+                  "5a16b7e1fcdbcb00165aa6c9"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_nvg",
+          "_id": "69cbfe44897389c1870b2339",
+          "_parent": "69cbfe44897389c1870b2337",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c0558060db834001b735271",
+                  "5a16b8a9fcdbcb00165aa6ca",
+                  "689b8883b49f27df1c0873f8",
+                  "689dbded6c7e684817080c29"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount",
+          "_id": "69cbfe44897389c1870b233a",
+          "_parent": "69cbfe44897389c1870b2337",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a398b75c4a282000a51a266",
+                  "5a398ab9c4a282000c5a9842"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_equipment_001",
+          "_id": "69cbfe44897389c1870b233b",
+          "_parent": "69cbfe44897389c1870b2337",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c178a942e22164bef5ceca3",
+                  "5c1793902e221602b21d3de2",
+                  "69caa20ff3190e7dfe0c197f",
+                  "69cbd3188eeaa243ed09710e",
+                  "69cbd33bc293038df7002951",
+                  "69cbd35600ebef208805cc04",
+                  "69caa229512d14715e0fccdf",
+                  "69cbd32a05c5beb41b0781b3",
+                  "69cbd346d0e5ec2c8a0429c2",
+                  "69cbd36d8eeaa243ed097112"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "Helmet_top",
+          "_id": "69cbfe44897389c1870b233c",
+          "_parent": "69cbfe44897389c1870b2337",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f9897f4c82973640b235e"
+                ],
+                "Plate": "657f9897f4c82973640b235e",
+                "armorColliders": [
+                  "ParietalHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        },
+        {
+          "_name": "Helmet_back",
+          "_id": "69cbfe44897389c1870b233d",
+          "_parent": "69cbfe44897389c1870b2337",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "657f98fbada5fadd1f07a585"
+                ],
+                "Plate": "657f98fbada5fadd1f07a585",
+                "armorColliders": [
+                  "BackHead"
+                ],
+                "armorPlateColliders": [],
+                "bluntDamageReduceFromSoftArmor": false,
+                "locked": true
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": true,
+          "_proto": "64479fdf9731c8fadc0642c1"
+        }
+      ],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksFaceCover": false,
+      "BlocksHeadwear": false,
+      "ArmorMaterial": "Combined",
+      "ArmorType": "Light",
+      "BlindnessProtection": 0,
+      "BluntThroughput": 0.1314,
+      "DeafStrength": "None",
+      "Durability": 0,
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "Indestructibility": 0.9,
+      "MaterialType": "Helmet",
+      "MaxDurability": 0,
+      "MetascoreGroup": "Defence",
+      "RicochetParams": {
+        "x": 0.9,
+        "y": 0.5,
+        "z": 75
+      },
+      "armorClass": "0",
+      "armorColliders": [],
+      "armorPlateColliders": [],
+      "mousePenalty": 0,
+      "speedPenaltyPercent": 0,
+      "weaponErgonomicPenalty": -2
+    },
+    "locales": {
+      "en": {
+        "name": "Crye Precision AirFrame helmet (Tan)",
+        "shortName": "AirFrame",
+        "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Highly modular. Manufactured by Crye Precision."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 5540,
+    "handbookPriceRoubles": 3450,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {}
+  }
+}

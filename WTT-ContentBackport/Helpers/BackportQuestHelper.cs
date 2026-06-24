@@ -33,7 +33,10 @@ namespace WTTContentBackport.Helpers
         
         // Sniper Rifle
         private const string MXLR = "67c6de3ce39861860909e8e5";
-        
+
+        // Shotguns
+        private const string saiga_12g_redline = "6981d72ed009ad83920da43a";
+
         // Armor (and Armored Rigs)
         private const string armor_6B45 = "68948a95d8f2b85fb705e2a6";
         private const string armor_6B45_armoredrig = "68948ad72c87773b9f06d73f";
@@ -52,8 +55,21 @@ namespace WTTContentBackport.Helpers
         private const string armor_tak_kek_jaypc_od = "693fd13aa490096a05028cc8";
         private const string armor_tak_kek_jaypc_b = "693fd1200ec97e98040bd3f9";
         private const string armor_crye_jpc = "693fd0e9deee848f70054999";
-        
-        
+        private const string armor_gladiator_lightweight_multicam = "69d28cdc274c032dd804afe0";
+        private const string armor_gladiator_deathisinevitable = "69d26ff4b855150a70092b8c";
+        private const string armor_strandhogg_multicam_black = "69d36347705756116e0a901c";
+        private const string armor_gladiator_lightweight_multicam_2 = "69d27ebeb855150a70092ba3";
+        private const string armor_stich_profi_atacs_fg = "69cfff5920eac4535609a008";
+        private const string armor_wartech_tv115_black = "69b10ebfde4dda4a140bddb8";
+        private const string armor_stich_profi_coyote = "69cfff99cb69530af90a8279";
+        private const string armor_fort_defender_flecktarn = "69b11935f3783ec37c03a105";
+        private const string armor_fort_redut_m_black = "69cfef0d6242b966d40803e7";
+        private const string armor_fort_gladiator_gray = "69d3708c8d8009073d0a9df4";
+        private const string armor_fort_redut_m_prisoner = "69cf9696b96c8e8d3e002925";
+        private const string armor_spritus_lv119_multicam_black_wedge = "69e2441a18cb3157560855ec";
+
+
+
         // Helmets
         private const string helmet_Vulkan5_FLAME = "68a98762609a5cb2120ebd26";
         private const string helmet_Vulkan5_CAMO = "68a987a1609a5cb2120ebd2f";
@@ -73,7 +89,20 @@ namespace WTTContentBackport.Helpers
         private const string helmet_ULACH_coyotestripe = "68bee2e876e02b9e340ef113";
         private const string helmet_galvion_caiman_multicam_alpine = "693be003582cc8870b090b41";
         private const string helmet_ulach_wintermesh = "693be8f650fafa102607aed4";
-        
+        private const string helmet_crye_precision_airframe_od_green = "69cbfe34c293038df7002963";
+        private const string helmet_atlant_armour_titan_aramid_multicam = "69ce70df606696c00301a760";
+        private const string helmet_atlant_armour_titan_aramid_od_green = "69ce70a321c1fc42cd01affa";
+        private const string helmet_wendy_exfil_multicam = "69c26722bf4ff19f50057643";
+        private const string helmet_atlant_armour_titan_aramid_rudiarius = "69ce70ff49b447e32200cc1c";
+        private const string helmet_crye_precision_airframe_mlok_bull = "69ce47ca49b447e32200cbe9";
+        private const string helmet_crye_precision_airframe_oldschool = "69ce47f01bb66daf5b0d62fd";
+        private const string helmet_crye_precision_airframe_mesh_green = "69cbfe1f6dbaa9badb0c6b13";
+        private const string helmet_crye_precision_airframe_shark = "69cbfe3a2f657c59da06e262";
+        private const string helmet_crye_precision_mlok_black = "69cd423343c6b278a2076cca";
+        private const string helmet_highcom_striker_achhc_coyote = "69c26fa8add25b3623091e89";
+        private const string helmet_crye_precision_airframe_tan = "69cbfe44897389c1870b2337";
+
+
         // Facecovers (armored)
 
         private const string facecover_Atomic_ping = "688b3bfa1ed594eccd0c45ee";
@@ -175,15 +204,37 @@ namespace WTTContentBackport.Helpers
 
             var allArmors = new[]
             {
-                armor_ana_m2, armor_tak_kek_jaypc_b, armor_tak_kek_jaypc_od, armor_crye_jpc, armor_6B45, armor_6B45_armoredrig, armor_6B45_armoredrigAssault, armor_6B45_armoredrigMedic, armor_OTV_woodland, armor_THOR_CRL, armor_FCPC_BD, armor_Siege_R_BD, armor_LV119_BD, armor_LV119_BD1, armor_SPPCV2, armor_KlASS_Kamysh, armor_Strandhogg_ABUPAT
+                armor_ana_m2, armor_tak_kek_jaypc_b, armor_tak_kek_jaypc_od, armor_crye_jpc, armor_6B45, armor_6B45_armoredrig, armor_6B45_armoredrigAssault, armor_6B45_armoredrigMedic, armor_OTV_woodland, armor_THOR_CRL, armor_FCPC_BD, armor_Siege_R_BD, armor_LV119_BD, armor_LV119_BD1, armor_SPPCV2, armor_KlASS_Kamysh, armor_Strandhogg_ABUPAT,     armor_gladiator_lightweight_multicam,
+    armor_gladiator_deathisinevitable,
+    armor_strandhogg_multicam_black,
+    armor_gladiator_lightweight_multicam_2,
+    armor_stich_profi_atacs_fg,
+    armor_wartech_tv115_black,
+    armor_stich_profi_coyote,
+    armor_fort_defender_flecktarn,
+    armor_fort_redut_m_black,
+    armor_fort_gladiator_gray,
+    armor_fort_redut_m_prisoner,
+    armor_spritus_lv119_multicam_black_wedge
             };
 
             var allHelmets = new[]
             {
-                helmet_galvion_caiman_multicam_alpine, helmet_ulach_wintermesh, helmet_Vulkan5_FLAME, helmet_Vulkan5_CAMO, helmet_Champion, helmet_neosteel_aces, helmet_ulach_sand, helmet_galvion_mutualist, helmet_Caiman_MultiCam, helmet_Ronin_Respirator_beast, helmet_Ronin_Respirator_green, helmet_NeoSteel_Orange, helmet_hardhat_white, helmet_ULACH_greenstripes, helmet_hardhat_orange, helmet_ULACH_meshspray, helmet_LShZ5_Eightball, helmet_ULACH_coyotestripe
+                helmet_galvion_caiman_multicam_alpine, helmet_ulach_wintermesh, helmet_Vulkan5_FLAME, helmet_Vulkan5_CAMO, helmet_Champion, helmet_neosteel_aces, helmet_ulach_sand, helmet_galvion_mutualist, helmet_Caiman_MultiCam, helmet_Ronin_Respirator_beast, helmet_Ronin_Respirator_green, helmet_NeoSteel_Orange, helmet_hardhat_white, helmet_ULACH_greenstripes, helmet_hardhat_orange, helmet_ULACH_meshspray, helmet_LShZ5_Eightball, helmet_ULACH_coyotestripe,     helmet_crye_precision_airframe_od_green,
+    helmet_atlant_armour_titan_aramid_multicam,
+    helmet_atlant_armour_titan_aramid_od_green,
+    helmet_wendy_exfil_multicam,
+    helmet_atlant_armour_titan_aramid_rudiarius,
+    helmet_crye_precision_airframe_mlok_bull,
+    helmet_crye_precision_airframe_oldschool,
+    helmet_crye_precision_airframe_mesh_green,
+    helmet_crye_precision_airframe_shark,
+    helmet_crye_precision_mlok_black,
+    helmet_highcom_striker_achhc_coyote,
+    helmet_crye_precision_airframe_tan
             };
 
-            var allFaceCovers = new[]
+            var allArmoredFaceCovers = new[]
             {
                 facecover_Atomic_blastedice, facecover_Atomic_crashtested, facecover_Atomic_demonic, facecover_Atomic_LouiPeeton3, facecover_Atomic_LouiPeeton4, facecover_Atomic_ping, facecover_Atomic_toxic, facecover_deathshadow_gold, facecover_deathshadow_gray, facecover_deathshadow_white, facecover_Samurai_menpo, facecover_Samurai_menpo_gold, facecover_Samurai_menpo_white
             };
@@ -222,7 +273,7 @@ namespace WTTContentBackport.Helpers
             // Swift One (60e729cf5698ee7b05057439)
             questHelper.AddArmorToEquipmentExclusive(quests, "60e729cf5698ee7b05057439", allArmors);
             questHelper.AddArmorToEquipmentExclusive(quests, "60e729cf5698ee7b05057439", allHelmets);
-            questHelper.AddArmorToEquipmentExclusive(quests, "60e729cf5698ee7b05057439", allFaceCovers);
+            questHelper.AddArmorToEquipmentExclusive(quests, "60e729cf5698ee7b05057439", allArmoredFaceCovers);
             
             // All Western Items
             var allWesternWeapons = new[]

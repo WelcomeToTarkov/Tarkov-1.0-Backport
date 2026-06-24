@@ -1,0 +1,928 @@
+{
+  "6981d72ed009ad83920da43a": {
+    "itemTplToClone": "576165642459773c7a400233",
+    "parentId": "5447b6094bdc2dc3278b4567",
+    "handbookParentId": "5b5f794b86f77409407a7f92",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "black",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "Saiga",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 4,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "weap_ar",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": true,
+      "Name": "Saiga",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/weapons/saiga12/weapon_kiba_saiga12k_10_champ_12g_container.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 40,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 99,
+      "RepairSpeed": 7,
+      "ShortName": "Saiga",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 2.622,
+      "Width": 4,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_mount_000",
+          "_id": "6981d72ed009ad83920da43c",
+          "_parent": "6981d72ed009ad83920da43a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5947db3f86f77447880cf76f",
+                  "6113d6c3290d254f5e6b27db",
+                  "57486e672459770abd687134",
+                  "618a5d5852ecee1505530b2a",
+                  "5c82342f2e221644f31c060e",
+                  "576fd4ec2459777f0b518431",
+                  "5c82343a2e221644f31c0611",
+                  "5cf638cbd7f00c06595bc936",
+                  "5a7c74b3e899ef0014332c29",
+                  "591ee00d86f774592f7b841e",
+                  "5d0a29ead7ad1a0026013f27",
+                  "618a75c9a3884f56c957ca1b",
+                  "57acb6222459771ec34b5cb0",
+                  "5c61a40d2e2216001403158d",
+                  "5c90c3622e221601da359851",
+                  "638db77630c4240f9e06f8b6",
+                  "63d114019e35b334d82302f7",
+                  "6544d4187c5457729210d277",
+                  "65f1b1176dbd6c5ba2082eed"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_handguard",
+          "_id": "6981d72ed009ad83920da43d",
+          "_parent": "6981d72ed009ad83920da43a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5f63418ef5750b524b45f116",
+                  "6086b5731246154cad35d6c7",
+                  "576169e62459773c69055191",
+                  "5827272a24597748c74bdeea",
+                  "58272b392459774b4c7b3ccd",
+                  "674fe57721a9aa6be6045b96",
+                  "6981f97f1d2e2070560b7277"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_muzzle",
+          "_id": "6981d72ed009ad83920da43e",
+          "_parent": "6981d72ed009ad83920da43a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "58272d7f2459774f6311ddfd",
+                  "59fb137a86f7740adb646af1",
+                  "576167ab2459773cad038c43",
+                  "5b363e1b5acfc4771e1c5e80",
+                  "59c0ec5b86f77435b128bfca"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "6981d72ed009ad83920da43f",
+          "_parent": "6981d72ed009ad83920da43a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5f6341043ada5942720e2dc5",
+                  "6087e663132d4d12c81fd96b",
+                  "5beec8ea0db834001a6f9dbf",
+                  "5649ad3f4bdc2df8348b4585",
+                  "5649ade84bdc2d1b2b8b4587",
+                  "59e62cc886f77440d40b52a1",
+                  "5a0071d486f77404e23a12b2",
+                  "57e3dba62459770f0c32322b",
+                  "5cf54404d7f00c108840b2ef",
+                  "5e2192a498a36665e8337386",
+                  "5b30ac585acfc433000eb79c",
+                  "59e6318286f77444dd62c4cc",
+                  "5cf50850d7f00c056e24104c",
+                  "5cf508bfd7f00c056e24104e",
+                  "5947f92f86f77427344a76b1",
+                  "5947fa2486f77425b47c1a9b",
+                  "5c6bf4aa2e2216001219b0ae",
+                  "5649ae4a4bdc2d1b2b8b4588",
+                  "5998517986f7746017232f7e",
+                  "623c3be0484b5003161840dc",
+                  "628c9ab845c59e5b80768a81",
+                  "628a664bccaab13006640e47",
+                  "63f4da90f31d4a33b87bd054",
+                  "648ae3e356c6310a830fc291",
+                  "651580dc71a4f10aec4b6056",
+                  "6981f8ca1d2e2070560b7275",
+                  "6984b7bf0baed1fc0a0594f6"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_reciever",
+          "_id": "6981d72ed009ad83920da440",
+          "_parent": "6981d72ed009ad83920da43a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57616c112459773cce774d66",
+                  "676017fe8cfeeba9f707c8d6",
+                  "6981f9c5f819a41431029304"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_rear",
+          "_id": "6981d72ed009ad83920da441",
+          "_parent": "6981d72ed009ad83920da43a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "58272b842459774abc128d50",
+                  "57a9b9ce2459770ee926038d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "6981d72ed009ad83920da442",
+          "_parent": "6981d72ed009ad83920da43a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5cf50fc5d7f00c056c53f83c",
+                  "5ac78eaf5acfc4001926317a",
+                  "5beec8b20db834001961942a",
+                  "57616ca52459773c69055192",
+                  "688c9df121038434840a1e06",
+                  "6981ee9cf819a414310292fb"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "6981d72ed009ad83920da443",
+          "_parent": "6981d72ed009ad83920da43a",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "57616a9e2459773c7a400234",
+                  "5cf8f3b0d7f00c00217872ef",
+                  "5a966f51a2750c00156aacf6",
+                  "674fe8f6f34d761ab8020cc8"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_charge",
+          "_id": "6981d72ed009ad83920da444",
+          "_parent": "6981d72ed009ad83920da43a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6130ca3fd92c473c77020dbd",
+                  "5648ac824bdc2ded0b8b457d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "6981d72ed009ad83920da445",
+          "_parent": "6981d72ed009ad83920da43a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6710cea62bb09af72f0e6bf8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "AdjustCollimatorsToTrajectory": false,
+      "AimPlane": 0.101,
+      "AimSensitivity": 0.65,
+      "AllowFeed": true,
+      "AllowJam": true,
+      "AllowMisfire": true,
+      "AllowOverheat": true,
+      "AllowSlide": true,
+      "AudioSettings": {
+        "IndoorConfig": {
+          "MaxDistance": 200,
+          "Volume": 1
+        },
+        "OutdoorConfig": {
+          "MaxDistance": 600,
+          "Volume": 1
+        },
+        "IndoorSilencedConfig": {
+          "MaxDistance": 120,
+          "Volume": 1
+        },
+        "OutdoorSilencedConfig": {
+          "MaxDistance": 300,
+          "Volume": 1
+        }
+      },
+      "BaseMalfunctionChance": 0.284625,
+      "BoltAction": false,
+      "BurstShotsCount": 3,
+      "CameraSnap": 2.5,
+      "CameraToWeaponAngleSpeedRange": {
+        "x": 0.1,
+        "y": 0.2,
+        "z": 0
+      },
+      "CameraToWeaponAngleStep": 0.1,
+      "CanQueueSecondShot": true,
+      "CanUnloadAmmoByPlayer": true,
+      "CenterOfImpact": 0.6,
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "6981d72ed009ad83920da446",
+          "_parent": "6981d72ed009ad83920da43a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "560d5e524bdc2d25448b4571",
+                  "5d6e6772a4b936088465b17c",
+                  "5d6e67fba4b9361bc73bc779",
+                  "5d6e6806a4b936088465b17e",
+                  "5d6e68dea4b9361bcc29e659",
+                  "5d6e6911a4b9361bd5780d52",
+                  "5c0d591486f7744c505b416f",
+                  "58820d1224597753c90aeb13",
+                  "5d6e68c4a4b9361b93413f79",
+                  "5d6e68a8a4b9360b6c0d54e2",
+                  "5d6e68e6a4b9361c140bcfe0",
+                  "5d6e6869a4b9361c140bcfde",
+                  "5d6e68b3a4b9361bca7e50b5",
+                  "5d6e6891a4b9361bd473feea",
+                  "5d6e689ca4b9361bc8618956",
+                  "5d6e68d1a4b93622fe60e845",
+                  "64b8ee384b75259c590fa89b"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ],
+      "CompactHandling": true,
+      "CoolFactorGun": 3.168,
+      "CoolFactorGunMods": 0.9996,
+      "DeviationCurve": 2.5,
+      "DeviationMax": 9.5,
+      "DoubleActionAccuracyPenalty": 1.5,
+      "Durability": 100,
+      "DurabilityBurnRatio": 1.12,
+      "Ergonomics": 35,
+      "Foldable": true,
+      "FoldedSlot": "mod_stock",
+      "HeatFactorByShot": 4.6,
+      "HeatFactorGun": 0.9212,
+      "HipAccuracyRestorationDelay": 0.2,
+      "HipAccuracyRestorationSpeed": 7,
+      "HipInnaccuracyGain": 0.16,
+      "IronSightRange": 25,
+      "IsBeltMachineGun": false,
+      "IsFlareGun": false,
+      "IsGrenadeLauncher": false,
+      "IsMountable": true,
+      "IsOneoff": false,
+      "IsStationaryWeapon": false,
+      "ManualBoltCatch": false,
+      "MaxDurability": 100,
+      "MaxRepairDegradation": 0.04,
+      "MaxRepairKitDegradation": 0.035,
+      "MetascoreGroup": "Firepower",
+      "MinRepairDegradation": 0,
+      "MinRepairKitDegradation": 0,
+      "MountCameraSnapMultiplier": 3,
+      "MountHorizontalRecoilMultiplier": 0.6,
+      "MountReturnSpeedHandMultiplier": 1,
+      "MountVerticalRecoilMultiplier": 0.85,
+      "MountingHorizontalOutOfBreathMultiplier": 0.4,
+      "MountingPosition": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "MountingVerticalOutOfBreathMultiplier": 0.8,
+      "MustBoltBeOpennedForExternalReload": false,
+      "MustBoltBeOpennedForInternalReload": false,
+      "NoFiremodeOnBoltcatch": false,
+      "OperatingResource": 2200,
+      "PostRecoilHorizontalRangeHandRotation": {
+        "x": -2.5,
+        "y": 2.5,
+        "z": 0
+      },
+      "PostRecoilVerticalRangeHandRotation": {
+        "x": -2,
+        "y": 0.1,
+        "z": 0
+      },
+      "ProgressRecoilAngleOnStable": {
+        "x": 0,
+        "y": 30,
+        "z": 0
+      },
+      "RecoilAngle": 90,
+      "RecoilCamera": 0.06,
+      "RecoilCategoryMultiplierHandRotation": 0.21,
+      "RecoilCenter": {
+        "x": 0,
+        "y": -0.25,
+        "z": 0
+      },
+      "RecoilDampingHandRotation": 0.85,
+      "RecoilForceBack": 526,
+      "RecoilForceUp": 298,
+      "RecoilPosZMult": 1,
+      "RecoilReturnPathDampingHandRotation": 0.52,
+      "RecoilReturnPathOffsetHandRotation": 0.015,
+      "RecoilReturnSpeedHandRotation": 2,
+      "RecoilStableAngleIncreaseStep": 2.5,
+      "RecoilStableIndexShot": 3,
+      "RecolDispersion": 15,
+      "ReloadMode": "ExternalMagazine",
+      "RepairComplexity": 0,
+      "ResetAfterShot": false,
+      "Retractable": false,
+      "RotationCenter": {
+        "x": 0,
+        "y": -0.1,
+        "z": -0.03
+      },
+      "RotationCenterNoStock": {
+        "x": 0,
+        "y": -0.27,
+        "z": -0.08
+      },
+      "ShotsGroupSettings": [
+        {
+          "EndShotIndex": 99,
+          "ShotRecoilPositionStrength": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "ShotRecoilRadianRange": {
+            "x": -20,
+            "y": 20,
+            "z": 0
+          },
+          "ShotRecoilRotationStrength": {
+            "x": 0,
+            "y": 2,
+            "z": 0
+          },
+          "StartShotIndex": 4
+        }
+      ],
+      "SightingRange": 100,
+      "SingleFireRate": 450,
+      "SizeReduceRight": 0,
+      "TacticalReloadFixation": 0.95,
+      "TacticalReloadStiffnes": {
+        "x": 0.95,
+        "y": 0.33,
+        "z": 0.95
+      },
+      "UseAltMountBone": false,
+      "Velocity": 2.7,
+      "WeaponAimSettings": {
+        "Enable": false,
+        "ValuesIn": [],
+        "ValuesOut": []
+      },
+      "WeaponRecoilSettings": {
+        "Enable": true,
+        "Values": [
+          {
+            "Enable": true,
+            "Target": "HandsRotation",
+            "Process": {
+              "ComponentType": "Y",
+              "CurveTimeMultiply": 1,
+              "CurveValueMultiply": 4,
+              "CurveAimingValueMultiply": 2,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.005082704,
+                    "value": 1.88732529,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.0276122689,
+                    "value": -1.30752623,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.0759027,
+                    "value": 0.6954254,
+                    "inTangent": 0.5565827,
+                    "outTangent": 0.5565827
+                  },
+                  {
+                    "time": 0.161316544,
+                    "value": -0.6003009,
+                    "inTangent": -0.153797358,
+                    "outTangent": -0.153797358
+                  },
+                  {
+                    "time": 0.335876584,
+                    "value": 0.228625,
+                    "inTangent": 0.008163354,
+                    "outTangent": 0.008163354
+                  },
+                  {
+                    "time": 0.5889717,
+                    "value": -0.1000074,
+                    "inTangent": -0.298517853,
+                    "outTangent": -0.298517853
+                  },
+                  {
+                    "time": 0.8184021,
+                    "value": 0.0514843464,
+                    "inTangent": -0.947133362,
+                    "outTangent": -0.947133362
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "HandsPosition",
+            "Process": {
+              "ComponentType": "Y",
+              "CurveTimeMultiply": 1.4,
+              "CurveValueMultiply": 0.015,
+              "CurveAimingValueMultiply": 0.01,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.0138031021,
+                    "value": 1.31857681,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.120678723,
+                    "value": -0.867797852,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.373304576,
+                    "value": 0.124947667,
+                    "inTangent": 1.33293617,
+                    "outTangent": 1.33293617
+                  },
+                  {
+                    "time": 0.633319736,
+                    "value": -0.186613441,
+                    "inTangent": -0.05895444,
+                    "outTangent": -0.05895444
+                  },
+                  {
+                    "time": 0.824326456,
+                    "value": -0.0132554024,
+                    "inTangent": 0.456886768,
+                    "outTangent": 0.456886768
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "CameraRotation",
+            "Process": {
+              "ComponentType": "Z",
+              "CurveTimeMultiply": 1,
+              "CurveValueMultiply": 0.3,
+              "CurveAimingValueMultiply": 0.17,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.0489593521,
+                    "value": 2.47995377,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.206555188,
+                    "value": -1.142456,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.513817251,
+                    "value": 0.196352363,
+                    "inTangent": 1.88983107,
+                    "outTangent": 1.88983107
+                  },
+                  {
+                    "time": 0.7781739,
+                    "value": -0.1396836,
+                    "inTangent": -0.7040726,
+                    "outTangent": -0.7040726
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "HandsRotation",
+            "Process": {
+              "ComponentType": "Z",
+              "CurveTimeMultiply": 0.65,
+              "CurveValueMultiply": 0.5,
+              "CurveAimingValueMultiply": 0.09,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.005082704,
+                    "value": 1.88732529,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.0276122689,
+                    "value": -1.30752623,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.0759027,
+                    "value": 0.6954254,
+                    "inTangent": 0.5565827,
+                    "outTangent": 0.5565827
+                  },
+                  {
+                    "time": 0.161316544,
+                    "value": -0.6003009,
+                    "inTangent": -0.153797358,
+                    "outTangent": -0.153797358
+                  },
+                  {
+                    "time": 0.335876584,
+                    "value": 0.228625,
+                    "inTangent": 0.008163354,
+                    "outTangent": 0.008163354
+                  },
+                  {
+                    "time": 0.5889717,
+                    "value": -0.1000074,
+                    "inTangent": -0.298517853,
+                    "outTangent": -0.298517853
+                  },
+                  {
+                    "time": 0.8184021,
+                    "value": 0.0514843464,
+                    "inTangent": -0.947133362,
+                    "outTangent": -0.947133362
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "WithAnimatorAiming": false,
+      "ammoCaliber": "Caliber12g",
+      "bEffDist": 70,
+      "bFirerate": 450,
+      "bHearDist": 1,
+      "blockLeftStance": false,
+      "chamberAmmoCount": 1,
+      "defAmmo": "560d5e524bdc2d25448b4571",
+      "defMagType": "57616a9e2459773c7a400234",
+      "durabSpawnMax": 100,
+      "durabSpawnMin": 25,
+      "isBoltCatch": false,
+      "isChamberLoad": true,
+      "isFastReload": true,
+      "shotgunDispersion": 20,
+      "weapClass": "shotgun",
+      "weapFireType": [
+        "single",
+        "fullauto"
+      ],
+      "weapUseType": "primary",
+      "ShotgunDispersion": 1
+    },
+    "locales": {
+      "en": {
+        "name": "Saiga-12K 12ga automatic shotgun (Redline)",
+        "shortName": "Saiga-12K FA RL",
+        "description": "A modified Saiga-12K smoothbore shotgun specially customized for the Arena champion known by the name JP. The custom build reduces barrel overheating during sustained fire and improves overall weapon reliability."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 38500,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": true,
+    "masterySections": [
+      {
+        "Level2": 300,
+        "Level3": 650,
+        "Name": "SAIGA",
+        "Templates": [
+          "6981d72ed009ad83920da43a"
+        ]
+      }
+    ],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {},
+    "addweaponpreset": true,
+    "weaponpresets": [
+      {
+        "_id": "69a6bdfa896d77866e096752",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "fa_saiga_12k_champ_default",
+        "_parent": "69a6cbbeaeb8ec93e20798d8",
+        "_items": [
+          {
+            "_id": "69a6cbbeaeb8ec93e20798d8",
+            "_tpl": "6981d72ed009ad83920da43a",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              }
+            }
+          },
+          {
+            "_id": "69a6cbbeaeb8ec93e20798d9",
+            "_tpl": "638db77630c4240f9e06f8b6",
+            "parentId": "69a6cbbeaeb8ec93e20798d8",
+            "slotId": "mod_mount_000"
+          },
+          {
+            "_id": "69a6cbbeaeb8ec93e20798da",
+            "_tpl": "6985bed26be2752c150e6898",
+            "parentId": "69a6cbbeaeb8ec93e20798d9",
+            "slotId": "mod_scope"
+          },
+          {
+            "_id": "69a6cbbeaeb8ec93e20798db",
+            "_tpl": "6985bebd812f88c79b0eed3b",
+            "parentId": "69a6cbbeaeb8ec93e20798da",
+            "slotId": "mod_scope"
+          },
+          {
+            "_id": "69a6cbbeaeb8ec93e20798dc",
+            "_tpl": "6981f97f1d2e2070560b7277",
+            "parentId": "69a6cbbeaeb8ec93e20798d8",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "69a6cbbeaeb8ec93e20798dd",
+            "_tpl": "58272d7f2459774f6311ddfd",
+            "parentId": "69a6cbbeaeb8ec93e20798d8",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "69a6cbbeaeb8ec93e20798de",
+            "_tpl": "6981f8ca1d2e2070560b7275",
+            "parentId": "69a6cbbeaeb8ec93e20798d8",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "69a6cbbeaeb8ec93e20798df",
+            "_tpl": "6981f9c5f819a41431029304",
+            "parentId": "69a6cbbeaeb8ec93e20798d8",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "69a6cbbeaeb8ec93e20798e0",
+            "_tpl": "57a9b9ce2459770ee926038d",
+            "parentId": "69a6cbbeaeb8ec93e20798d8",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "69a6cbbeaeb8ec93e20798e1",
+            "_tpl": "6981ee9cf819a414310292fb",
+            "parentId": "69a6cbbeaeb8ec93e20798d8",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "69a6cbbeaeb8ec93e20798e2",
+            "_tpl": "5c793fb92e221644f31bfb64",
+            "parentId": "69a6cbbeaeb8ec93e20798e1",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "69a6cbbeaeb8ec93e20798e3",
+            "_tpl": "6981f3e2f819a41431029302",
+            "parentId": "69a6cbbeaeb8ec93e20798e2",
+            "slotId": "mod_stock_000"
+          },
+          {
+            "_id": "69a6cbbeaeb8ec93e20798e4",
+            "_tpl": "5a966f51a2750c00156aacf6",
+            "parentId": "69a6cbbeaeb8ec93e20798d8",
+            "slotId": "mod_magazine"
+          }
+        ],
+        "_encyclopedia": "6981d72ed009ad83920da43a"
+      }
+    ]
+  }
+}

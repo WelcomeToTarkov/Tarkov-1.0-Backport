@@ -1,0 +1,143 @@
+{
+  "699f0b4c10d277852b0177e9": {
+    "itemTplToClone": "5783c43d2459774bbe137486",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b619f1a86f77450a702a6f3",
+    "overrideProperties": {
+      "Grids": [
+        {
+          "_name": "main",
+          "_id": "590c60fc86f77412b13fddd0",
+          "_parent": "590c60fc86f77412b13fddcf",
+          "_props": {
+            "filters": [
+              {
+                "ExcludedFilter": [
+                  "67ab3d4b83869afd170fdd3f",
+                  "678fa929819ddc4c350c0317"
+                ],
+                "Filter": [
+                  "59faff1d86f7746c51718c9c",
+                  "5f745ee30acaeb0d490d8c5b",
+                  "619cbf9e0a7c3a1a2731940a",
+                  "5448ecbe4bdc2d60728b4568",
+                  "543be5e94bdc2df1348b4568",
+                  "567849dd4bdc2d150f8b456e",
+                  "543be5dd4bdc2deb348b4569",
+                  "67449b6c89d5e1ddc603f504",
+                  "6759673c76e93d8eb20b2080",
+                  "69f9d547b98cc4120608692a"
+                ]
+              }
+            ],
+            "cellsH": 4,
+            "cellsV": 4,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "isSortingTable": false
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "Slots": [],
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "yellow",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "Docbag",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": true,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "gear_generic",
+      "LeftHandItem": false,
+      "LootExperience": 30,
+      "MergesWithChildren": false,
+      "Name": "Docbag",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/quest/item_quest_icebreaker_docbag/item_quest_icebreaker_docbag.bundle",
+        "rcid": ""
+      },
+      "QuestItem": true,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Docbag",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.82,
+      "Width": 1,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "TagColor": 0,
+      "TagName": ""
+    },
+    "locales": {
+      "en": {
+        "name": "Folder of reports for Skier",
+        "shortName": "Skier's docs",
+        "description": "This folder contains reports from Skier’s stashes in the southern part of Tarkov. Destroying this information would seriously disrupt coordination among his people and slow down their operations."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 0,
+    "handbookPriceRoubles": 167469,
+    "addtoItemBlacklist":  true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {}
+  }
+}

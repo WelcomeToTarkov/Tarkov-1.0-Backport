@@ -1,0 +1,13 @@
+{
+  "69e24393d10363e6f90064d0": {
+    "path": "assets/content/characters/character/prefabs/head_boss_wedge.bundle",
+    "addHeadToPlayer": true,
+    "side": [
+      "Bear",
+      "Usec"
+    ],
+    "locales": {
+      "en": "Wedge"
+    }
+  }
+}

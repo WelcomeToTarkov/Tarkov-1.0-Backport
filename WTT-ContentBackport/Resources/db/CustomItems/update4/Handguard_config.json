@@ -1,0 +1,222 @@
+{
+  "6981f97f1d2e2070560b7277": {
+    "itemTplToClone": "58272b392459774b4c7b3ccd",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [
+        "5ac66d015acfc400180ae6e4",
+        "5ac66d725acfc43b321d4b60",
+        "5ac66d9b5acfc4001633997a"
+      ],
+      "Description": "handguard_ak_vltor_cmrd",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 3,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "mod",
+      "LeftHandItem": false,
+      "LootExperience": 10,
+      "MergesWithChildren": true,
+      "Name": "handguard_ak_vltor_cmrd",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/mods/handguards/handguard_saiga12_custom_guns_hedon_s_saiga12_champ.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "handguard_ak_vltor_cmrd",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.25,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_foregrip",
+          "_id": "6981f97f1d2e2070560b7279",
+          "_parent": "6981f97f1d2e2070560b7277",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "615d8fd3290d254f5e6b2edc",
+                  "5fc0f9b5d724d907e2077d82",
+                  "5fc0f9cbd6fa9c00c571bb90",
+                  "5a9d6d13a2750c00164f6b03",
+                  "59e0bed186f774156f04ce84"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "6981f97f1d2e2070560b727a",
+          "_parent": "6981f97f1d2e2070560b7277",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a9d6d00a2750c5c985b5305",
+                  "59e0bdb186f774156f04ce82",
+                  "59e0be5d86f7742d48765bd2",
+                  "623c2f652febb22c2777d8d7",
+                  "67111094d1758189fc0bd223",
+                  "689c8a2b4b91399db3085f27"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "6981f97f1d2e2070560b727b",
+          "_parent": "6981f97f1d2e2070560b7277",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a9d6d00a2750c5c985b5305",
+                  "59e0bdb186f774156f04ce82",
+                  "59e0be5d86f7742d48765bd2",
+                  "623c2f652febb22c2777d8d7",
+                  "67111094d1758189fc0bd223",
+                  "689c8a2b4b91399db3085f27"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "6981f97f1d2e2070560b727c",
+          "_parent": "6981f97f1d2e2070560b7277",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5a9d6d00a2750c5c985b5305",
+                  "59e0bdb186f774156f04ce82",
+                  "59e0be5d86f7742d48765bd2",
+                  "623c2f652febb22c2777d8d7",
+                  "67112695fe5c8bf33f02476d",
+                  "67111094d1758189fc0bd223",
+                  "689c8a2b4b91399db3085f27"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "Accuracy": 0,
+      "BlocksCollapsible": false,
+      "BlocksFolding": false,
+      "CategoryAnimationModId": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "Durability": 100,
+      "EffectiveDistance": 0,
+      "Ergonomics": 22,
+      "HasShoulderContact": false,
+      "IsAnimated": false,
+      "Loudness": 0,
+      "MetascoreGroup": "Firepower",
+      "RaidModdable": false,
+      "Recoil": 0,
+      "SightingRange": 0,
+      "ToolModdable": true,
+      "UniqueAnimationModID": 0,
+      "Velocity": 0,
+      "CoolFactor": 1.02,
+      "HeatFactor": 0.93
+    },
+    "locales": {
+      "en": {
+        "name": "Saiga-12 Custom Guns Hedon S handguard (Redline)",
+        "shortName": "Hedon S",
+        "description": "A lightweight aluminum handguard by Custom Guns, designed for installation on Saiga-12 shotguns. Equipped with a KeyMod interface for mounting rails and additional equipment. A special version made for the Arena champion JP's shotgun."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [ "mod_handguard" ],
+    "fleaPriceRoubles": 29990,
+    "handbookPriceRoubles": 28100,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {}
+  }
+}

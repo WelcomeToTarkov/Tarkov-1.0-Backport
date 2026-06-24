@@ -1,12 +1,12 @@
 {
-    "68e7a04c481f58ac9702afb4": {
-        "locales": {
-            "en": "Civilian 2"
-        },
-        "name": "Civilian_02",
-        "addVoiceToPlayer": false,
-        "bundlePath": "assets/content/audio/phrases/civilian_02_voice.bundle"
+  "68e7a04c481f58ac9702afb4": {
+    "locales": {
+      "en": "Civilian 2"
     },
+    "name": "Civilian_02",
+    "addVoiceToPlayer": false,
+    "bundlePath": "assets/content/audio/phrases/civilian_02_voice.bundle"
+  },
     "690d4eda458927196f0775f8": {
         "locales": {
             "en": "Nikita"

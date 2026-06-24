@@ -31,6 +31,11 @@ public class BaseGameItemEdits(
         {
             switch (id)
             {
+                case "5e00c1ad86f774747333222c":
+                    slotHelper.EnsureSlot(item, "mod_equipment_002", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_equipment_002",
+                        "69e24f4f9e6ca1b32508bfbc");
+                    break;
                 case "652910ef50dc782999054b97":
                     slotHelper.AddIdsToNamedSlot(item, "mod_mount_000",
                         "689c8a2b4b91399db3085f27");

@@ -1,0 +1,450 @@
+[
+  {
+    "type": "top",
+    "suiteId": "69b139f2f7f5e39d7b0c04e6",
+    "outfitId": "69b139f2f7f5e39d7b0c04e6",
+    "topId": "69b1390cf3783ec37c03a12b",
+    "handsId": "69b1396b2c6ed131290d9243",
+    "locales": {
+      "en": {
+        "name": "Rash guard (Arena Warrior)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_rusguard_6_v1.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_rusguard_6/hands_arena_rusguard_6_v1.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "69b144545b118e3eb0073cbf",
+    "outfitId": "69b144545b118e3eb0073cbf",
+    "topId": "69b143db3e1980dbd208a80b",
+    "handsId": "69b144112c6ed131290d924a",
+    "locales": {
+      "en": {
+        "name": "Rash guard (Arena Gladiator)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_rusguard_6_v2.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_rusguard_6/hands_arena_rusguard_6_v2.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "69ce6b9c88dd37c3fd095ea5",
+    "outfitId": "69ce6b9c88dd37c3fd095ea5",
+    "topId": "69ce69ff49b447e32200cc0d",
+    "handsId": "69ce6b1288dd37c3fd095ea2",
+    "locales": {
+      "en": {
+        "name": "Champion JP upper",
+        "description": "Combat shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_warrior_champion.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_warrior_champion/hands_warrior_champion.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "69ce77141f77d6bab3037696",
+    "outfitId": "69ce77141f77d6bab3037696",
+    "topId": "69ce765230056e9ce1007cc1",
+    "handsId": "69ce76acf0705b519f047495",
+    "locales": {
+      "en": {
+        "name": "BEAR Lonsdale",
+        "description": "Bomber jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_bear_longdale.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_bear_longdale/hands_arena_bear_longdale.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "69cf7b7fdd62188d7505fea9",
+    "outfitId": "69cf7b7fdd62188d7505fea9",
+    "topId": "69cf7b2f596291dd38057665",
+    "handsId": "69cf7b50bf01912d7909c428",
+    "locales": {
+      "en": {
+        "name": "BEAR Biotics",
+        "description": "Bike armor"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_bear_turtle.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_bear_turtle/hands_arena_bear_turtle.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "69cf90749aed3ea997094afa",
+    "outfitId": "69cf90749aed3ea997094afa",
+    "topId": "69cf8e0e7eaa38bd2407047b",
+    "handsId": "69cf8f10d5a512d1830f1c98",
+    "locales": {
+      "en": {
+        "name": "Rash guard (Boomba)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_rusguard_7_bear.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_rusguard_7/hands_arena_rusguard_7_bear.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "69cf90ac7e099a3f800edb6f",
+    "outfitId": "69cf90ac7e099a3f800edb6f",
+    "topId": "69cf8e57b2dc32a22007c12b",
+    "handsId": "69cf8f8d2aa615fbd401e8bd",
+    "locales": {
+      "en": {
+        "name": "Rash guard (Prepare for War)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_rusguard_7_usec.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_rusguard_7/hands_arena_rusguard_7_usec.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "69cf90d50c8abf3dc904bd0f",
+    "outfitId": "69cf90d50c8abf3dc904bd0f",
+    "topId": "69cf8e8d2aa615fbd401e8b8",
+    "handsId": "69cf8fe5596291dd3805767c",
+    "locales": {
+      "en": {
+        "name": "Rash guard (Blue Raven)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_rusguard_8_bear.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_rusguard_8/hands_arena_rusguard_8_bear.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "69cf91052aa615fbd401e8c5",
+    "outfitId": "69cf91052aa615fbd401e8c5",
+    "topId": "69cf8ea6e15d6dfd4c0d1d98",
+    "handsId": "69cf9008bf01912d7909c43b",
+    "locales": {
+      "en": {
+        "name": "Rash guard (Gray Raven)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_rusguard_8_usec.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_rusguard_8/hands_arena_rusguard_8_usec.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "69cf7f109bc1d9c46b0b4fd1",
+    "outfitId": "69cf7f109bc1d9c46b0b4fd1",
+    "topId": "69cf7e9b9bc1d9c46b0b4fcc",
+    "handsId": "69cf7ed57e099a3f800edb5c",
+    "locales": {
+      "en": {
+        "name": "USEC Fullmetal",
+        "description": "Bike armor"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_usec_turtle.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_usec_turtle/hands_arena_usec_turtle.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "69ce838c6f03ce7fc00437e3",
+    "outfitId": "69ce838c6f03ce7fc00437e3",
+    "topId": "69ce82c51f77d6bab30376a3",
+    "handsId": "69ce83095294cce6e30adde6",
+    "locales": {
+      "en": {
+        "name": "USEC Alone in Woods",
+        "description": "Jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_usec_vintage.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_usec_vintage/hands_arena_usec_vintage.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "69ef7caf99eabc008b09980f",
+    "outfitId": "69ef7caf99eabc008b09980f",
+    "topId": "69ef790399eabc008b0997f2",
+    "handsId": "69ef7b34fd73ad53ac0ac5e1",
+    "locales": {
+      "en": {
+        "name": "BEAR Slavianka",
+        "description": "Tactical jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/tshirt_bear_slavianka.bundle",
+    "handsBundlePath": "assets/content/hands/hands_bear_slavianka/hands_bear_slavianka.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "69ef7cd445f58c90fa099ab2",
+    "outfitId": "69ef7cd445f58c90fa099ab2",
+    "topId": "69ef7a29fd73ad53ac0ac5dd",
+    "handsId": "69ef7a4445f58c90fa099aa2",
+    "locales": {
+      "en": {
+        "name": "USEC Gen 4",
+        "description": "Combat shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/tshirt_usec_summerset_g4.bundle",
+    "handsBundlePath": "assets/content/hands/hands_usec_summerset_g4/hands_usec_summerset_g4.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "69ce76ecda746ebd2603fd04",
+    "outfitId": "69ce76ecda746ebd2603fd04",
+    "bottomId": "69ce76827b2cba28400393b2",
+    "locales": {
+      "en": {
+        "name": "BEAR Lonsdale",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_arena_bear_longdale.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "69ce6b4b49b447e32200cc13",
+    "outfitId": "69ce6b4b49b447e32200cc13",
+    "bottomId": "69ce6ad725d2ee3f290913c0",
+    "locales": {
+      "en": {
+        "name": "Champion JP lower",
+        "description": "Combat pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_arena_warrior_champion.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "69ce834e88dd37c3fd095ec3",
+    "outfitId": "69ce834e88dd37c3fd095ec3",
+    "bottomId": "69ce82ea53833bcd2f012b50",
+    "locales": {
+      "en": {
+        "name": "USEC Alone in Woods",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_arena_usec_vintage.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "69ef7c9845f58c90fa099aac",
+    "outfitId": "69ef7c9845f58c90fa099aac",
+    "bottomId": "69ef792499eabc008b0997f6",
+    "locales": {
+      "en": {
+        "name": "BEAR Slavianka",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_slavianka.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "69ef7c77fd73ad53ac0ac5e5",
+    "outfitId": "69ef7c77fd73ad53ac0ac5e5",
+    "bottomId": "69ef79fc99eabc008b0997fa",
+    "locales": {
+      "en": {
+        "name": "USEC Gen 4",
+        "description": "Combat pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_usec_summerset_g4.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "6a39f68f7c8df2e2e3b8897e",
+    "outfitId": "6a39f6907c8df2e2e3b8897f",
+    "topId": "69e2427109707df7660efa26",
+    "handsId": "6a39f6927c8df2e2e3b88980",
+    "locales": {
+      "en": {
+        "name": "Top_BOSS_Wedge",
+        "description": "Orphaned Top"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_boss_wedge.bundle",
+    "handsBundlePath": "fphands/wedgehands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "6a39f6867c8df2e2e3b8897c",
+    "outfitId": "6a39f6887c8df2e2e3b8897d",
+    "bottomId": "69e24294e0d3dc5cfd031434",
+    "locales": {
+      "en": {
+        "name": "Pants_BOSS_Wedge",
+        "description": "Orphaned Bottom"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_boss_wedge.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  }
+]

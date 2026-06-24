@@ -48,6 +48,7 @@ public class WTTContentBackport(
         await wttCommon.CustomCustomizationService.CreateCustomCustomizations(assembly);
         await wttCommon.CustomAchievementService.CreateCustomAchievements(assembly);
         await wttCommon.CustomBotLoadoutService.CreateCustomBotLoadouts(assembly);
+        await wttCommon.CustomQuestItemService.CreateCustomQuestItems(assembly);
         await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
         //new AddCustomisationUnlocksToProfilePatch().Enable();
         backportQuestHelper.ModifyQuests();
