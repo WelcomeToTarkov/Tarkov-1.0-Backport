@@ -137,7 +137,7 @@ namespace WTTContentBackport.Helpers
             questHelper.AddWeaponsToKillCondition(quests, "5c0bd94186f7747a727f09b2", [SR25_TAUPE]);
             
             // Punisher Part 4 (59ca264786f77445a80ed044)
-            //questHelper.AddWeaponsToKillCondition(quests, "59ca264786f77445a80ed044", []);
+            questHelper.AddWeaponsToKillCondition(quests, "59ca264786f77445a80ed044", [saiga_12g_redline]);
             
             // Punisher Part 6 (59ca2eb686f77445a80ed049)
             //questHelper.AddWeaponsToKillCondition(quests, "59ca2eb686f77445a80ed049", []);
@@ -164,7 +164,7 @@ namespace WTTContentBackport.Helpers
             //questHelper.AddWeaponsToKillCondition(quests, "596b455186f77457cb50eccb", []);
 
             // Silent Caliber (5c0bc91486f7746ab41857a2)
-            //questHelper.AddWeaponsToKillCondition(quests, "5c0bc91486f7746ab41857a2", []);
+            questHelper.AddWeaponsToKillCondition(quests, "5c0bc91486f7746ab41857a2", [saiga_12g_redline]);
 
             // Setup (5c1234c286f77406fa13baeb)
             //questHelper.AddWeaponsToKillCondition(quests, "5c1234c286f77406fa13baeb", []);
@@ -193,7 +193,7 @@ namespace WTTContentBackport.Helpers
             questHelper.AddDogtagsToQuests(quests, "655e427b64d09b4122018228", BackportJunkDisabler._bearDogtags, "BEAR");
 
             // Spa Tour Part 1 (5a03153686f77442d90e2171)
-            //questHelper.AddWeaponsToKillCondition(quests, "5a03153686f77442d90e2171", []);
+            questHelper.AddWeaponsToKillCondition(quests, "5a03153686f77442d90e2171", [saiga_12g_redline]);
 
             // Worst Job (63a9b229813bba58a50c9ee5)
             questHelper.AddWeaponsToKillCondition(quests, "63a9b229813bba58a50c9ee5", [
@@ -250,7 +250,7 @@ namespace WTTContentBackport.Helpers
             questHelper.AddWeaponsToKillCondition(quests, "5bc4893c86f774626f5ebf3e", [MXLR]); // Part 8
 
             // Claustrophobia (669fa3979b0ce3feae01a130)
-            //questHelper.AddWeaponsToKillCondition(quests, "669fa3979b0ce3feae01a130", []);
+            questHelper.AddWeaponsToKillCondition(quests, "669fa3979b0ce3feae01a130", [saiga_12g_redline]);
 
             // ====================== MECHANIC QUESTS ======================
 
@@ -282,9 +282,13 @@ namespace WTTContentBackport.Helpers
             };
             // Import Control
             questHelper.AddWeaponsToFindOrHandoverCondition(quests, "668bcccc167d507eb01a268b", allWesternWeapons);
-            
+
+            // Gloves Off (67040c5b4ac6d9c18c0ade26)
+            questHelper.AddWeaponsToKillCondition(quests, "67040c5b4ac6d9c18c0ade26", [saiga_12g_redline]);
+
+
             // ====================== THERAPIST QUESTS ======================
-            
+
             // Decontamination Services (5c0d1c4cd0928202a02a6f5c)
             questHelper.AddArmorToEquipmentExclusive(quests, "5c0d1c4cd0928202a02a6f5c", [facecover_gasmask_avon_m53a1]);
 
