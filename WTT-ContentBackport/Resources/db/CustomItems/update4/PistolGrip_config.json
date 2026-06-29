@@ -96,7 +96,11 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": [ "mod_pistol_grip" ],
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistol_grip_akms",
+      "mod_pistolgrip"
+    ],
     "fleaPriceRoubles": 13230,
     "handbookPriceRoubles": 11799,
     "addtoBots": false,
@@ -217,7 +221,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_pistol_grip"],
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
     "fleaPriceRoubles": 7890,
     "handbookPriceRoubles": 7000,
     "addtoBots": false,
@@ -338,7 +344,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_pistol_grip"],
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
     "fleaPriceRoubles": 7890,
     "handbookPriceRoubles": 7000,
     "addtoBots": false,
@@ -459,7 +467,9 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_pistol_grip"],
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
     "fleaPriceRoubles": 7890,
     "handbookPriceRoubles": 7000,
     "addtoBots": false,
@@ -580,7 +590,11 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": ["mod_pistol_grip"],
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistol_grip_akms",
+      "mod_pistolgrip"
+    ],
     "fleaPriceRoubles": 0,
     "handbookPriceRoubles": 15300,
     "addtoBots": false,

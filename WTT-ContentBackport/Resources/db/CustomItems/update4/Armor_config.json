@@ -360,12 +360,10 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-    "addWeaponPreset": false,
-    "weaponPresets": [],
     "addtoTraders": false,
     "traders": {},
-    "addweaponpreset": true,
-    "weaponpresets": [
+    "addWeaponPreset": true,
+    "weaponPresets": [
       {
         "_id": "69c13b209ed52f3d910ac1c2",
         "_type": "Preset",
@@ -869,11 +867,9 @@
     "masteries": false,
     "masterySections": [],
     "addWeaponPreset": false,
-    "weaponPresets": [],
-    "addtoTraders": false,
     "traders": {},
-    "addweaponpreset": true,
-    "weaponpresets": [
+    "addWeaponPreset": true,
+    "weaponPresets": [
       {
         "_id": "69d3cde92a1cb261dc074571",
         "_type": "Preset",
@@ -1334,12 +1330,10 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-    "addWeaponPreset": false,
-    "weaponPresets": [],
     "addtoTraders": false,
     "traders": {},
-    "addweaponpreset": true,
-    "weaponpresets": [
+    "addWeaponPreset": true,
+    "weaponPresets": [
       {
         "_id": "69d4458d289401f49e046808",
         "_type": "Preset",
@@ -1836,12 +1830,10 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-    "addWeaponPreset": false,
-    "weaponPresets": [],
     "addtoTraders": false,
     "traders": {},
-    "addweaponpreset": true,
-    "weaponpresets": [
+    "addWeaponPreset": true,
+    "weaponPresets": [
       {
         "_id": "69d3bf0d24afab15860e4b57",
         "_type": "Preset",
