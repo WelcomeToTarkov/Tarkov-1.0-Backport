@@ -603,8 +603,47 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-    "addWeaponPreset": false,
-    "weaponPresets": [],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6a41efdb3f81d6950b692f46",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Vest spirits system lv119 BD wedge",
+        "_parent": "6a41ef9e3f81d6950b692f41",
+        "_items": [
+          {
+            "_id": "6a41ef9e3f81d6950b692f41",
+            "_tpl": "69e2441a18cb3157560855ec"
+          },
+          {
+            "_id": "6a41efd13f81d6950b692f45",
+            "_tpl": "68a5f30248f18317750ab20b",
+            "parentId": "6a41ef9e3f81d6950b692f41",
+            "slotId": "Soft_armor_front"
+          },
+          {
+            "_id": "6a41efce3f81d6950b692f44",
+            "_tpl": "68a5f3a348f18317750ab4be",
+            "parentId": "6a41ef9e3f81d6950b692f41",
+            "slotId": "Soft_armor_back"
+          },
+          {
+            "_id": "6a41efcc3f81d6950b692f43",
+            "_tpl": "656fa53d94b480b8a500c0e4",
+            "parentId": "6a41ef9e3f81d6950b692f41",
+            "slotId": "Front_plate"
+          },
+          {
+            "_id": "6a41efca3f81d6950b692f42",
+            "_tpl": "656fa53d94b480b8a500c0e4",
+            "parentId": "6a41ef9e3f81d6950b692f41",
+            "slotId": "Back_plate"
+          }
+        ],
+        "_encyclopedia": "69e2441a18cb3157560855ec"
+      }
+    ],
     "addtoTraders": false,
     "traders": {}
   }
