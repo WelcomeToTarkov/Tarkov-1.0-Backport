@@ -866,7 +866,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-    "addWeaponPreset": false,
     "traders": {},
     "addWeaponPreset": true,
     "weaponPresets": [
