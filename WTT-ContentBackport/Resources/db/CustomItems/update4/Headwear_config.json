@@ -2811,8 +2811,35 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-    "addWeaponPreset": false,
-    "weaponPresets": [],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6a41f64efe2f3926b1329975",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Crye Precision AirFrame helmet (Mesh Green)",
+        "_parent": "6a41f655d7b9a072d57d7514",
+        "_items": [
+          {
+            "_id": "6a41f655d7b9a072d57d7514",
+            "_tpl": "69cbfe1f6dbaa9badb0c6b13"
+          },
+          {
+            "_id": "6a41f805bc39a11aadfa509f",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "6a41f655d7b9a072d57d7514",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "6a41f8087215598d503ba98b",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "6a41f655d7b9a072d57d7514",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "69cbfe1f6dbaa9badb0c6b13"
+      }
+    ],
     "addtoTraders": false,
     "traders": {}
   },
@@ -3851,8 +3878,35 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-    "addWeaponPreset": false,
-    "weaponPresets": [],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6a41f7289917380a47ebfa56",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "Crye Precision AirFrame helmet (Tan)",
+        "_parent": "6a41f739c0512ff42a838040",
+        "_items": [
+          {
+            "_id": "6a41f739c0512ff42a838040",
+            "_tpl": "69cbfe44897389c1870b2337"
+          },
+          {
+            "_id": "6a41f7faa87ab2684c1606e8",
+            "_tpl": "657f9897f4c82973640b235e",
+            "parentId": "6a41f739c0512ff42a838040",
+            "slotId": "Helmet_top"
+          },
+          {
+            "_id": "6a41f7fcb4aafb50a0197683",
+            "_tpl": "657f98fbada5fadd1f07a585",
+            "parentId": "6a41f739c0512ff42a838040",
+            "slotId": "Helmet_back"
+          }
+        ],
+        "_encyclopedia": "69cbfe44897389c1870b2337"
+      }
+    ],
     "addtoTraders": false,
     "traders": {}
   }
