@@ -795,7 +795,7 @@
         "description": "A modified Saiga-12K smoothbore shotgun specially customized for the Arena champion known by the name JP. The custom build reduces barrel overheating during sustained fire and improves overall weapon reliability."
       }
     },
-    "addtoInventorySlots": [],
+    "addtoInventorySlots": ["FirstPrimaryWeapon", "SecondPrimaryWeapon"],
     "addtoModSlots": false,
     "modSlot": [],
     "fleaPriceRoubles": 0,
