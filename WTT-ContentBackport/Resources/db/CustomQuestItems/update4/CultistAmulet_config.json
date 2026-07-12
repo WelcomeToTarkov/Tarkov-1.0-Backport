@@ -24,7 +24,7 @@
       "InsuranceDisabled": true,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": true,
       "IsUnbuyable": true,
@@ -127,7 +127,7 @@
       "InsuranceDisabled": true,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": true,
       "IsUnbuyable": true,
@@ -230,7 +230,7 @@
       "InsuranceDisabled": true,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": true,
       "IsUnbuyable": true,
@@ -333,7 +333,7 @@
       "InsuranceDisabled": true,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": true,
       "IsUnbuyable": true,
@@ -436,7 +436,7 @@
       "InsuranceDisabled": true,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": true,
       "IsUnbuyable": true,
@@ -539,7 +539,7 @@
       "InsuranceDisabled": true,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": true,
       "IsUnbuyable": true,

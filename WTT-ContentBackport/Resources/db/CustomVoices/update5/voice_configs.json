@@ -4,7 +4,7 @@
       "en": "Wedge"
     },
     "name": "Boss_Wedge",
-    "addVoiceToPlayer": true,
+    "addVoiceToPlayer": false,
     "bundlePath": "assets/content/audio/phrases/boss_wedge_voice.bundle"
   }
 }

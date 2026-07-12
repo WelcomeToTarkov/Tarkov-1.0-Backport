@@ -57,7 +57,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -214,7 +214,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,

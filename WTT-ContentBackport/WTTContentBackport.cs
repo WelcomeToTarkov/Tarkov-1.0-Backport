@@ -1,12 +1,18 @@
-﻿using System.Collections.Generic;
-using System.Reflection;
-using System.Threading.Tasks;
+﻿using HarmonyLib.Tools;
+using Microsoft.AspNetCore.Razor.TagHelpers;
 using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
 using SPTarkov.Server.Core.Helpers;
+using SPTarkov.Server.Core.Models.Spt.Config;
 using SPTarkov.Server.Core.Models.Spt.Mod;
+using SPTarkov.Server.Core.Models.Utils;
+using SPTarkov.Server.Core.Servers;
 using SPTarkov.Server.Core.Services;
 using SPTarkov.Server.Core.Services.Image;
+using SPTarkov.Server.Core.Utils;
+using System.Collections.Generic;
+using System.Reflection;
+using System.Threading.Tasks;
 using WTTContentBackport.Helpers;
 using WTTContentBackport.Patches;
 using WTTServerCommonLib.Models;
@@ -34,7 +40,14 @@ public record ModMetadata : AbstractModMetadata
 
 [Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 2)]
 public class WTTContentBackport(
-    WTTServerCommonLib.WTTServerCommonLib wttCommon, BackportQuestHelper backportQuestHelper, BackportJunkDisabler backportJunkDisabler) : IOnLoad
+    WTTServerCommonLib.WTTServerCommonLib wttCommon,
+    BackportQuestHelper backportQuestHelper,
+    BackportJunkDisabler backportJunkDisabler,
+    ItemHelper itemHelper,
+    RandomUtil randomUtil,
+    ServerLocalisationService localisationService,
+    ConfigServer configServer,
+    ISptLogger<WTTContentBackport> logger) : IOnLoad
 {
     public async Task OnLoad()
     {
@@ -51,6 +64,13 @@ public class WTTContentBackport(
         await wttCommon.CustomQuestItemService.CreateCustomQuestItems(assembly);
         await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
         //new AddCustomisationUnlocksToProfilePatch().Enable();
+        var traderConfig = configServer.GetConfig<TraderConfig>();
+        new FixFencePresetsPatch(
+            itemHelper,
+            randomUtil,
+            localisationService,
+            logger,
+            traderConfig).Enable();
         backportQuestHelper.ModifyQuests();
         backportJunkDisabler.AddDogtagsToPmCs();
         backportJunkDisabler.AddItemsToRewardItemBlacklist();

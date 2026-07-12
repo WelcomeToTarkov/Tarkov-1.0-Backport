@@ -57,6 +57,7 @@ public class AllTheClothesCommand(
         profile.AddCustomisations(civilianVoices, "voice", CustomisationSource.DEFAULT);
         profile.AddCustomisations(blackDivisionVoices, "voice", CustomisationSource.DEFAULT);
         profile.AddCustomisations(ruafVoices, "voice", CustomisationSource.DEFAULT);
+        profile.AddCustomisation("69c68f1a8f75eda7610edac4", "voice", CustomisationSource.DEFAULT);
         mailSendService.SendUserMessageToPlayer(sessionId, commandHandler, $"This REQUIRES a main menu refresh/reload in order to receive the achievement and unlock the Clothing");
         mailSendService.SendUserMessageToPlayer(sessionId, commandHandler, $"This REQUIRES a full game restart in order to see the new Head and Voice options.");
         return new ValueTask<string>(request.DialogId);

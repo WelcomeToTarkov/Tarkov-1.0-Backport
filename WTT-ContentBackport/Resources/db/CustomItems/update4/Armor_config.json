@@ -25,7 +25,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -454,7 +454,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -965,7 +965,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -1208,7 +1208,7 @@
                 "Filter": [
                   "69d42a54fe02b60eed07a3cb"
                 ],
-                "Plate": "69d42a54fe02b60eed07a3cb",
+                "Plate": "",
                 "armorColliders": [
                   "LeftSideChestDown"
                 ],
@@ -1417,7 +1417,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
