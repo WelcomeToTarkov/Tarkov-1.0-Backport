@@ -529,7 +529,7 @@
                 "Filter": [
                   "69d42a54fe02b60eed07a3cb"
                 ],
-                "Plate": "",
+                "Plate": "69d42a54fe02b60eed07a3cb",
                 "armorColliders": [
                   "LeftSideChestDown"
                 ],
@@ -1365,7 +1365,7 @@
                   "64afdb577bb3bfe8fe03fd1d",
                   "64afd81707e2cf40e903a316"
                 ],
-                "Plate": "",
+                "Plate": "64afd81707e2cf40e903a316",
                 "armorColliders": [],
                 "armorPlateColliders": [
                   "Plate_Granit_SSAPI_side_left_high"
@@ -1391,7 +1391,7 @@
                   "64afdb577bb3bfe8fe03fd1d",
                   "64afd81707e2cf40e903a316"
                 ],
-                "Plate": "",
+                "Plate": "64afd81707e2cf40e903a316",
                 "armorColliders": [],
                 "armorPlateColliders": [
                   "Plate_Granit_SSAPI_side_right_high"
@@ -3100,7 +3100,7 @@
                   "64afdb577bb3bfe8fe03fd1d",
                   "64afd81707e2cf40e903a316"
                 ],
-                "Plate": "",
+                "Plate": "64afd81707e2cf40e903a316",
                 "armorColliders": [],
                 "armorPlateColliders": [
                   "Plate_Granit_SSAPI_side_left_high"
@@ -3126,7 +3126,7 @@
                   "64afdb577bb3bfe8fe03fd1d",
                   "64afd81707e2cf40e903a316"
                 ],
-                "Plate": "",
+                "Plate": "64afd81707e2cf40e903a316",
                 "armorColliders": [],
                 "armorPlateColliders": [
                   "Plate_Granit_SSAPI_side_right_high"
@@ -4188,7 +4188,7 @@
                   "64afdb577bb3bfe8fe03fd1d",
                   "64afd81707e2cf40e903a316"
                 ],
-                "Plate": "",
+                "Plate": "64afd81707e2cf40e903a316",
                 "armorColliders": [],
                 "armorPlateColliders": [
                   "Plate_Granit_SSAPI_side_left_high"
@@ -4214,7 +4214,7 @@
                   "64afdb577bb3bfe8fe03fd1d",
                   "64afd81707e2cf40e903a316"
                 ],
-                "Plate": "",
+                "Plate": "64afd81707e2cf40e903a316",
                 "armorColliders": [],
                 "armorPlateColliders": [
                   "Plate_Granit_SSAPI_side_right_high"
@@ -6080,7 +6080,7 @@
                   "64afdb577bb3bfe8fe03fd1d",
                   "64afd81707e2cf40e903a316"
                 ],
-                "Plate": "",
+                "Plate": "64afd81707e2cf40e903a316",
                 "armorColliders": [],
                 "armorPlateColliders": [
                   "Plate_Granit_SSAPI_side_left_high"
@@ -6106,7 +6106,7 @@
                   "64afdb577bb3bfe8fe03fd1d",
                   "64afd81707e2cf40e903a316"
                 ],
-                "Plate": "",
+                "Plate": "64afd81707e2cf40e903a316",
                 "armorColliders": [],
                 "armorPlateColliders": [
                   "Plate_Granit_SSAPI_side_right_high"
@@ -6342,6 +6342,18 @@
             "_tpl": "656fa0fb498d1b7e3e071d9c",
             "parentId": "69d117d1b3bbe10c0d049553",
             "slotId": "Back_plate"
+          },
+          {
+            "_id": "6a493419c3edc09aa54f6f14",
+            "_tpl": "64afd81707e2cf40e903a316",
+            "parentId": "69d117d1b3bbe10c0d049553",
+            "slotId": "Left_side_plate"
+          },
+          {
+            "_id": "6a49341a97e36fd1304f6f15",
+            "_tpl": "64afd81707e2cf40e903a316",
+            "parentId": "69d117d1b3bbe10c0d049553",
+            "slotId": "Right_side_plate"
           }
         ],
         "_encyclopedia": "69cfff99cb69530af90a8279"
