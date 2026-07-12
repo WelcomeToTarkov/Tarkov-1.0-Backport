@@ -25,7 +25,7 @@
       "InsuranceDisabled": true,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": true,
       "IsUnbuyable": true,
@@ -77,6 +77,7 @@
     "handbookPriceRoubles": 0,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
+    "registerInHandbook": false,
     "staticLootContainers": [],
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
@@ -122,7 +123,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": true,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -172,6 +173,7 @@
     "modSlot": [],
     "fleaPriceRoubles": 0,
     "handbookPriceRoubles": 1,
+    "registerInHandbook": false,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
