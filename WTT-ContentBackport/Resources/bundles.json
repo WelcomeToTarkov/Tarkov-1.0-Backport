@@ -1950,6 +1950,10 @@
       ]
     },
     {
+      "key": "assets/content/items/barter/item_equipment_headset_comtac_6_black_bp03/item_equipment_headset_comtac_6_black_bp03_d.bundle",
+      "dependencyKeys": []
+    },
+    {
       "key": "assets/content/items/barter/item_equipment_headset_comtac_6_black_bp03/item_equipment_headset_comtac_6_black_bp03_exfil.bundle",
       "dependencyKeys": [
         "cubemaps",
@@ -1966,6 +1970,10 @@
         "shaders",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
+    },
+    {
+      "key": "assets/content/items/barter/item_equipment_headset_comtac_6_black_bp03/item_equipment_headset_comtac_6_green_bp03_d.bundle",
+      "dependencyKeys": []
     },
     {
       "key": "assets/content/items/barter/item_equipment_headset_comtac_6_black_bp03/item_equipment_headset_comtac_6_green_bp03_exfil.bundle",
@@ -7037,17 +7045,11 @@
     {
       "key": "assets/content/weapons/saiga12/weapon_kiba_saiga12k_10_champ_12g_container.bundle",
       "dependencyKeys": [
-        "assets/systems/effects/smoke.bundle",
         "cubemaps",
-        "shaders",
-        "assets/commonassets/physics/physicsmaterials.bundle",
-        "assets/systems/effects/heathaze/defaultheathaze.bundle",
-        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
         "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-        "assets/content/weapons/saiga12/weapon_kiba_saiga12k_fa_12g_container.bundle",
-        "assets/content/audio/weapons/saiga12.bundle",
-        "assets/content/audio/weapons/generic",
-        "assets/content/audio/weapons/ak74.bundle",
+        "shaders",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
         "assets/content/audio/blendoptions/assets.bundle"
       ]
     },
