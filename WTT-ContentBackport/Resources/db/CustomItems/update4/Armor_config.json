@@ -1208,7 +1208,7 @@
                 "Filter": [
                   "69d42a54fe02b60eed07a3cb"
                 ],
-                "Plate": "",
+                "Plate": "69d42a54fe02b60eed07a3cb",
                 "armorColliders": [
                   "LeftSideChestDown"
                 ],
